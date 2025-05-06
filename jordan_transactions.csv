@@ -1,0 +1,1753 @@
+transaction_id,mall_name,branch_name,transaction_date,tax_amount,transaction_amount,transaction_type,transaction_status
+JO-2504-4466-34760,Z Mall,Z Mall Al Bayader,20/04/2025 20:55,0.152,2.052,Sale,Failed
+JO-2504-8444-31356,C Mall,C Mall Amman,20/04/2025 20:37,0.152,2.052,Sale,Failed
+JO-2504-3064-71649,Z Mall,Z Mall Gardens,20/04/2025 20:09,0.152,2.052,Sale,Failed
+JO-2504-2507-64030,Y Mall,Y Mall Tla'a Al-Ali,17/04/2025 7:03,0.152,2.052,Sale,Failed
+JO-2504-1155-35357,C Mall,C Mall Irbid,13/04/2025 6:38,0.07,1.12,Sale,Failed
+JO-2504-9356-34850,Z Mall,Z Mall Al Jubeiha,12/04/2025 20:04,0.0035,0.0535,Sale,Failed
+JO-2504-5116-65058,Z Mall,Z Mall Al Bayader,29/03/2025 21:17,0.06,0.8,Sale,Failed
+JO-2504-8072-48225,Y Mall,Y Mall Shmeisani,25/02/2025 10:19,0.24,3.27,Sale,Failed
+JO-2504-7586-81795,Y Mall,Y Mall Tla'a Al-Ali,16/02/2025 19:23,0.38,5.11,Sale,Failed
+JO-2504-6847-49531,Z Mall,Z Mall Al Jubeiha,16/02/2025 19:15,1.5,20.3,Sale,Failed
+JO-2504-4082-29961,Y Mall,Y Mall Dabouq,16/02/2025 19:09,2.52,33.96,Sale,Failed
+JO-2504-2923-58291,C Mall,C Mall Irbid,16/02/2025 19:04,0.05,0.68,Sale,Failed
+JO-2504-4535-85980,C Mall,C Mall Amman,16/02/2025 17:47,0.41,5.56,Sale,Failed
+JO-2504-8511-73742,C Mall,C Mall Irbid,16/02/2025 17:25,1.32,17.86,Sale,Failed
+JO-2504-2185-69867,Y Mall,Y Mall Tla'a Al-Ali,16/02/2025 17:17,0.66,8.96,Sale,Failed
+JO-2504-5174-36943,Z Mall,Z Mall Gardens,16/02/2025 16:45,0.06,0.8,Sale,Failed
+JO-2504-7313-88510,Z Mall,Z Mall Al Jubeiha,16/02/2025 16:18,0.56,7.49,Sale,Failed
+JO-2504-8951-16361,Z Mall,Z Mall Al Bayader,16/02/2025 15:54,0.66,8.96,Sale,Failed
+JO-2504-9668-67355,Y Mall,Y Mall Dabouq,16/02/2025 15:29,0.06,0.8,Sale,Failed
+JO-2504-6740-70282,Y Mall,Y Mall Tla'a Al-Ali,16/02/2025 15:05,0.48,6.55,Sale,Failed
+JO-2504-9288-95055,Y Mall,Y Mall Tla'a Al-Ali,16/02/2025 15:04,0.36,4.77,Sale,Failed
+JO-2504-5110-62917,Y Mall,Y Mall Tla'a Al-Ali,16/02/2025 15:02,0.24,3.27,Sale,Failed
+JO-2504-1180-93019,Z Mall,Z Mall Gardens,16/02/2025 14:57,0.24,3.27,Sale,Failed
+JO-2504-2583-55476,Z Mall,Z Mall Gardens,16/02/2025 14:54,0.24,3.27,Sale,Failed
+JO-2504-3075-52878,Y Mall,Y Mall Shmeisani,16/02/2025 14:40,1.39,18.58,Sale,Failed
+JO-2504-9995-21342,Z Mall,Z Mall Al Jubeiha,16/02/2025 14:37,0.47,6.4,Sale,Failed
+JO-2504-7179-15984,C Mall,C Mall Aqaba,16/02/2025 14:29,0.25,3.4,Sale,Failed
+JO-2504-7023-65089,Y Mall,Y Mall Dabouq,16/02/2025 14:09,1.8,24.38,Sale,Failed
+JO-2504-9504-95095,Y Mall,Y Mall Shmeisani,16/02/2025 13:28,0.41,5.45,Sale,Failed
+JO-2504-8178-32606,Z Mall,Z Mall Gardens,16/02/2025 13:26,0.46,6.24,Sale,Failed
+JO-2504-8492-24504,Z Mall,Z Mall Gardens,16/02/2025 13:21,0.72,9.82,Sale,Failed
+JO-2504-9260-90035,C Mall,C Mall Amman,16/02/2025 13:11,0.24,3.27,Sale,Failed
+JO-2504-9374-96459,Y Mall,Y Mall Tla'a Al-Ali,16/02/2025 13:04,0.37,4.91,Sale,Failed
+JO-2504-4640-85130,Y Mall,Y Mall Shmeisani,16/02/2025 12:15,0.48,6.55,Sale,Failed
+JO-2504-6613-24121,Y Mall,Y Mall Dabouq,16/02/2025 12:15,0.24,3.27,Sale,Failed
+JO-2504-4996-72918,C Mall,C Mall Aqaba,16/02/2025 12:12,0.24,3.27,Sale,Failed
+JO-2504-4490-89991,Z Mall,Z Mall Al Bayader,16/02/2025 11:50,0.66,8.96,Sale,Failed
+JO-2504-2201-10335,Y Mall,Y Mall Tla'a Al-Ali,16/02/2025 11:43,0.28,3.8,Sale,Failed
+JO-2504-2585-27520,C Mall,C Mall Irbid,16/02/2025 11:42,0.28,3.8,Sale,Failed
+JO-2504-2189-92656,C Mall,C Mall Irbid,16/02/2025 11:24,0.25,3.4,Sale,Failed
+JO-2504-6453-56419,C Mall,C Mall Irbid,16/02/2025 10:42,0.24,3.27,Sale,Failed
+JO-2504-7427-57136,Z Mall,Z Mall Gardens,16/02/2025 10:20,0.66,8.96,Sale,Failed
+JO-2504-2200-76230,Z Mall,Z Mall Gardens,16/02/2025 10:07,0.24,3.27,Sale,Failed
+JO-2504-6110-80081,C Mall,C Mall Aqaba,16/02/2025 9:48,1.31,17.8,Sale,Failed
+JO-2504-7743-51682,C Mall,C Mall Amman,16/02/2025 9:19,0.7,9.52,Sale,Failed
+JO-2504-6952-52415,Z Mall,Z Mall Al Bayader,15/02/2025 20:46,1.26,17.01,Sale,Failed
+JO-2504-4804-72665,C Mall,C Mall Amman,15/02/2025 18:55,0.66,8.96,Sale,Failed
+JO-2504-4946-35671,C Mall,C Mall Amman,15/02/2025 18:09,0.59,7.89,Sale,Failed
+JO-2504-7774-42518,Y Mall,Y Mall Tla'a Al-Ali,15/02/2025 17:47,0.66,8.96,Sale,Failed
+JO-2504-8507-62212,Z Mall,Z Mall Gardens,15/02/2025 16:45,0.72,9.75,Sale,Failed
+JO-2504-6769-99828,Z Mall,Z Mall Al Bayader,15/02/2025 16:44,0.66,8.96,Sale,Failed
+JO-2504-5702-62970,Z Mall,Z Mall Al Bayader,15/02/2025 16:33,0.66,8.96,Sale,Failed
+JO-2504-8222-61678,Z Mall,Z Mall Al Bayader,15/02/2025 16:25,0.24,3.27,Sale,Failed
+JO-2504-6716-53055,Y Mall,Y Mall Shmeisani,15/02/2025 16:21,0.29,3.9,Sale,Failed
+JO-2504-6587-52273,C Mall,C Mall Amman,15/02/2025 16:16,1.6,21.55,Sale,Failed
+JO-2504-7892-68203,C Mall,C Mall Aqaba,15/02/2025 16:14,0.25,3.4,Sale,Completed
+JO-2504-9682-23048,C Mall,C Mall Amman,15/02/2025 16:13,0.24,3.27,Sale,Completed
+JO-2504-1616-31930,C Mall,C Mall Aqaba,15/02/2025 16:12,0.87,11.71,Sale,Completed
+JO-2504-3551-21696,Z Mall,Z Mall Gardens,15/02/2025 16:09,1.16,15.65,Sale,Completed
+JO-2504-2639-31037,Z Mall,Z Mall Al Bayader,15/02/2025 16:03,0.16,2.16,Sale,Completed
+JO-2504-8048-49321,C Mall,C Mall Amman,15/02/2025 15:52,0.35,4.68,Sale,Completed
+JO-2504-9702-31670,Z Mall,Z Mall Al Jubeiha,15/02/2025 15:52,1.24,16.68,Sale,Completed
+JO-2504-9370-85671,C Mall,C Mall Irbid,15/02/2025 15:36,0.66,8.96,Sale,Completed
+JO-2504-3090-52986,Z Mall,Z Mall Al Jubeiha,15/02/2025 15:24,0.24,3.27,Sale,Completed
+JO-2504-3858-69497,C Mall,C Mall Amman,15/02/2025 15:02,0.6,8.11,Sale,Completed
+JO-2504-2700-15540,C Mall,C Mall Aqaba,15/02/2025 14:44,0.42,5.72,Sale,Completed
+JO-2504-5493-42425,C Mall,C Mall Irbid,15/02/2025 14:34,0.42,5.72,Sale,Completed
+JO-2504-7222-35079,C Mall,C Mall Amman,15/02/2025 14:31,0.24,3.27,Sale,Completed
+JO-2504-7842-43008,Z Mall,Z Mall Al Jubeiha,15/02/2025 14:29,0.66,8.96,Sale,Completed
+JO-2504-8494-62254,C Mall,C Mall Amman,15/02/2025 14:25,0.72,9.82,Sale,Completed
+JO-2504-2905-98654,Y Mall,Y Mall Dabouq,15/02/2025 14:18,0.75,10.01,Sale,Completed
+JO-2504-8607-38748,C Mall,C Mall Amman,15/02/2025 14:15,0.24,3.27,Sale,Completed
+JO-2504-7058-82438,Z Mall,Z Mall Gardens,15/02/2025 14:13,0.27,3.68,Sale,Completed
+JO-2504-9319-91097,C Mall,C Mall Irbid,15/02/2025 13:58,0.24,3.27,Sale,Completed
+JO-2504-8846-88305,Y Mall,Y Mall Tla'a Al-Ali,15/02/2025 13:51,0.25,3.4,Sale,Completed
+JO-2504-8846-90693,C Mall,C Mall Aqaba,15/02/2025 13:49,0.66,8.96,Sale,Completed
+JO-2504-7795-30480,C Mall,C Mall Aqaba,15/02/2025 13:45,0.48,6.55,Sale,Completed
+JO-2504-8475-25372,C Mall,C Mall Amman,15/02/2025 13:40,1.44,19.4,Sale,Completed
+JO-2504-5531-87191,Z Mall,Z Mall Al Jubeiha,15/02/2025 13:16,0.24,3.27,Sale,Completed
+JO-2504-2467-45264,C Mall,C Mall Amman,15/02/2025 13:15,0.37,4.91,Sale,Completed
+JO-2504-7838-43166,Z Mall,Z Mall Al Jubeiha,15/02/2025 12:58,1.43,19.18,Sale,Completed
+JO-2504-4661-86469,Y Mall,Y Mall Shmeisani,15/02/2025 12:56,0.24,3.27,Sale,Completed
+JO-2504-2599-70403,C Mall,C Mall Aqaba,15/02/2025 12:47,0.6,8.11,Sale,Completed
+JO-2504-4128-15689,Z Mall,Z Mall Gardens,15/02/2025 12:46,0.48,6.57,Sale,Completed
+JO-2504-3716-45839,Z Mall,Z Mall Al Jubeiha,15/02/2025 12:40,0.97,13.11,Sale,Completed
+JO-2504-6970-65197,Z Mall,Z Mall Al Jubeiha,15/02/2025 12:32,0.24,3.27,Sale,Completed
+JO-2504-1316-84768,C Mall,C Mall Irbid,15/02/2025 12:31,0.48,6.55,Sale,Completed
+JO-2504-8618-83513,Z Mall,Z Mall Al Jubeiha,15/02/2025 12:24,0.48,6.55,Sale,Completed
+JO-2504-3937-82590,C Mall,C Mall Irbid,15/02/2025 12:17,1.04,14.06,Sale,Completed
+JO-2504-6437-23445,C Mall,C Mall Aqaba,15/02/2025 12:06,0.66,8.96,Sale,Completed
+JO-2504-6073-58323,Y Mall,Y Mall Tla'a Al-Ali,15/02/2025 11:55,0.24,3.27,Sale,Completed
+JO-2504-5112-21357,Y Mall,Y Mall Tla'a Al-Ali,15/02/2025 11:52,0.11,1.48,Sale,Completed
+JO-2504-1688-68563,C Mall,C Mall Aqaba,15/02/2025 11:51,0.82,11.06,Sale,Completed
+JO-2504-7292-13979,Y Mall,Y Mall Shmeisani,15/02/2025 11:43,0.66,8.96,Sale,Completed
+JO-2504-8212-57252,Z Mall,Z Mall Gardens,15/02/2025 11:40,0.24,3.27,Sale,Completed
+JO-2504-5844-27764,C Mall,C Mall Amman,15/02/2025 11:39,2.2,29.78,Sale,Completed
+JO-2504-8737-35940,Y Mall,Y Mall Dabouq,15/02/2025 11:27,0.78,10.55,Sale,Completed
+JO-2504-3409-45333,Z Mall,Z Mall Gardens,15/02/2025 11:25,1.96,26.64,Sale,Completed
+JO-2504-2599-57605,C Mall,C Mall Amman,15/02/2025 11:13,0.11,1.58,Sale,Completed
+JO-2504-7509-88148,Z Mall,Z Mall Al Bayader,15/02/2025 11:09,0.66,8.96,Sale,Completed
+JO-2504-6977-65681,C Mall,C Mall Irbid,15/02/2025 11:07,0.48,6.57,Sale,Completed
+JO-2504-4726-21747,C Mall,C Mall Amman,15/02/2025 11:00,0.41,5.45,Sale,Completed
+JO-2504-8393-77022,Z Mall,Z Mall Gardens,15/02/2025 10:59,0.74,9.93,Sale,Completed
+JO-2504-9860-60498,Z Mall,Z Mall Al Bayader,15/02/2025 10:48,0.34,4.54,Sale,Completed
+JO-2504-6156-59042,Z Mall,Z Mall Al Bayader,15/02/2025 10:06,0.28,3.8,Sale,Completed
+JO-2504-7670-22827,C Mall,C Mall Aqaba,14/02/2025 20:16,1.2,16.32,Sale,Completed
+JO-2504-6109-88674,Z Mall,Z Mall Al Jubeiha,14/02/2025 18:32,0.34,4.51,Sale,Completed
+JO-2504-5023-71335,C Mall,C Mall Irbid,14/02/2025 18:09,0.7,9.47,Sale,Completed
+JO-2504-8583-97759,Z Mall,Z Mall Gardens,14/02/2025 17:58,1.32,17.91,Sale,Completed
+JO-2504-9561-75413,C Mall,C Mall Aqaba,14/02/2025 17:40,0.26,3.57,Sale,Completed
+JO-2504-3437-26157,C Mall,C Mall Irbid,14/02/2025 17:38,1.03,13.81,Sale,Completed
+JO-2504-4109-40268,C Mall,C Mall Amman,14/02/2025 17:31,0.75,10.01,Sale,Completed
+JO-2504-4740-75621,C Mall,C Mall Irbid,14/02/2025 17:25,0.06,0.8,Sale,Completed
+JO-2504-1017-89424,Y Mall,Y Mall Shmeisani,14/02/2025 17:14,0.43,5.83,Sale,Completed
+JO-2504-1342-63314,C Mall,C Mall Amman,14/02/2025 17:13,0.65,8.79,Sale,Completed
+JO-2504-4860-47705,Z Mall,Z Mall Al Jubeiha,14/02/2025 17:12,0.27,3.68,Sale,Completed
+JO-2504-6577-30703,Z Mall,Z Mall Gardens,14/02/2025 17:06,0.24,3.27,Sale,Completed
+JO-2504-8144-77245,Z Mall,Z Mall Al Bayader,14/02/2025 17:06,1.32,17.91,Sale,Completed
+JO-2504-4675-61460,Z Mall,Z Mall Al Jubeiha,14/02/2025 17:00,0.32,4.21,Sale,Completed
+JO-2504-5557-13588,C Mall,C Mall Irbid,14/02/2025 16:46,0.66,8.96,Sale,Completed
+JO-2504-4359-41854,Y Mall,Y Mall Dabouq,14/02/2025 16:34,0.25,3.4,Sale,Completed
+JO-2504-3495-47927,Z Mall,Z Mall Al Bayader,14/02/2025 16:22,0.56,7.49,Sale,Completed
+JO-2504-8222-50078,Y Mall,Y Mall Shmeisani,14/02/2025 16:17,1.35,18.31,Sale,Completed
+JO-2504-8974-64304,Z Mall,Z Mall Al Bayader,14/02/2025 15:58,0.69,9.3,Sale,Completed
+JO-2504-2599-62488,C Mall,C Mall Irbid,14/02/2025 15:38,0.24,3.27,Sale,Completed
+JO-2504-3264-71889,C Mall,C Mall Aqaba,14/02/2025 15:37,0.66,8.96,Sale,Completed
+JO-2504-9630-98982,Z Mall,Z Mall Gardens,14/02/2025 15:24,0.66,8.9,Sale,Completed
+JO-2504-5390-24047,Z Mall,Z Mall Al Bayader,14/02/2025 15:20,1.32,17.91,Sale,Completed
+JO-2504-7394-74052,Z Mall,Z Mall Al Bayader,14/02/2025 15:18,0.66,8.96,Sale,Completed
+JO-2504-9940-10750,Y Mall,Y Mall Tla'a Al-Ali,14/02/2025 15:15,0.49,6.58,Sale,Completed
+JO-2504-3318-96915,Y Mall,Y Mall Shmeisani,14/02/2025 15:12,0.66,8.96,Sale,Completed
+JO-2504-3586-24920,Y Mall,Y Mall Tla'a Al-Ali,14/02/2025 15:10,0.47,6.4,Sale,Completed
+JO-2504-8400-77428,Y Mall,Y Mall Shmeisani,14/02/2025 15:05,1.81,24.49,Refund,Completed
+JO-2504-1286-33921,Z Mall,Z Mall Al Jubeiha,14/02/2025 15:01,0.48,6.55,Refund,Completed
+JO-2504-9589-46197,C Mall,C Mall Amman,14/02/2025 15:00,1.07,14.51,Refund,Completed
+JO-2504-1586-41724,Y Mall,Y Mall Shmeisani,14/02/2025 14:56,0.42,5.57,Sale,Completed
+JO-2504-4795-25353,Z Mall,Z Mall Gardens,14/02/2025 14:53,1.32,17.91,Sale,Completed
+JO-2504-9406-55708,C Mall,C Mall Amman,14/02/2025 14:50,0.72,9.75,Sale,Completed
+JO-2504-2567-55370,Z Mall,Z Mall Al Jubeiha,14/02/2025 14:47,0.75,10.01,Sale,Completed
+JO-2504-5929-83210,C Mall,C Mall Irbid,14/02/2025 14:43,0.99,13.38,Sale,Completed
+JO-2504-8878-95880,C Mall,C Mall Amman,14/02/2025 14:42,0.24,3.27,Sale,Completed
+JO-2504-7840-15183,C Mall,C Mall Amman,14/02/2025 14:41,1.78,24.09,Sale,Completed
+JO-2504-3750-30240,C Mall,C Mall Amman,14/02/2025 14:31,0.41,5.56,Sale,Completed
+JO-2504-4264-61093,C Mall,C Mall Amman,14/02/2025 14:29,0.66,8.96,Sale,Completed
+JO-2504-1358-16737,Z Mall,Z Mall Gardens,14/02/2025 14:26,0.24,3.27,Sale,Completed
+JO-2504-6357-11634,C Mall,C Mall Amman,14/02/2025 14:23,0.24,3.27,Sale,Completed
+JO-2504-2021-71854,Y Mall,Y Mall Shmeisani,14/02/2025 14:21,0.24,3.27,Sale,Completed
+JO-2504-8301-94917,C Mall,C Mall Irbid,14/02/2025 14:20,1.32,17.91,Sale,Completed
+JO-2504-8185-13245,Y Mall,Y Mall Dabouq,14/02/2025 14:13,0.84,11.34,Sale,Completed
+JO-2504-8362-88108,Z Mall,Z Mall Gardens,14/02/2025 13:58,0.94,12.75,Sale,Completed
+JO-2504-6420-11737,C Mall,C Mall Irbid,14/02/2025 13:33,1.36,18.38,Sale,Completed
+JO-2504-2779-81383,C Mall,C Mall Aqaba,14/02/2025 13:27,0.66,8.96,Sale,Completed
+JO-2504-8913-70702,C Mall,C Mall Irbid,14/02/2025 13:22,0.24,3.27,Sale,Completed
+JO-2504-9134-90233,C Mall,C Mall Amman,14/02/2025 13:21,0.34,4.54,Sale,Completed
+JO-2504-6710-85117,Z Mall,Z Mall Gardens,14/02/2025 13:07,0.66,8.9,Sale,Completed
+JO-2504-5923-13257,Y Mall,Y Mall Dabouq,14/02/2025 13:05,0.16,2.16,Sale,Completed
+JO-2504-4027-85980,Z Mall,Z Mall Al Jubeiha,14/02/2025 12:36,0.66,8.96,Sale,Completed
+JO-2504-1813-75700,Z Mall,Z Mall Al Jubeiha,14/02/2025 12:22,0.5,6.8,Sale,Completed
+JO-2504-1438-73465,Y Mall,Y Mall Shmeisani,14/02/2025 12:19,0.36,4.88,Sale,Completed
+JO-2504-3395-84082,Y Mall,Y Mall Dabouq,14/02/2025 12:16,0.66,8.96,Sale,Completed
+JO-2504-9058-10286,C Mall,C Mall Amman,14/02/2025 12:09,0.24,3.27,Sale,Completed
+JO-2504-4215-75277,Y Mall,Y Mall Tla'a Al-Ali,14/02/2025 12:08,0.6,8.11,Sale,Completed
+JO-2504-7457-28704,Z Mall,Z Mall Gardens,14/02/2025 12:07,0.24,3.27,Sale,Completed
+JO-2504-6392-62925,Y Mall,Y Mall Shmeisani,14/02/2025 11:25,0.41,5.45,Sale,Completed
+JO-2504-2988-84087,Z Mall,Z Mall Al Jubeiha,14/02/2025 11:14,0.66,8.9,Sale,Completed
+JO-2504-8258-54031,Z Mall,Z Mall Al Jubeiha,14/02/2025 10:56,0.24,3.27,Sale,Completed
+JO-2504-7499-43916,C Mall,C Mall Aqaba,14/02/2025 10:55,1.41,19.05,Sale,Completed
+JO-2504-2622-68382,C Mall,C Mall Aqaba,13/02/2025 18:33,0.72,9.82,Sale,Completed
+JO-2504-1518-53542,Y Mall,Y Mall Shmeisani,13/02/2025 18:23,0.51,6.92,Sale,Completed
+JO-2504-1286-59974,C Mall,C Mall Amman,13/02/2025 18:21,0.24,3.27,Sale,Completed
+JO-2504-3302-80235,Z Mall,Z Mall Gardens,13/02/2025 18:18,0.75,10.01,Sale,Completed
+JO-2504-6483-70827,Z Mall,Z Mall Gardens,13/02/2025 17:42,0.11,1.58,Sale,Completed
+JO-2504-2245-11639,Z Mall,Z Mall Gardens,13/02/2025 17:22,0.05,0.68,Sale,Completed
+JO-2504-3151-98110,C Mall,C Mall Aqaba,13/02/2025 17:21,0.54,7.26,Sale,Completed
+JO-2504-3510-93044,Y Mall,Y Mall Dabouq,13/02/2025 17:10,1.21,16.33,Sale,Completed
+JO-2504-1162-31373,Z Mall,Z Mall Al Jubeiha,13/02/2025 16:39,0.43,5.83,Sale,Completed
+JO-2504-9488-16250,Y Mall,Y Mall Dabouq,13/02/2025 16:38,0.66,8.96,Sale,Completed
+JO-2504-6985-57333,Y Mall,Y Mall Tla'a Al-Ali,13/02/2025 16:30,0.47,6.4,Sale,Completed
+JO-2504-6137-88014,C Mall,C Mall Irbid,13/02/2025 16:18,0.27,3.68,Sale,Completed
+JO-2504-4255-70707,C Mall,C Mall Aqaba,13/02/2025 16:09,0.11,1.58,Sale,Completed
+JO-2504-7399-29324,C Mall,C Mall Amman,13/02/2025 15:48,0.24,3.27,Sale,Completed
+JO-2504-5650-50429,Y Mall,Y Mall Dabouq,13/02/2025 15:44,0.63,8.53,Sale,Completed
+JO-2504-5319-16111,Z Mall,Z Mall Al Jubeiha,13/02/2025 15:39,0.24,3.27,Sale,Completed
+JO-2504-7689-65262,C Mall,C Mall Amman,13/02/2025 15:29,0.22,3.16,Sale,Completed
+JO-2504-6002-48797,Z Mall,Z Mall Al Bayader,13/02/2025 15:10,0.24,3.27,Sale,Completed
+JO-2504-3684-38127,Z Mall,Z Mall Al Bayader,13/02/2025 15:02,0.24,3.27,Sale,Completed
+JO-2504-4287-85938,Z Mall,Z Mall Gardens,13/02/2025 14:47,0.41,5.45,Sale,Completed
+JO-2504-3238-36890,C Mall,C Mall Amman,13/02/2025 14:12,0.24,3.27,Sale,Completed
+JO-2504-7519-11819,C Mall,C Mall Irbid,13/02/2025 14:07,0.24,3.27,Sale,Completed
+JO-2504-5190-61663,C Mall,C Mall Irbid,13/02/2025 14:04,0.24,3.27,Sale,Completed
+JO-2504-5013-52338,Z Mall,Z Mall Gardens,13/02/2025 13:49,0.36,4.77,Sale,Completed
+JO-2504-4241-28675,Y Mall,Y Mall Tla'a Al-Ali,13/02/2025 13:48,0.66,8.96,Sale,Completed
+JO-2504-2534-55796,Y Mall,Y Mall Dabouq,13/02/2025 13:47,0.66,8.9,Sale,Completed
+JO-2504-3936-45256,Y Mall,Y Mall Dabouq,13/02/2025 13:45,0.42,5.67,Sale,Completed
+JO-2504-6687-53491,Y Mall,Y Mall Dabouq,13/02/2025 13:40,0.24,3.27,Sale,Completed
+JO-2504-4005-95513,Y Mall,Y Mall Shmeisani,13/02/2025 13:39,2.8,37.87,Sale,Completed
+JO-2504-4418-49551,Z Mall,Z Mall Al Jubeiha,13/02/2025 13:25,0.48,6.55,Sale,Completed
+JO-2504-3405-51444,C Mall,C Mall Aqaba,13/02/2025 13:19,0.25,3.4,Sale,Completed
+JO-2504-5724-61596,C Mall,C Mall Irbid,13/02/2025 13:18,0.24,3.27,Sale,Completed
+JO-2504-1333-97225,Z Mall,Z Mall Al Bayader,13/02/2025 13:15,0.24,3.27,Sale,Completed
+JO-2504-9831-64358,C Mall,C Mall Irbid,13/02/2025 13:09,0.24,3.27,Sale,Completed
+JO-2504-4663-66856,Y Mall,Y Mall Dabouq,13/02/2025 13:09,0.24,3.27,Sale,Completed
+JO-2504-1168-59781,Z Mall,Z Mall Al Bayader,13/02/2025 13:07,0.48,6.55,Sale,Completed
+JO-2504-4009-15068,Z Mall,Z Mall Al Bayader,13/02/2025 12:41,0.79,10.63,Sale,Completed
+JO-2504-2686-81276,Y Mall,Y Mall Dabouq,13/02/2025 12:39,0.24,3.27,Sale,Completed
+JO-2504-3126-14694,Y Mall,Y Mall Tla'a Al-Ali,13/02/2025 12:36,0.24,3.27,Sale,Completed
+JO-2504-1423-39181,Y Mall,Y Mall Shmeisani,13/02/2025 12:25,0.72,9.82,Sale,Completed
+JO-2504-1332-99148,C Mall,C Mall Amman,13/02/2025 12:11,0.57,7.61,Sale,Failed
+JO-2504-9274-66667,Z Mall,Z Mall Gardens,13/02/2025 12:02,0.57,7.61,Sale,Failed
+JO-2504-2652-27621,Y Mall,Y Mall Dabouq,13/02/2025 11:44,0.16,2.16,Sale,Failed
+JO-2504-9269-63944,Z Mall,Z Mall Gardens,13/02/2025 11:18,0.66,8.96,Sale,Failed
+JO-2504-6543-63825,Y Mall,Y Mall Dabouq,13/02/2025 11:17,0.24,3.27,Sale,Failed
+JO-2504-1742-27726,C Mall,C Mall Irbid,13/02/2025 11:13,0.24,3.27,Sale,Failed
+JO-2504-3672-24403,Y Mall,Y Mall Shmeisani,13/02/2025 11:01,0.84,11.34,Sale,Failed
+JO-2504-9719-69755,C Mall,C Mall Irbid,12/02/2025 19:09,1.32,17.91,Sale,Failed
+JO-2504-7304-26998,Z Mall,Z Mall Gardens,12/02/2025 19:05,0.66,8.96,Sale,Failed
+JO-2504-5250-82409,Z Mall,Z Mall Al Jubeiha,12/02/2025 19:01,0.66,8.96,Sale,Failed
+JO-2504-2365-62562,Z Mall,Z Mall Gardens,12/02/2025 19:00,0.82,11.01,Sale,Failed
+JO-2504-5542-38922,Z Mall,Z Mall Al Bayader,12/02/2025 17:18,0.66,8.96,Sale,Failed
+JO-2504-6713-33177,Z Mall,Z Mall Al Jubeiha,12/02/2025 17:04,0.07,0.96,Sale,Failed
+JO-2504-1978-54206,Z Mall,Z Mall Gardens,12/02/2025 16:48,0.24,3.27,Sale,Failed
+JO-2504-8456-65365,Y Mall,Y Mall Shmeisani,12/02/2025 16:37,0.67,9.07,Sale,Failed
+JO-2504-1473-88488,Y Mall,Y Mall Tla'a Al-Ali,12/02/2025 16:36,0.87,11.79,Sale,Failed
+JO-2504-9482-53468,Y Mall,Y Mall Dabouq,12/02/2025 15:29,0.24,3.27,Sale,Failed
+JO-2504-7038-85516,C Mall,C Mall Aqaba,12/02/2025 15:26,1.32,17.91,Sale,Failed
+JO-2504-4096-28624,C Mall,C Mall Irbid,12/02/2025 15:25,0.24,3.27,Sale,Failed
+JO-2504-3991-21198,Z Mall,Z Mall Al Jubeiha,12/02/2025 15:24,0.24,3.27,Sale,Failed
+JO-2504-7342-26004,Y Mall,Y Mall Tla'a Al-Ali,12/02/2025 15:22,0.36,4.88,Sale,Failed
+JO-2504-5049-90370,Y Mall,Y Mall Dabouq,12/02/2025 15:07,0.37,4.99,Sale,Failed
+JO-2504-3135-55700,Z Mall,Z Mall Al Bayader,12/02/2025 14:33,0.66,8.96,Sale,Failed
+JO-2504-2781-81216,Z Mall,Z Mall Al Bayader,12/02/2025 14:32,0.66,8.96,Sale,Failed
+JO-2504-3083-57763,Y Mall,Y Mall Shmeisani,12/02/2025 14:22,0.25,3.4,Sale,Failed
+JO-2504-8567-62739,Y Mall,Y Mall Tla'a Al-Ali,12/02/2025 14:21,0.24,3.27,Sale,Failed
+JO-2504-5482-21247,C Mall,C Mall Aqaba,12/02/2025 14:19,0.24,3.27,Sale,Failed
+JO-2504-7736-76815,C Mall,C Mall Irbid,12/02/2025 14:10,0.66,8.96,Sale,Failed
+JO-2504-9004-43033,Y Mall,Y Mall Dabouq,12/02/2025 14:04,1.3,17.58,Sale,Failed
+JO-2504-7211-67778,Z Mall,Z Mall Gardens,12/02/2025 14:02,0.24,3.27,Sale,Failed
+JO-2504-9009-82027,Y Mall,Y Mall Tla'a Al-Ali,12/02/2025 13:55,0.24,3.27,Sale,Failed
+JO-2504-8194-71384,C Mall,C Mall Aqaba,12/02/2025 13:55,0.24,3.27,Sale,Failed
+JO-2504-1961-10227,C Mall,C Mall Aqaba,12/02/2025 13:49,0.24,3.27,Sale,Failed
+JO-2504-6501-62072,Z Mall,Z Mall Al Jubeiha,12/02/2025 13:40,1.03,13.86,Sale,Failed
+JO-2504-2007-32181,Y Mall,Y Mall Dabouq,12/02/2025 13:29,0.41,5.56,Sale,Failed
+JO-2504-7281-29209,Z Mall,Z Mall Al Jubeiha,12/02/2025 13:24,0.24,3.27,Sale,Failed
+JO-2504-3762-71708,C Mall,C Mall Aqaba,12/02/2025 13:11,0.24,3.27,Sale,Failed
+JO-2504-8578-44172,Y Mall,Y Mall Tla'a Al-Ali,12/02/2025 12:35,0.24,3.27,Sale,Failed
+JO-2504-3473-88451,Y Mall,Y Mall Tla'a Al-Ali,12/02/2025 12:34,0.24,3.27,Sale,Failed
+JO-2504-6355-80188,Y Mall,Y Mall Tla'a Al-Ali,12/02/2025 12:34,0.24,3.27,Sale,Failed
+JO-2504-7596-74234,Y Mall,Y Mall Tla'a Al-Ali,12/02/2025 12:32,0.24,3.27,Sale,Failed
+JO-2504-9347-18575,C Mall,C Mall Aqaba,12/02/2025 12:18,0.66,8.96,Sale,Failed
+JO-2504-3466-73293,C Mall,C Mall Irbid,12/02/2025 12:12,0.24,3.27,Sale,Failed
+JO-2504-4743-76092,Y Mall,Y Mall Shmeisani,12/02/2025 12:03,0.44,5.97,Sale,Failed
+JO-2504-1469-32135,Z Mall,Z Mall Al Bayader,12/02/2025 12:00,0.66,8.96,Sale,Failed
+JO-2504-8486-33087,Z Mall,Z Mall Gardens,12/02/2025 11:37,0.52,7.07,Sale,Failed
+JO-2504-7143-65336,C Mall,C Mall Irbid,12/02/2025 11:33,0.66,8.91,Sale,Failed
+JO-2504-6259-79480,Y Mall,Y Mall Tla'a Al-Ali,12/02/2025 11:15,0.24,3.27,Sale,Failed
+JO-2504-9496-66084,C Mall,C Mall Amman,12/02/2025 11:04,0.66,8.96,Sale,Failed
+JO-2504-6034-44326,Y Mall,Y Mall Tla'a Al-Ali,12/02/2025 10:59,0.72,9.82,Sale,Failed
+JO-2504-4025-87512,C Mall,C Mall Aqaba,12/02/2025 10:52,0.81,11,Sale,Failed
+JO-2504-7535-90632,C Mall,C Mall Irbid,11/02/2025 19:52,0.28,3.8,Sale,Failed
+JO-2504-1604-73290,Y Mall,Y Mall Tla'a Al-Ali,11/02/2025 17:58,1.16,15.57,Sale,Failed
+JO-2504-6959-32258,Y Mall,Y Mall Tla'a Al-Ali,11/02/2025 17:55,0.48,6.55,Sale,Failed
+JO-2504-9063-38419,Y Mall,Y Mall Dabouq,11/02/2025 17:41,0.6,8.11,Sale,Failed
+JO-2504-9439-49130,Y Mall,Y Mall Dabouq,11/02/2025 17:35,0.48,6.57,Sale,Failed
+JO-2504-2806-37877,Y Mall,Y Mall Shmeisani,11/02/2025 17:07,0.26,3.57,Sale,Failed
+JO-2504-8846-95642,Z Mall,Z Mall Gardens,11/02/2025 16:59,1.48,20.03,Sale,Failed
+JO-2504-3934-73219,C Mall,C Mall Irbid,11/02/2025 16:27,0.98,13.27,Sale,Failed
+JO-2504-4968-52900,C Mall,C Mall Amman,11/02/2025 16:13,0.36,4.88,Sale,Failed
+JO-2504-5291-12660,C Mall,C Mall Aqaba,11/02/2025 16:12,0.45,6.07,Sale,Completed
+JO-2504-8492-34817,Z Mall,Z Mall Al Bayader,11/02/2025 16:10,0.6,8.11,Sale,Completed
+JO-2504-7755-36118,C Mall,C Mall Irbid,11/02/2025 16:07,0.45,6.07,Sale,Completed
+JO-2504-8019-54113,Y Mall,Y Mall Dabouq,11/02/2025 15:50,0.24,3.27,Sale,Completed
+JO-2504-6453-83400,Z Mall,Z Mall Al Bayader,11/02/2025 15:47,0.11,1.58,Sale,Completed
+JO-2504-5823-29988,Z Mall,Z Mall Al Bayader,11/02/2025 15:33,1.32,17.91,Sale,Completed
+JO-2504-1246-66375,Z Mall,Z Mall Gardens,11/02/2025 15:31,0.25,3.4,Sale,Completed
+JO-2504-2541-38560,C Mall,C Mall Irbid,11/02/2025 15:18,0.24,3.27,Sale,Completed
+JO-2504-3154-69633,Z Mall,Z Mall Al Jubeiha,11/02/2025 15:17,1.65,22.36,Sale,Completed
+JO-2504-2485-12385,C Mall,C Mall Amman,11/02/2025 15:11,0.47,6.4,Refund,Completed
+JO-2504-3291-97273,Y Mall,Y Mall Dabouq,11/02/2025 15:07,0.24,3.27,Sale,Completed
+JO-2504-6933-71668,Y Mall,Y Mall Shmeisani,11/02/2025 14:54,0.24,3.27,Sale,Completed
+JO-2504-4467-92457,Z Mall,Z Mall Al Bayader,11/02/2025 14:49,0.66,8.96,Sale,Completed
+JO-2504-9887-49830,Y Mall,Y Mall Shmeisani,11/02/2025 14:48,0.66,8.96,Sale,Completed
+JO-2504-8236-61884,Y Mall,Y Mall Shmeisani,11/02/2025 14:06,1.59,21.54,Sale,Completed
+JO-2504-5064-26964,Y Mall,Y Mall Tla'a Al-Ali,11/02/2025 13:40,0.77,10.43,Sale,Completed
+JO-2504-9289-14932,Y Mall,Y Mall Dabouq,11/02/2025 13:39,0.66,8.96,Sale,Completed
+JO-2504-6149-43488,Z Mall,Z Mall Al Bayader,11/02/2025 13:36,0.48,6.55,Sale,Completed
+JO-2504-6822-39597,C Mall,C Mall Aqaba,11/02/2025 13:25,0.65,8.79,Sale,Completed
+JO-2504-3144-50307,C Mall,C Mall Amman,11/02/2025 13:18,0.11,1.48,Sale,Completed
+JO-2504-3124-45990,Z Mall,Z Mall Gardens,11/02/2025 12:50,0.24,3.27,Sale,Completed
+JO-2504-2187-63799,Y Mall,Y Mall Dabouq,11/02/2025 12:37,0.24,3.27,Refund,Completed
+JO-2504-3188-85833,Z Mall,Z Mall Al Jubeiha,11/02/2025 12:33,0.24,3.27,Sale,Completed
+JO-2504-8785-20696,Y Mall,Y Mall Tla'a Al-Ali,11/02/2025 12:18,0.48,6.49,Sale,Completed
+JO-2504-9245-69430,C Mall,C Mall Amman,11/02/2025 12:12,0.24,3.27,Sale,Completed
+JO-2504-2521-57834,C Mall,C Mall Irbid,11/02/2025 11:58,0.66,8.96,Sale,Completed
+JO-2504-3827-76338,Y Mall,Y Mall Tla'a Al-Ali,11/02/2025 11:54,0.7,9.47,Sale,Completed
+JO-2504-4636-68894,Y Mall,Y Mall Shmeisani,11/02/2025 11:29,0.12,1.56,Sale,Completed
+JO-2504-4544-35388,C Mall,C Mall Aqaba,11/02/2025 11:29,0.24,3.27,Sale,Completed
+JO-2504-3437-19148,Z Mall,Z Mall Al Bayader,11/02/2025 10:37,0.36,4.77,Sale,Completed
+JO-2504-1330-66509,C Mall,C Mall Aqaba,11/02/2025 10:36,0.24,3.27,Sale,Completed
+JO-2504-2929-94732,Z Mall,Z Mall Al Jubeiha,11/02/2025 10:08,0.36,4.88,Sale,Completed
+JO-2504-8080-83690,Z Mall,Z Mall Gardens,10/02/2025 18:59,2.46,33.17,Sale,Completed
+JO-2504-2288-20650,C Mall,C Mall Irbid,10/02/2025 18:15,1,13.5,Sale,Completed
+JO-2504-4379-74461,Y Mall,Y Mall Tla'a Al-Ali,10/02/2025 17:34,0.36,4.77,Sale,Completed
+JO-2504-5189-58317,Y Mall,Y Mall Tla'a Al-Ali,10/02/2025 17:33,0.82,11.01,Sale,Completed
+JO-2504-2530-18075,Y Mall,Y Mall Shmeisani,10/02/2025 17:30,0.06,0.8,Sale,Completed
+JO-2504-9892-72113,Y Mall,Y Mall Shmeisani,10/02/2025 17:22,2,26.89,Sale,Completed
+JO-2504-8231-69498,Z Mall,Z Mall Gardens,10/02/2025 17:21,0.66,8.96,Sale,Completed
+JO-2504-1788-61918,Z Mall,Z Mall Gardens,10/02/2025 17:03,0.36,4.77,Sale,Completed
+JO-2504-9357-30334,Y Mall,Y Mall Shmeisani,10/02/2025 16:48,1.66,22.45,Sale,Completed
+JO-2504-5546-16461,Z Mall,Z Mall Gardens,10/02/2025 16:39,0.56,7.49,Sale,Completed
+JO-2504-9306-74323,C Mall,C Mall Irbid,10/02/2025 16:37,1.02,13.73,Sale,Completed
+JO-2504-3408-98813,C Mall,C Mall Irbid,10/02/2025 16:24,1.32,17.91,Sale,Completed
+JO-2504-8479-61042,Y Mall,Y Mall Dabouq,10/02/2025 16:21,0.65,8.79,Sale,Completed
+JO-2504-2112-50001,Y Mall,Y Mall Dabouq,10/02/2025 16:00,0.24,3.27,Sale,Completed
+JO-2504-9109-12763,Z Mall,Z Mall Al Jubeiha,10/02/2025 15:35,0.24,3.27,Sale,Completed
+JO-2504-9345-53874,Z Mall,Z Mall Gardens,10/02/2025 15:20,0.66,8.96,Sale,Completed
+JO-2504-8927-42768,Z Mall,Z Mall Al Jubeiha,10/02/2025 15:14,1.02,13.73,Sale,Completed
+JO-2504-1382-64677,C Mall,C Mall Aqaba,10/02/2025 15:03,0.48,6.55,Sale,Completed
+JO-2504-5825-90850,C Mall,C Mall Aqaba,10/02/2025 14:52,0.71,9.74,Sale,Completed
+JO-2504-5007-30537,Y Mall,Y Mall Dabouq,10/02/2025 14:50,0.05,0.68,Sale,Completed
+JO-2504-7500-44818,Y Mall,Y Mall Tla'a Al-Ali,10/02/2025 14:50,0.66,8.96,Sale,Completed
+JO-2504-2441-87299,Y Mall,Y Mall Shmeisani,10/02/2025 14:47,0.94,12.7,Sale,Completed
+JO-2504-4890-21975,Z Mall,Z Mall Al Bayader,10/02/2025 14:30,0.66,8.96,Sale,Completed
+JO-2504-1043-52623,Z Mall,Z Mall Al Jubeiha,10/02/2025 14:30,0.66,8.96,Sale,Completed
+JO-2504-7441-82544,C Mall,C Mall Aqaba,10/02/2025 14:28,0.24,3.27,Sale,Completed
+JO-2504-7671-94612,C Mall,C Mall Irbid,10/02/2025 14:27,0.24,3.27,Sale,Completed
+JO-2504-1467-45512,Z Mall,Z Mall Al Bayader,10/02/2025 14:26,0.28,3.8,Sale,Completed
+JO-2504-1047-75689,Y Mall,Y Mall Tla'a Al-Ali,10/02/2025 14:25,0.24,3.27,Sale,Completed
+JO-2504-3520-22238,Y Mall,Y Mall Shmeisani,10/02/2025 14:24,0.48,6.55,Sale,Completed
+JO-2504-4632-30854,C Mall,C Mall Aqaba,10/02/2025 14:23,0.5,6.75,Sale,Completed
+JO-2504-4764-47135,Y Mall,Y Mall Tla'a Al-Ali,10/02/2025 14:19,0.65,8.79,Sale,Completed
+JO-2504-4833-64502,Y Mall,Y Mall Shmeisani,10/02/2025 14:12,1.32,17.91,Sale,Completed
+JO-2504-8894-50114,Y Mall,Y Mall Tla'a Al-Ali,10/02/2025 13:49,0.66,8.96,Sale,Completed
+JO-2504-9500-95146,Z Mall,Z Mall Al Jubeiha,10/02/2025 13:44,0.24,3.27,Sale,Completed
+JO-2504-5638-53472,Y Mall,Y Mall Tla'a Al-Ali,10/02/2025 13:29,0.24,3.27,Sale,Completed
+JO-2504-3187-15647,C Mall,C Mall Irbid,10/02/2025 13:17,0.24,3.27,Sale,Completed
+JO-2504-9642-23204,Z Mall,Z Mall Al Bayader,10/02/2025 13:17,0.24,3.27,Sale,Completed
+JO-2504-7447-57483,Z Mall,Z Mall Al Jubeiha,10/02/2025 13:16,0.24,3.27,Sale,Completed
+JO-2504-9237-75890,C Mall,C Mall Aqaba,10/02/2025 13:13,0.48,6.55,Sale,Completed
+JO-2504-2257-19883,Y Mall,Y Mall Shmeisani,10/02/2025 13:09,1.63,21.97,Sale,Completed
+JO-2504-1898-51088,Y Mall,Y Mall Dabouq,10/02/2025 13:02,0.24,3.27,Sale,Completed
+JO-2504-2168-92698,C Mall,C Mall Amman,10/02/2025 12:52,0.09,1.2,Sale,Completed
+JO-2504-4421-75686,Y Mall,Y Mall Shmeisani,10/02/2025 12:24,0.24,3.27,Sale,Completed
+JO-2504-5049-57765,C Mall,C Mall Aqaba,10/02/2025 12:24,0.24,3.27,Sale,Completed
+JO-2504-8608-79901,C Mall,C Mall Amman,10/02/2025 12:22,0.66,8.96,Sale,Completed
+JO-2504-3207-71090,Y Mall,Y Mall Shmeisani,10/02/2025 12:09,0.75,9.99,Sale,Completed
+JO-2504-8418-42082,Y Mall,Y Mall Shmeisani,10/02/2025 11:25,0.24,3.27,Sale,Completed
+JO-2504-6973-20028,Z Mall,Z Mall Al Bayader,10/02/2025 10:58,0.36,4.88,Sale,Completed
+JO-2504-9614-43492,Z Mall,Z Mall Gardens,10/02/2025 10:55,0.41,5.45,Sale,Completed
+JO-2504-7007-49768,Y Mall,Y Mall Shmeisani,10/02/2025 10:54,0.41,5.45,Sale,Completed
+JO-2504-8526-22382,C Mall,C Mall Irbid,10/02/2025 10:53,0.36,4.77,Sale,Completed
+JO-2504-3738-93604,C Mall,C Mall Aqaba,10/02/2025 10:51,0.24,3.27,Refund,Completed
+JO-2504-6204-80221,Y Mall,Y Mall Tla'a Al-Ali,10/02/2025 10:10,1.48,19.96,Sale,Completed
+JO-2504-5139-29417,Y Mall,Y Mall Tla'a Al-Ali,10/02/2025 9:44,0.28,3.8,Sale,Completed
+JO-2504-1654-54373,C Mall,C Mall Irbid,10/02/2025 9:19,0.41,5.45,Sale,Completed
+JO-2504-3572-99079,C Mall,C Mall Aqaba,09/02/2025 19:44,0.66,8.96,Sale,Completed
+JO-2504-7359-90026,C Mall,C Mall Aqaba,09/02/2025 19:30,1.57,21.21,Sale,Completed
+JO-2504-7122-64353,Z Mall,Z Mall Al Bayader,09/02/2025 19:23,0.37,4.91,Sale,Completed
+JO-2504-6556-59482,Y Mall,Y Mall Tla'a Al-Ali,09/02/2025 19:21,0.24,3.27,Sale,Completed
+JO-2504-5913-14305,Z Mall,Z Mall Al Jubeiha,09/02/2025 17:51,0.66,8.96,Sale,Completed
+JO-2504-5401-63347,Z Mall,Z Mall Al Bayader,09/02/2025 17:49,0.42,5.72,Sale,Completed
+JO-2504-3327-53744,Y Mall,Y Mall Shmeisani,09/02/2025 17:34,0.34,4.54,Sale,Completed
+JO-2504-1825-12944,C Mall,C Mall Aqaba,09/02/2025 17:27,0.45,6.07,Sale,Completed
+JO-2504-2076-70368,Z Mall,Z Mall Al Jubeiha,09/02/2025 17:20,0.15,2.04,Sale,Completed
+JO-2504-8038-58658,Z Mall,Z Mall Al Bayader,09/02/2025 17:19,0.11,1.46,Sale,Completed
+JO-2504-5937-74395,Y Mall,Y Mall Shmeisani,09/02/2025 17:19,0.48,6.55,Sale,Completed
+JO-2504-3907-20831,C Mall,C Mall Irbid,09/02/2025 17:12,0.87,11.79,Sale,Completed
+JO-2504-7826-84199,Y Mall,Y Mall Shmeisani,09/02/2025 17:10,0.05,0.68,Sale,Completed
+JO-2504-9270-86839,C Mall,C Mall Aqaba,09/02/2025 17:04,0.69,9.25,Sale,Completed
+JO-2504-9884-19049,Z Mall,Z Mall Gardens,09/02/2025 16:28,0.66,8.96,Sale,Completed
+JO-2504-2486-89060,Z Mall,Z Mall Al Jubeiha,09/02/2025 16:24,0.71,9.64,Sale,Completed
+JO-2504-4998-71746,Y Mall,Y Mall Dabouq,09/02/2025 16:23,0.66,8.96,Sale,Completed
+JO-2504-8057-36070,C Mall,C Mall Irbid,09/02/2025 15:09,0.24,3.27,Sale,Completed
+JO-2504-3815-76570,Y Mall,Y Mall Dabouq,09/02/2025 15:03,0.48,6.55,Sale,Completed
+JO-2504-9220-90857,Z Mall,Z Mall Al Jubeiha,09/02/2025 14:58,0.66,8.96,Sale,Completed
+JO-2504-3941-70301,C Mall,C Mall Amman,09/02/2025 14:53,0.25,3.35,Sale,Completed
+JO-2504-1381-25931,Z Mall,Z Mall Gardens,09/02/2025 14:46,0.48,6.49,Sale,Completed
+JO-2504-1760-30220,C Mall,C Mall Irbid,09/02/2025 13:54,0.06,0.8,Sale,Completed
+JO-2504-3967-39252,Y Mall,Y Mall Tla'a Al-Ali,09/02/2025 13:39,0.48,6.55,Sale,Completed
+JO-2504-4889-45604,Y Mall,Y Mall Tla'a Al-Ali,09/02/2025 13:16,0.72,9.82,Sale,Completed
+JO-2504-6599-95938,Z Mall,Z Mall Al Bayader,09/02/2025 13:14,0.24,3.27,Sale,Completed
+JO-2504-9860-32164,Y Mall,Y Mall Dabouq,09/02/2025 13:14,0.05,0.68,Sale,Completed
+JO-2504-4536-22324,Y Mall,Y Mall Shmeisani,09/02/2025 12:59,0.66,8.96,Sale,Completed
+JO-2504-7431-15415,C Mall,C Mall Amman,09/02/2025 12:44,0.24,3.27,Sale,Completed
+JO-2504-2421-46400,Y Mall,Y Mall Dabouq,09/02/2025 12:44,0.44,5.97,Sale,Completed
+JO-2504-2953-73207,Y Mall,Y Mall Dabouq,09/02/2025 12:41,0.24,3.27,Sale,Completed
+JO-2504-7948-97010,Y Mall,Y Mall Shmeisani,09/02/2025 12:27,0.66,8.96,Sale,Completed
+JO-2504-9966-71315,Y Mall,Y Mall Dabouq,09/02/2025 12:18,0.24,3.27,Sale,Completed
+JO-2504-2739-77634,Z Mall,Z Mall Al Jubeiha,09/02/2025 11:46,0.57,7.61,Sale,Completed
+JO-2504-1378-41334,Z Mall,Z Mall Al Bayader,09/02/2025 11:43,0.66,8.96,Sale,Completed
+JO-2504-9752-89830,Z Mall,Z Mall Gardens,09/02/2025 11:41,0.97,13.11,Sale,Completed
+JO-2504-8253-20148,Y Mall,Y Mall Shmeisani,09/02/2025 11:05,0.5,6.8,Sale,Completed
+JO-2504-7988-24181,Y Mall,Y Mall Shmeisani,09/02/2025 10:55,0.25,3.35,Sale,Completed
+JO-2504-2314-27821,Y Mall,Y Mall Dabouq,09/02/2025 10:50,0.76,10.11,Sale,Completed
+JO-2504-3042-50548,Z Mall,Z Mall Al Jubeiha,09/02/2025 10:21,0.66,8.96,Sale,Completed
+JO-2504-4405-52601,Z Mall,Z Mall Al Bayader,09/02/2025 9:58,0.66,8.96,Sale,Completed
+JO-2504-8094-48238,Z Mall,Z Mall Al Bayader,09/02/2025 9:56,1.03,13.84,Sale,Completed
+JO-2504-5969-64215,C Mall,C Mall Irbid,09/02/2025 9:35,1.09,14.78,Sale,Completed
+JO-2504-2101-43976,C Mall,C Mall Irbid,08/02/2025 19:32,0.24,3.27,Sale,Completed
+JO-2504-5251-95723,Y Mall,Y Mall Tla'a Al-Ali,08/02/2025 18:52,0.92,12.42,Sale,Completed
+JO-2504-3270-88937,Z Mall,Z Mall Al Bayader,08/02/2025 18:23,0.71,9.69,Sale,Completed
+JO-2504-9940-86073,Z Mall,Z Mall Al Jubeiha,08/02/2025 18:11,0.27,3.68,Sale,Completed
+JO-2504-4782-76234,Y Mall,Y Mall Tla'a Al-Ali,08/02/2025 17:50,0.41,5.56,Sale,Completed
+JO-2504-5071-41645,Y Mall,Y Mall Shmeisani,08/02/2025 17:32,0.75,9.99,Sale,Completed
+JO-2504-6052-23016,C Mall,C Mall Aqaba,08/02/2025 16:45,0.89,12.04,Sale,Completed
+JO-2504-3580-36220,Y Mall,Y Mall Shmeisani,08/02/2025 16:37,0.57,7.61,Sale,Completed
+JO-2504-2874-19275,Z Mall,Z Mall Al Bayader,08/02/2025 16:27,2.81,38.09,Sale,Completed
+JO-2504-1963-89635,Z Mall,Z Mall Al Jubeiha,08/02/2025 16:23,0.14,1.93,Sale,Completed
+JO-2504-1356-82286,C Mall,C Mall Amman,08/02/2025 16:01,0.77,10.43,Sale,Completed
+JO-2504-4942-51235,Z Mall,Z Mall Gardens,08/02/2025 15:45,0.24,3.27,Sale,Completed
+JO-2504-6012-78735,Z Mall,Z Mall Al Jubeiha,08/02/2025 15:44,0.75,10.01,Sale,Completed
+JO-2504-4946-15251,Y Mall,Y Mall Shmeisani,08/02/2025 15:42,0.47,6.4,Sale,Completed
+JO-2504-4864-55367,Y Mall,Y Mall Shmeisani,08/02/2025 15:36,0.48,6.55,Sale,Completed
+JO-2504-1272-79855,C Mall,C Mall Irbid,08/02/2025 15:35,0.41,5.45,Sale,Completed
+JO-2504-4518-93002,Z Mall,Z Mall Al Jubeiha,08/02/2025 15:32,0.47,6.4,Sale,Completed
+JO-2504-4715-75484,C Mall,C Mall Amman,08/02/2025 15:20,1.43,19.25,Sale,Completed
+JO-2504-5782-44122,C Mall,C Mall Aqaba,08/02/2025 15:12,0.66,8.96,Sale,Completed
+JO-2504-7814-30510,Y Mall,Y Mall Shmeisani,08/02/2025 14:56,0.66,8.96,Sale,Completed
+JO-2504-2633-89175,Y Mall,Y Mall Dabouq,08/02/2025 14:34,0.37,4.99,Sale,Completed
+JO-2504-6492-16511,C Mall,C Mall Irbid,08/02/2025 14:26,0.72,9.79,Sale,Completed
+JO-2504-1417-28837,C Mall,C Mall Irbid,08/02/2025 14:02,0.66,8.96,Sale,Completed
+JO-2504-1019-84831,Y Mall,Y Mall Shmeisani,08/02/2025 13:55,0.82,11.01,Sale,Completed
+JO-2504-5177-91993,Y Mall,Y Mall Dabouq,08/02/2025 13:49,0.75,10.01,Sale,Completed
+JO-2504-1549-66457,Y Mall,Y Mall Tla'a Al-Ali,08/02/2025 13:47,0.24,3.27,Sale,Completed
+JO-2504-6785-53096,Z Mall,Z Mall Gardens,08/02/2025 13:36,0.66,8.96,Refund,Completed
+JO-2504-2806-30807,Z Mall,Z Mall Al Bayader,08/02/2025 13:30,1.03,13.95,Sale,Completed
+JO-2504-7165-47213,Y Mall,Y Mall Dabouq,08/02/2025 13:24,0.48,6.55,Sale,Completed
+JO-2504-5452-74615,C Mall,C Mall Amman,08/02/2025 13:19,0.1,1.27,Sale,Completed
+JO-2504-6539-85079,Y Mall,Y Mall Dabouq,08/02/2025 13:12,0.48,6.55,Sale,Completed
+JO-2504-5639-98340,C Mall,C Mall Amman,08/02/2025 13:09,0.24,3.27,Sale,Completed
+JO-2504-7826-94607,Y Mall,Y Mall Dabouq,08/02/2025 13:06,0.48,6.55,Sale,Completed
+JO-2504-7319-16538,Z Mall,Z Mall Gardens,08/02/2025 12:45,1.03,13.86,Sale,Completed
+JO-2504-1557-65186,Y Mall,Y Mall Tla'a Al-Ali,08/02/2025 12:41,0.87,11.71,Sale,Completed
+JO-2504-7727-67228,Y Mall,Y Mall Shmeisani,08/02/2025 12:22,0.77,10.37,Sale,Completed
+JO-2504-8694-51933,Y Mall,Y Mall Tla'a Al-Ali,08/02/2025 12:21,0.05,0.68,Sale,Completed
+JO-2504-3992-21728,Y Mall,Y Mall Tla'a Al-Ali,08/02/2025 12:17,0.5,6.8,Sale,Completed
+JO-2504-3728-82657,Z Mall,Z Mall Al Bayader,08/02/2025 12:14,0.42,5.67,Sale,Completed
+JO-2504-4185-93445,Y Mall,Y Mall Tla'a Al-Ali,08/02/2025 12:06,0.24,3.27,Sale,Completed
+JO-2504-8778-33341,Y Mall,Y Mall Dabouq,08/02/2025 11:31,1.21,16.33,Sale,Completed
+JO-2504-2417-29470,C Mall,C Mall Amman,08/02/2025 11:24,0.81,11,Sale,Completed
+JO-2504-5227-10794,Z Mall,Z Mall Al Jubeiha,08/02/2025 11:22,0.19,2.53,Sale,Completed
+JO-2504-6444-30068,C Mall,C Mall Amman,08/02/2025 11:17,0.24,3.27,Sale,Completed
+JO-2504-9873-62276,Z Mall,Z Mall Gardens,08/02/2025 11:13,0.24,3.27,Sale,Completed
+JO-2504-8162-39187,Y Mall,Y Mall Tla'a Al-Ali,08/02/2025 11:10,0.24,3.27,Sale,Completed
+JO-2504-1237-28968,Z Mall,Z Mall Al Jubeiha,08/02/2025 10:30,1.45,19.62,Sale,Completed
+JO-2504-7018-47773,Z Mall,Z Mall Al Jubeiha,07/02/2025 19:31,0.75,10.01,Sale,Completed
+JO-2504-4757-28565,Z Mall,Z Mall Al Jubeiha,07/02/2025 19:16,0.87,11.79,Sale,Completed
+JO-2504-3524-65238,Y Mall,Y Mall Dabouq,07/02/2025 19:08,0.49,6.67,Sale,Completed
+JO-2504-7820-46955,C Mall,C Mall Amman,07/02/2025 19:04,0.34,4.54,Sale,Completed
+JO-2504-8525-50613,C Mall,C Mall Aqaba,07/02/2025 19:03,1.31,17.74,Sale,Completed
+JO-2504-5658-55592,Z Mall,Z Mall Al Bayader,07/02/2025 19:01,0.05,0.68,Sale,Completed
+JO-2504-9268-64764,Y Mall,Y Mall Shmeisani,07/02/2025 18:59,0.44,6.02,Sale,Completed
+JO-2504-8497-60155,Y Mall,Y Mall Tla'a Al-Ali,07/02/2025 18:32,3.24,43.73,Sale,Completed
+JO-2504-1740-37989,C Mall,C Mall Aqaba,07/02/2025 18:30,0.72,9.82,Sale,Completed
+JO-2504-1441-61936,C Mall,C Mall Aqaba,07/02/2025 18:20,1.5,20.21,Sale,Completed
+JO-2504-6394-30366,Z Mall,Z Mall Al Bayader,07/02/2025 17:54,0.75,10.01,Sale,Completed
+JO-2504-5372-72205,Z Mall,Z Mall Gardens,07/02/2025 17:06,0.66,8.96,Sale,Completed
+JO-2504-5696-53881,C Mall,C Mall Aqaba,07/02/2025 16:20,1.22,16.45,Sale,Completed
+JO-2504-2735-10191,Y Mall,Y Mall Tla'a Al-Ali,07/02/2025 16:14,0.66,8.96,Sale,Completed
+JO-2504-7134-99873,C Mall,C Mall Aqaba,07/02/2025 16:10,0.24,3.27,Sale,Completed
+JO-2504-8114-97429,Z Mall,Z Mall Al Jubeiha,07/02/2025 16:10,1.06,14.28,Sale,Completed
+JO-2504-5907-66604,Z Mall,Z Mall Al Bayader,07/02/2025 16:09,0.66,8.96,Sale,Completed
+JO-2504-4247-84481,Y Mall,Y Mall Shmeisani,07/02/2025 15:59,0.66,8.96,Sale,Completed
+JO-2504-2019-76499,Z Mall,Z Mall Gardens,07/02/2025 15:50,0.66,8.96,Sale,Completed
+JO-2504-6240-93575,Z Mall,Z Mall Al Jubeiha,07/02/2025 15:44,0.11,1.48,Sale,Completed
+JO-2504-5956-55003,Z Mall,Z Mall Al Jubeiha,07/02/2025 15:36,0.6,8.11,Sale,Completed
+JO-2504-3958-99123,Z Mall,Z Mall Al Bayader,07/02/2025 15:34,0.36,4.88,Sale,Completed
+JO-2504-3805-13700,Y Mall,Y Mall Tla'a Al-Ali,07/02/2025 15:30,0.24,3.27,Sale,Completed
+JO-2504-8955-32705,Y Mall,Y Mall Shmeisani,07/02/2025 15:18,0.32,4.21,Sale,Completed
+JO-2504-7780-34461,Z Mall,Z Mall Al Bayader,07/02/2025 15:13,0.36,4.77,Sale,Completed
+JO-2504-4925-33539,Z Mall,Z Mall Al Jubeiha,07/02/2025 15:08,0.66,8.96,Sale,Completed
+JO-2504-7862-96741,Y Mall,Y Mall Tla'a Al-Ali,07/02/2025 15:05,0.48,6.55,Sale,Completed
+JO-2504-6163-64638,C Mall,C Mall Irbid,07/02/2025 14:57,1.32,17.91,Sale,Completed
+JO-2504-3067-52410,Z Mall,Z Mall Gardens,07/02/2025 14:48,1.32,17.91,Sale,Completed
+JO-2504-9950-75300,Y Mall,Y Mall Shmeisani,07/02/2025 14:46,0.66,8.96,Sale,Completed
+JO-2504-1862-87424,Y Mall,Y Mall Dabouq,07/02/2025 14:42,0.05,0.68,Sale,Completed
+JO-2504-8142-40397,Z Mall,Z Mall Al Bayader,07/02/2025 14:40,0.36,4.88,Sale,Completed
+JO-2504-8159-96794,Z Mall,Z Mall Gardens,07/02/2025 14:31,0.66,8.96,Sale,Completed
+JO-2504-7906-43967,Z Mall,Z Mall Al Jubeiha,07/02/2025 14:23,0.24,3.27,Sale,Completed
+JO-2504-4063-25859,C Mall,C Mall Amman,07/02/2025 14:21,1.07,14.41,Sale,Completed
+JO-2504-3541-81850,C Mall,C Mall Amman,07/02/2025 14:06,0.06,0.8,Sale,Completed
+JO-2504-1404-29343,Y Mall,Y Mall Dabouq,07/02/2025 13:59,0.57,7.61,Sale,Completed
+JO-2504-3975-50531,Z Mall,Z Mall Gardens,07/02/2025 13:58,0.39,5.22,Sale,Completed
+JO-2504-3115-65857,Z Mall,Z Mall Al Jubeiha,07/02/2025 13:33,1.21,16.29,Sale,Completed
+JO-2504-7425-52083,Z Mall,Z Mall Al Jubeiha,07/02/2025 13:33,0.42,5.72,Sale,Completed
+JO-2504-1321-47509,Z Mall,Z Mall Al Jubeiha,07/02/2025 13:31,0.24,3.27,Sale,Completed
+JO-2504-5704-12100,Z Mall,Z Mall Al Bayader,07/02/2025 13:20,0.09,1.2,Sale,Completed
+JO-2504-5294-74112,Z Mall,Z Mall Al Jubeiha,07/02/2025 13:18,0.24,3.27,Sale,Completed
+JO-2504-2444-78624,C Mall,C Mall Amman,07/02/2025 13:17,0.24,3.27,Sale,Completed
+JO-2504-2634-31391,C Mall,C Mall Irbid,07/02/2025 13:12,0.66,8.96,Sale,Completed
+JO-2504-9885-75952,Z Mall,Z Mall Al Bayader,07/02/2025 13:11,0.25,3.4,Sale,Completed
+JO-2504-9791-58819,C Mall,C Mall Amman,07/02/2025 13:10,0.25,3.4,Sale,Completed
+JO-2504-1983-25099,C Mall,C Mall Irbid,07/02/2025 13:05,0.1,1.36,Sale,Completed
+JO-2504-7792-11782,Y Mall,Y Mall Shmeisani,07/02/2025 12:51,0.66,8.96,Sale,Completed
+JO-2504-5135-45607,Z Mall,Z Mall Al Jubeiha,07/02/2025 12:49,1.46,19.73,Sale,Completed
+JO-2504-7113-88752,C Mall,C Mall Aqaba,07/02/2025 12:37,0.66,8.96,Sale,Completed
+JO-2504-9732-87108,Z Mall,Z Mall Al Bayader,07/02/2025 12:37,0.66,8.96,Sale,Completed
+JO-2504-7752-60648,Z Mall,Z Mall Al Jubeiha,07/02/2025 12:34,0.66,8.96,Sale,Completed
+JO-2504-2616-31626,Y Mall,Y Mall Dabouq,07/02/2025 12:29,1.15,15.54,Sale,Completed
+JO-2504-3498-83497,Y Mall,Y Mall Shmeisani,07/02/2025 12:26,0.66,8.96,Sale,Completed
+JO-2504-7473-84260,Y Mall,Y Mall Dabouq,07/02/2025 12:24,0.75,10.01,Sale,Completed
+JO-2504-6913-91742,C Mall,C Mall Irbid,07/02/2025 12:07,0.48,6.55,Sale,Completed
+JO-2504-3547-49341,Z Mall,Z Mall Al Bayader,07/02/2025 11:49,0.05,0.68,Sale,Completed
+JO-2504-7684-82243,Y Mall,Y Mall Tla'a Al-Ali,07/02/2025 11:43,0.66,8.96,Sale,Completed
+JO-2504-2085-99286,C Mall,C Mall Irbid,07/02/2025 11:42,0.66,8.96,Sale,Completed
+JO-2504-8306-99674,Z Mall,Z Mall Al Bayader,07/02/2025 11:28,0.27,3.72,Sale,Completed
+JO-2504-4052-82867,C Mall,C Mall Aqaba,07/02/2025 11:27,0.39,5.25,Sale,Completed
+JO-2504-7212-86783,Y Mall,Y Mall Shmeisani,07/02/2025 10:57,0.24,3.27,Sale,Completed
+JO-2504-3033-94598,Y Mall,Y Mall Dabouq,07/02/2025 10:44,0.25,3.35,Sale,Completed
+JO-2504-9999-91105,Z Mall,Z Mall Al Bayader,07/02/2025 10:43,1.61,21.72,Sale,Completed
+JO-2504-9539-66820,Y Mall,Y Mall Dabouq,07/02/2025 10:30,0.36,4.88,Sale,Completed
+JO-2504-6714-71477,Z Mall,Z Mall Al Jubeiha,07/02/2025 9:26,1.08,14.68,Sale,Completed
+JO-2504-3319-52667,Z Mall,Z Mall Gardens,06/02/2025 19:21,0.12,1.64,Sale,Completed
+JO-2504-3288-21186,Z Mall,Z Mall Al Jubeiha,06/02/2025 19:08,0.66,8.96,Sale,Completed
+JO-2504-3908-58653,C Mall,C Mall Aqaba,06/02/2025 19:04,1.32,17.91,Sale,Completed
+JO-2504-5103-61403,Y Mall,Y Mall Shmeisani,06/02/2025 18:38,0.66,8.96,Sale,Completed
+JO-2504-1898-94872,Y Mall,Y Mall Tla'a Al-Ali,06/02/2025 18:26,0.66,8.96,Sale,Completed
+JO-2504-7307-68202,Y Mall,Y Mall Dabouq,06/02/2025 18:03,0.16,2.16,Sale,Completed
+JO-2504-8111-26706,Z Mall,Z Mall Gardens,06/02/2025 17:43,0.66,8.96,Sale,Completed
+JO-2504-1697-83303,C Mall,C Mall Irbid,06/02/2025 17:24,0.44,5.97,Sale,Completed
+JO-2504-9278-26121,Z Mall,Z Mall Al Jubeiha,06/02/2025 17:21,0.87,11.96,Sale,Completed
+JO-2504-2329-78602,C Mall,C Mall Aqaba,06/02/2025 17:05,0.36,4.77,Sale,Completed
+JO-2504-7715-25890,C Mall,C Mall Aqaba,06/02/2025 16:47,0.66,8.96,Sale,Completed
+JO-2504-9986-80849,Z Mall,Z Mall Al Jubeiha,06/02/2025 16:46,0.99,13.4,Sale,Completed
+JO-2504-2936-58573,Z Mall,Z Mall Gardens,06/02/2025 16:43,0.65,8.79,Sale,Completed
+JO-2504-8800-26268,C Mall,C Mall Irbid,06/02/2025 16:40,0.24,3.27,Sale,Completed
+JO-2504-8416-23483,Z Mall,Z Mall Gardens,06/02/2025 16:37,1.32,17.91,Sale,Completed
+JO-2504-5163-47424,C Mall,C Mall Aqaba,06/02/2025 15:43,0.66,8.96,Sale,Completed
+JO-2504-4034-84689,Y Mall,Y Mall Tla'a Al-Ali,06/02/2025 15:31,0.24,3.27,Sale,Completed
+JO-2504-1299-77971,Y Mall,Y Mall Dabouq,06/02/2025 15:14,0.94,12.75,Refund,Completed
+JO-2504-9217-15868,Z Mall,Z Mall Gardens,06/02/2025 15:09,0.24,3.27,Sale,Completed
+JO-2504-5765-63297,Z Mall,Z Mall Gardens,06/02/2025 15:07,0.48,6.55,Sale,Completed
+JO-2504-8678-91412,Z Mall,Z Mall Gardens,06/02/2025 15:00,0.33,4.37,Sale,Completed
+JO-2504-9901-16250,C Mall,C Mall Amman,06/02/2025 14:51,0.24,3.27,Sale,Completed
+JO-2504-4721-44919,C Mall,C Mall Aqaba,06/02/2025 14:45,1.32,17.91,Sale,Completed
+JO-2504-6254-84397,C Mall,C Mall Aqaba,06/02/2025 14:29,0.66,8.9,Sale,Completed
+JO-2504-5136-26442,C Mall,C Mall Aqaba,06/02/2025 14:17,0.75,10.01,Sale,Completed
+JO-2504-5058-65100,Z Mall,Z Mall Al Jubeiha,06/02/2025 14:15,0.24,3.27,Sale,Completed
+JO-2504-5650-51590,Y Mall,Y Mall Shmeisani,06/02/2025 14:14,1.15,15.41,Sale,Completed
+JO-2504-3293-28346,Y Mall,Y Mall Shmeisani,06/02/2025 14:10,0.48,6.55,Sale,Completed
+JO-2504-2309-29469,Z Mall,Z Mall Gardens,06/02/2025 14:04,0.28,3.8,Sale,Completed
+JO-2504-6094-26572,Z Mall,Z Mall Al Jubeiha,06/02/2025 13:53,0.24,3.27,Sale,Completed
+JO-2504-7392-27830,Z Mall,Z Mall Al Bayader,06/02/2025 13:51,0.48,6.55,Sale,Completed
+JO-2504-6702-97359,Z Mall,Z Mall Gardens,06/02/2025 13:29,0.24,3.27,Sale,Completed
+JO-2504-7599-93803,Y Mall,Y Mall Shmeisani,06/02/2025 13:26,2.16,29.26,Sale,Completed
+JO-2504-4215-33951,C Mall,C Mall Irbid,06/02/2025 13:25,0.42,5.67,Sale,Completed
+JO-2504-6838-98363,C Mall,C Mall Irbid,06/02/2025 13:04,0.48,6.55,Sale,Completed
+JO-2504-7624-91121,Y Mall,Y Mall Tla'a Al-Ali,06/02/2025 12:40,0.66,8.96,Sale,Completed
+JO-2504-3832-58453,Y Mall,Y Mall Dabouq,06/02/2025 12:20,0.24,3.27,Sale,Completed
+JO-2504-2837-98927,C Mall,C Mall Aqaba,06/02/2025 12:17,0.11,1.48,Sale,Completed
+JO-2504-5285-39444,C Mall,C Mall Aqaba,06/02/2025 12:17,0.66,8.96,Sale,Completed
+JO-2504-6829-21116,C Mall,C Mall Aqaba,06/02/2025 12:14,0.24,3.27,Sale,Completed
+JO-2504-1549-24818,Z Mall,Z Mall Al Jubeiha,06/02/2025 12:13,1.26,16.98,Sale,Completed
+JO-2504-9245-75875,Y Mall,Y Mall Dabouq,06/02/2025 12:12,0.65,8.79,Sale,Completed
+JO-2504-8251-81446,C Mall,C Mall Aqaba,06/02/2025 12:10,0.48,6.52,Sale,Completed
+JO-2504-7732-55113,C Mall,C Mall Amman,06/02/2025 12:08,0.24,3.27,Sale,Completed
+JO-2504-1722-33551,C Mall,C Mall Aqaba,06/02/2025 11:59,1.99,26.88,Sale,Completed
+JO-2504-9818-96485,Z Mall,Z Mall Gardens,06/02/2025 11:54,0.48,6.55,Sale,Completed
+JO-2504-2658-54711,C Mall,C Mall Amman,06/02/2025 11:40,0.49,6.69,Sale,Completed
+JO-2504-3034-33945,C Mall,C Mall Irbid,06/02/2025 11:32,0.66,8.96,Sale,Completed
+JO-2504-6151-58449,Y Mall,Y Mall Dabouq,05/02/2025 18:36,0.84,11.45,Sale,Completed
+JO-2504-4516-20764,C Mall,C Mall Amman,05/02/2025 18:26,0.34,4.54,Sale,Completed
+JO-2504-4104-90914,Z Mall,Z Mall Al Jubeiha,05/02/2025 17:39,1.32,17.91,Sale,Completed
+JO-2504-7060-95519,Y Mall,Y Mall Dabouq,05/02/2025 17:26,0.28,3.8,Sale,Completed
+JO-2504-2638-38807,Z Mall,Z Mall Al Bayader,05/02/2025 17:19,0.27,3.68,Sale,Completed
+JO-2504-8700-38993,Y Mall,Y Mall Dabouq,05/02/2025 16:52,0.24,3.27,Sale,Completed
+JO-2504-9433-40670,Y Mall,Y Mall Shmeisani,05/02/2025 16:16,0.66,8.96,Sale,Completed
+JO-2504-1529-13932,Z Mall,Z Mall Al Bayader,05/02/2025 16:12,0.24,3.27,Sale,Completed
+JO-2504-6938-35844,Y Mall,Y Mall Tla'a Al-Ali,05/02/2025 15:14,0.24,3.27,Sale,Completed
+JO-2504-5748-44273,Z Mall,Z Mall Al Bayader,05/02/2025 15:06,0.66,8.96,Sale,Completed
+JO-2504-9938-35056,C Mall,C Mall Amman,05/02/2025 15:05,0.66,8.96,Sale,Completed
+JO-2504-6612-13865,Z Mall,Z Mall Al Jubeiha,05/02/2025 15:00,0.66,8.96,Sale,Completed
+JO-2504-2373-60950,C Mall,C Mall Irbid,05/02/2025 14:31,0.87,11.71,Sale,Completed
+JO-2504-9221-43680,C Mall,C Mall Aqaba,05/02/2025 14:23,0.65,8.79,Sale,Completed
+JO-2504-7677-65338,C Mall,C Mall Amman,05/02/2025 14:20,1.01,13.61,Sale,Completed
+JO-2504-5313-29466,C Mall,C Mall Irbid,05/02/2025 14:15,0.24,3.27,Sale,Completed
+JO-2504-5577-71064,Z Mall,Z Mall Al Bayader,05/02/2025 14:07,0.66,8.96,Sale,Completed
+JO-2504-9912-76870,Z Mall,Z Mall Gardens,05/02/2025 14:02,0.24,3.27,Sale,Completed
+JO-2504-9224-60868,C Mall,C Mall Irbid,05/02/2025 13:41,0.24,3.27,Sale,Completed
+JO-2504-1885-45998,C Mall,C Mall Aqaba,05/02/2025 13:41,0.56,7.63,Sale,Completed
+JO-2504-4247-57445,Y Mall,Y Mall Shmeisani,05/02/2025 13:34,0.6,8.11,Sale,Completed
+JO-2504-2900-25286,C Mall,C Mall Amman,05/02/2025 13:30,0.24,3.27,Sale,Completed
+JO-2504-5607-21928,Z Mall,Z Mall Gardens,05/02/2025 13:29,0.05,0.68,Sale,Completed
+JO-2504-6355-91543,Z Mall,Z Mall Gardens,05/02/2025 13:05,0.25,3.4,Sale,Completed
+JO-2504-9025-93210,Y Mall,Y Mall Dabouq,05/02/2025 13:02,0.77,10.43,Sale,Completed
+JO-2504-1121-33487,Z Mall,Z Mall Gardens,05/02/2025 12:56,0.27,3.68,Sale,Completed
+JO-2504-1447-72371,Y Mall,Y Mall Dabouq,05/02/2025 12:55,0.66,8.96,Sale,Completed
+JO-2504-4940-32289,Z Mall,Z Mall Gardens,05/02/2025 12:51,1.15,15.54,Sale,Completed
+JO-2504-3084-62632,C Mall,C Mall Aqaba,05/02/2025 12:48,0.66,8.96,Sale,Completed
+JO-2504-4823-58399,Y Mall,Y Mall Tla'a Al-Ali,05/02/2025 12:42,0.36,4.88,Sale,Completed
+JO-2504-4944-83031,Z Mall,Z Mall Gardens,05/02/2025 12:29,0.66,8.96,Sale,Completed
+JO-2504-5540-73995,Z Mall,Z Mall Gardens,05/02/2025 12:17,0.61,8.28,Sale,Completed
+JO-2504-6504-11656,C Mall,C Mall Aqaba,05/02/2025 12:13,0.24,3.27,Sale,Completed
+JO-2504-1326-42825,Z Mall,Z Mall Gardens,05/02/2025 12:08,0.24,3.27,Sale,Completed
+JO-2504-8599-44642,Y Mall,Y Mall Shmeisani,05/02/2025 12:07,0.77,10.36,Sale,Completed
+JO-2504-2529-83281,Y Mall,Y Mall Tla'a Al-Ali,05/02/2025 12:06,0.35,4.75,Sale,Completed
+JO-2504-8006-59306,C Mall,C Mall Amman,05/02/2025 11:54,0.66,8.96,Sale,Completed
+JO-2504-5254-46938,Y Mall,Y Mall Shmeisani,05/02/2025 11:54,0.24,3.27,Sale,Completed
+JO-2504-9543-46263,Z Mall,Z Mall Al Jubeiha,05/02/2025 11:48,0.48,6.43,Sale,Completed
+JO-2504-3904-86361,Y Mall,Y Mall Shmeisani,05/02/2025 11:47,0.7,9.52,Sale,Completed
+JO-2504-1426-87508,Y Mall,Y Mall Shmeisani,05/02/2025 11:42,0.66,8.96,Sale,Completed
+JO-2504-4762-96186,C Mall,C Mall Irbid,05/02/2025 11:21,1.32,17.86,Sale,Completed
+JO-2504-3515-52672,Y Mall,Y Mall Dabouq,05/02/2025 10:57,0.39,5.31,Sale,Completed
+JO-2504-9239-25473,Y Mall,Y Mall Dabouq,05/02/2025 10:21,1.85,25.04,Sale,Completed
+JO-2504-9954-50913,Y Mall,Y Mall Tla'a Al-Ali,05/02/2025 10:20,0.61,8.22,Sale,Completed
+JO-2504-7795-35370,C Mall,C Mall Irbid,05/02/2025 10:00,0.66,8.96,Sale,Completed
+JO-2504-1383-28024,Y Mall,Y Mall Tla'a Al-Ali,04/02/2025 19:19,0.66,8.96,Sale,Completed
+JO-2504-5372-23535,C Mall,C Mall Aqaba,04/02/2025 18:23,0.66,8.96,Sale,Completed
+JO-2504-1890-49489,C Mall,C Mall Amman,04/02/2025 18:07,0.24,3.27,Sale,Completed
+JO-2504-2282-93824,Z Mall,Z Mall Gardens,04/02/2025 18:06,0.36,4.77,Sale,Completed
+JO-2504-8479-91282,C Mall,C Mall Amman,04/02/2025 16:38,0.24,3.27,Sale,Completed
+JO-2504-1416-14214,Z Mall,Z Mall Al Bayader,04/02/2025 16:21,0.41,5.56,Sale,Completed
+JO-2504-8468-49362,Z Mall,Z Mall Gardens,04/02/2025 16:11,0.47,6.4,Sale,Completed
+JO-2504-7103-97702,C Mall,C Mall Amman,04/02/2025 16:02,0.66,8.96,Sale,Completed
+JO-2504-8135-59625,Z Mall,Z Mall Gardens,04/02/2025 16:00,0.27,3.65,Sale,Completed
+JO-2504-4888-72194,Z Mall,Z Mall Al Jubeiha,04/02/2025 15:59,0.05,0.68,Sale,Completed
+JO-2504-9487-67233,Z Mall,Z Mall Gardens,04/02/2025 15:33,0.45,6.02,Sale,Completed
+JO-2504-2718-93596,C Mall,C Mall Aqaba,04/02/2025 15:31,0.66,8.96,Sale,Completed
+JO-2504-2087-70370,C Mall,C Mall Irbid,04/02/2025 15:24,1.45,19.67,Sale,Completed
+JO-2504-3274-98441,Z Mall,Z Mall Al Jubeiha,04/02/2025 15:08,0.66,8.96,Sale,Completed
+JO-2504-1217-39498,Z Mall,Z Mall Al Bayader,04/02/2025 15:03,0.24,3.27,Sale,Completed
+JO-2504-9695-32986,C Mall,C Mall Amman,04/02/2025 15:02,0.24,3.27,Sale,Completed
+JO-2504-6604-82966,C Mall,C Mall Aqaba,04/02/2025 14:59,0.24,3.27,Sale,Completed
+JO-2504-2714-72369,Y Mall,Y Mall Tla'a Al-Ali,04/02/2025 14:47,1.32,17.91,Sale,Completed
+JO-2504-8520-45760,Y Mall,Y Mall Tla'a Al-Ali,04/02/2025 14:32,0.15,2.04,Sale,Completed
+JO-2504-2266-89795,Y Mall,Y Mall Shmeisani,04/02/2025 14:31,0.24,3.27,Sale,Completed
+JO-2504-7683-47211,C Mall,C Mall Irbid,04/02/2025 14:18,0.48,6.55,Sale,Completed
+JO-2504-2422-34950,C Mall,C Mall Aqaba,04/02/2025 14:12,1.99,26.88,Sale,Completed
+JO-2504-7419-89339,Y Mall,Y Mall Tla'a Al-Ali,04/02/2025 14:11,0.24,3.27,Sale,Completed
+JO-2504-6979-69086,Z Mall,Z Mall Al Jubeiha,04/02/2025 14:06,0.24,3.27,Sale,Completed
+JO-2504-7740-44977,Z Mall,Z Mall Al Jubeiha,04/02/2025 14:06,0.24,3.27,Sale,Completed
+JO-2504-5966-68604,C Mall,C Mall Amman,04/02/2025 14:05,0.24,3.27,Sale,Completed
+JO-2504-9508-19650,C Mall,C Mall Aqaba,04/02/2025 13:46,0.24,3.27,Sale,Completed
+JO-2504-6805-51035,Z Mall,Z Mall Gardens,04/02/2025 13:45,1.49,20.1,Sale,Completed
+JO-2504-7630-60156,Z Mall,Z Mall Al Bayader,04/02/2025 13:34,0.48,6.55,Sale,Completed
+JO-2504-4368-45734,C Mall,C Mall Irbid,04/02/2025 13:33,0.28,3.8,Sale,Completed
+JO-2504-5269-35094,C Mall,C Mall Irbid,04/02/2025 13:32,1.2,16.22,Sale,Completed
+JO-2504-9551-13771,Y Mall,Y Mall Tla'a Al-Ali,04/02/2025 13:28,0.32,4.21,Sale,Completed
+JO-2504-9438-43907,Y Mall,Y Mall Shmeisani,04/02/2025 13:09,0.66,8.96,Sale,Completed
+JO-2504-8818-72647,Y Mall,Y Mall Dabouq,04/02/2025 13:09,1.08,14.63,Sale,Completed
+JO-2504-5983-57328,C Mall,C Mall Amman,04/02/2025 13:05,0.24,3.27,Sale,Completed
+JO-2504-8955-99361,C Mall,C Mall Irbid,04/02/2025 13:03,0.48,6.57,Sale,Completed
+JO-2504-7741-46927,C Mall,C Mall Amman,04/02/2025 13:02,1.21,16.38,Sale,Completed
+JO-2504-4581-81285,Y Mall,Y Mall Shmeisani,04/02/2025 12:31,0.24,3.27,Sale,Completed
+JO-2504-6829-19306,Z Mall,Z Mall Gardens,04/02/2025 12:27,0.83,11.23,Sale,Completed
+JO-2504-3569-60942,Z Mall,Z Mall Al Bayader,04/02/2025 12:25,0.93,12.64,Sale,Completed
+JO-2504-1816-30837,Y Mall,Y Mall Tla'a Al-Ali,04/02/2025 12:20,0.24,3.27,Sale,Completed
+JO-2504-9744-55770,C Mall,C Mall Aqaba,04/02/2025 12:10,0.24,3.27,Sale,Completed
+JO-2504-8391-93892,Y Mall,Y Mall Tla'a Al-Ali,04/02/2025 12:09,0.24,3.23,Sale,Completed
+JO-2504-3988-50513,Y Mall,Y Mall Shmeisani,04/02/2025 12:04,0.09,1.13,Sale,Completed
+JO-2504-5198-86776,Y Mall,Y Mall Shmeisani,04/02/2025 12:03,0.12,1.56,Sale,Completed
+JO-2504-2552-15415,Z Mall,Z Mall Al Bayader,04/02/2025 12:03,0.24,3.27,Sale,Completed
+JO-2504-9875-73296,Y Mall,Y Mall Tla'a Al-Ali,04/02/2025 11:53,0.48,6.55,Sale,Completed
+JO-2504-5971-76018,C Mall,C Mall Aqaba,04/02/2025 11:45,0.24,3.27,Sale,Completed
+JO-2504-9763-36474,C Mall,C Mall Aqaba,04/02/2025 10:19,0.78,10.44,Sale,Completed
+JO-2504-4499-25987,Y Mall,Y Mall Shmeisani,04/02/2025 10:11,0.24,3.27,Sale,Completed
+JO-2504-4634-34118,C Mall,C Mall Aqaba,04/02/2025 9:47,0.47,6.4,Sale,Completed
+JO-2504-5523-20268,Y Mall,Y Mall Shmeisani,03/02/2025 18:52,1.32,17.91,Sale,Completed
+JO-2504-2925-44992,Y Mall,Y Mall Dabouq,03/02/2025 18:40,0.87,11.79,Sale,Completed
+JO-2504-2970-81104,Z Mall,Z Mall Al Bayader,03/02/2025 17:29,0.44,5.97,Sale,Completed
+JO-2504-9004-57421,Z Mall,Z Mall Al Jubeiha,03/02/2025 17:28,1.99,26.88,Sale,Completed
+JO-2504-3469-72778,Z Mall,Z Mall Gardens,03/02/2025 16:46,0.72,9.75,Sale,Completed
+JO-2504-7548-81295,C Mall,C Mall Aqaba,03/02/2025 16:37,0.66,8.96,Sale,Completed
+JO-2504-3520-91816,C Mall,C Mall Amman,03/02/2025 15:45,1.02,13.67,Sale,Completed
+JO-2504-9126-57129,C Mall,C Mall Aqaba,03/02/2025 15:43,0.93,12.59,Sale,Completed
+JO-2504-2942-12196,C Mall,C Mall Irbid,03/02/2025 15:37,0.24,3.27,Sale,Completed
+JO-2504-4874-42818,C Mall,C Mall Amman,03/02/2025 15:35,0.66,8.96,Sale,Completed
+JO-2504-3128-94998,C Mall,C Mall Aqaba,03/02/2025 15:32,0.66,8.96,Sale,Completed
+JO-2504-7430-51099,Y Mall,Y Mall Tla'a Al-Ali,03/02/2025 15:24,0.37,4.91,Sale,Completed
+JO-2504-8310-90212,Y Mall,Y Mall Tla'a Al-Ali,03/02/2025 14:50,0.99,13.38,Sale,Completed
+JO-2504-3549-56011,Y Mall,Y Mall Tla'a Al-Ali,03/02/2025 14:31,0.28,3.8,Sale,Completed
+JO-2504-2617-62196,C Mall,C Mall Aqaba,03/02/2025 14:05,0.24,3.27,Sale,Completed
+JO-2504-2374-23020,Y Mall,Y Mall Shmeisani,03/02/2025 13:53,0.44,5.97,Sale,Completed
+JO-2504-4938-15332,Z Mall,Z Mall Gardens,03/02/2025 13:20,0.24,3.27,Sale,Completed
+JO-2504-7578-43455,Z Mall,Z Mall Al Bayader,03/02/2025 13:19,0.24,3.27,Sale,Completed
+JO-2504-7516-39450,Z Mall,Z Mall Al Jubeiha,03/02/2025 13:13,0.48,6.55,Sale,Completed
+JO-2504-9499-17445,Z Mall,Z Mall Al Jubeiha,03/02/2025 12:25,0.42,5.72,Sale,Completed
+JO-2504-8326-36863,Z Mall,Z Mall Gardens,03/02/2025 12:18,0.75,10.13,Sale,Completed
+JO-2504-5022-99291,Y Mall,Y Mall Tla'a Al-Ali,03/02/2025 11:59,0.24,3.27,Sale,Completed
+JO-2504-4186-88693,C Mall,C Mall Irbid,03/02/2025 11:46,0.24,3.27,Sale,Completed
+JO-2504-7107-84397,C Mall,C Mall Amman,03/02/2025 11:38,0.28,3.8,Sale,Completed
+JO-2504-5260-72447,Y Mall,Y Mall Tla'a Al-Ali,03/02/2025 11:26,0.7,9.47,Sale,Completed
+JO-2504-2193-84482,Z Mall,Z Mall Gardens,03/02/2025 10:28,0.74,9.88,Sale,Completed
+JO-2504-1324-68100,Y Mall,Y Mall Tla'a Al-Ali,03/02/2025 10:25,0.48,6.55,Sale,Completed
+JO-2504-1513-91445,Z Mall,Z Mall Al Bayader,03/02/2025 10:22,0.28,3.8,Sale,Completed
+JO-2504-3498-47129,Y Mall,Y Mall Dabouq,03/02/2025 10:20,0.66,8.96,Refund,Completed
+JO-2504-4978-73489,C Mall,C Mall Aqaba,03/02/2025 10:16,0.44,5.97,Sale,Completed
+JO-2504-9574-45402,C Mall,C Mall Amman,03/02/2025 10:01,0.24,3.27,Sale,Completed
+JO-2504-4072-22640,C Mall,C Mall Aqaba,03/02/2025 9:51,0.33,4.45,Sale,Completed
+JO-2504-1484-70921,Y Mall,Y Mall Dabouq,03/02/2025 9:23,2.47,33.32,Sale,Completed
+JO-2504-8802-10245,C Mall,C Mall Irbid,02/02/2025 19:11,0.33,4.43,Sale,Completed
+JO-2504-4629-96860,C Mall,C Mall Irbid,02/02/2025 19:09,1.28,17.26,Sale,Completed
+JO-2504-4428-74042,Z Mall,Z Mall Al Bayader,02/02/2025 19:06,1.13,15.41,Sale,Completed
+JO-2504-8102-30682,Z Mall,Z Mall Gardens,02/02/2025 19:00,0.44,5.97,Sale,Completed
+JO-2504-6031-56189,Z Mall,Z Mall Al Bayader,02/02/2025 18:57,0.41,5.5,Sale,Completed
+JO-2504-3273-77486,Z Mall,Z Mall Gardens,02/02/2025 18:57,0.71,9.74,Sale,Completed
+JO-2504-5175-59428,Y Mall,Y Mall Dabouq,02/02/2025 18:56,0.46,6.24,Sale,Completed
+JO-2504-4644-75481,C Mall,C Mall Aqaba,02/02/2025 16:17,0.28,3.8,Sale,Completed
+JO-2504-4368-29020,Y Mall,Y Mall Tla'a Al-Ali,02/02/2025 16:09,0.24,3.27,Sale,Completed
+JO-2504-2921-28810,C Mall,C Mall Irbid,02/02/2025 15:59,0.36,4.77,Sale,Completed
+JO-2504-9695-23403,Z Mall,Z Mall Al Jubeiha,02/02/2025 15:39,0.15,2.04,Sale,Completed
+JO-2504-7831-97283,Y Mall,Y Mall Shmeisani,02/02/2025 15:27,1.87,25.23,Sale,Completed
+JO-2504-1580-57028,C Mall,C Mall Irbid,02/02/2025 15:19,0.06,0.8,Sale,Completed
+JO-2504-2080-18649,Z Mall,Z Mall Gardens,02/02/2025 15:02,0.44,5.97,Sale,Completed
+JO-2504-9547-69908,Z Mall,Z Mall Gardens,02/02/2025 14:44,0.58,7.8,Sale,Completed
+JO-2504-7045-91707,C Mall,C Mall Aqaba,02/02/2025 14:36,0.96,13.02,Sale,Completed
+JO-2504-4311-89012,C Mall,C Mall Irbid,02/02/2025 14:35,0.72,9.79,Sale,Completed
+JO-2504-2052-45224,Z Mall,Z Mall Al Bayader,02/02/2025 14:17,6.33,85.52,Sale,Completed
+JO-2504-5678-43753,Y Mall,Y Mall Dabouq,02/02/2025 14:12,0.24,3.27,Sale,Completed
+JO-2504-2469-27811,Y Mall,Y Mall Tla'a Al-Ali,02/02/2025 14:11,0.27,3.65,Sale,Completed
+JO-2504-9473-89813,Y Mall,Y Mall Tla'a Al-Ali,02/02/2025 14:07,0.24,3.27,Sale,Completed
+JO-2504-3730-42892,Y Mall,Y Mall Dabouq,02/02/2025 13:53,0.47,6.4,Sale,Completed
+JO-2504-8925-55208,C Mall,C Mall Irbid,02/02/2025 13:50,0.06,0.8,Sale,Completed
+JO-2504-7128-97149,Y Mall,Y Mall Tla'a Al-Ali,02/02/2025 13:42,0.72,9.75,Sale,Completed
+JO-2504-4134-36909,Y Mall,Y Mall Dabouq,02/02/2025 13:37,0.51,7.02,Sale,Completed
+JO-2504-8714-44292,Z Mall,Z Mall Gardens,02/02/2025 13:23,0.24,3.27,Sale,Completed
+JO-2504-9618-65324,C Mall,C Mall Irbid,02/02/2025 13:20,0.66,8.96,Sale,Completed
+JO-2504-4752-59212,Y Mall,Y Mall Tla'a Al-Ali,02/02/2025 13:19,0.24,3.27,Sale,Completed
+JO-2504-6534-11474,Y Mall,Y Mall Tla'a Al-Ali,02/02/2025 13:19,0.24,3.27,Sale,Completed
+JO-2504-4530-72934,C Mall,C Mall Irbid,02/02/2025 13:14,0.24,3.27,Sale,Completed
+JO-2504-9329-93583,Z Mall,Z Mall Gardens,02/02/2025 13:06,0.36,4.77,Sale,Completed
+JO-2504-5817-63158,Y Mall,Y Mall Shmeisani,02/02/2025 12:53,0.66,8.96,Sale,Completed
+JO-2504-1258-38306,Z Mall,Z Mall Gardens,02/02/2025 12:32,0.28,3.8,Sale,Completed
+JO-2504-5479-17889,Y Mall,Y Mall Tla'a Al-Ali,02/02/2025 12:03,0.24,3.27,Sale,Completed
+JO-2504-8487-64954,Y Mall,Y Mall Shmeisani,02/02/2025 11:56,0.81,11,Sale,Completed
+JO-2504-5847-85381,C Mall,C Mall Irbid,02/02/2025 11:48,0.66,8.96,Sale,Completed
+JO-2504-7542-25176,C Mall,C Mall Irbid,02/02/2025 11:35,0.39,5.31,Sale,Completed
+JO-2504-9998-37393,C Mall,C Mall Amman,02/02/2025 11:13,1.76,23.88,Sale,Completed
+JO-2504-1697-52346,Y Mall,Y Mall Shmeisani,02/02/2025 10:47,0.65,8.79,Sale,Completed
+JO-2504-5378-35790,Y Mall,Y Mall Shmeisani,02/02/2025 10:45,0.28,3.8,Sale,Completed
+JO-2504-9643-12737,C Mall,C Mall Amman,02/02/2025 10:40,0.42,5.72,Sale,Completed
+JO-2504-3033-46421,Z Mall,Z Mall Al Bayader,01/02/2025 19:32,0.66,8.96,Sale,Completed
+JO-2504-6604-50532,Y Mall,Y Mall Tla'a Al-Ali,01/02/2025 18:59,0.66,8.96,Sale,Completed
+JO-2504-9970-65148,Z Mall,Z Mall Gardens,01/02/2025 18:47,0.25,3.4,Sale,Completed
+JO-2504-2658-57546,Y Mall,Y Mall Shmeisani,01/02/2025 18:43,0.1,1.36,Sale,Completed
+JO-2504-9483-23326,C Mall,C Mall Aqaba,01/02/2025 18:15,1.46,19.7,Sale,Completed
+JO-2504-2238-70374,Z Mall,Z Mall Gardens,01/02/2025 17:37,0.75,10.15,Sale,Completed
+JO-2504-8102-81959,Y Mall,Y Mall Shmeisani,01/02/2025 17:37,1.97,26.7,Sale,Completed
+JO-2504-4662-57767,C Mall,C Mall Irbid,01/02/2025 17:29,0.74,9.93,Sale,Completed
+JO-2504-2240-19740,Y Mall,Y Mall Shmeisani,01/02/2025 17:19,0.66,8.96,Sale,Completed
+JO-2504-1131-51088,Y Mall,Y Mall Tla'a Al-Ali,01/02/2025 16:58,0.5,6.85,Sale,Completed
+JO-2504-5806-46428,Z Mall,Z Mall Al Bayader,01/02/2025 16:08,0.06,0.8,Sale,Completed
+JO-2504-4565-19724,Y Mall,Y Mall Tla'a Al-Ali,01/02/2025 16:01,0.71,9.64,Sale,Completed
+JO-2504-4091-41272,C Mall,C Mall Irbid,01/02/2025 16:00,1.41,19.05,Sale,Completed
+JO-2504-1999-12415,C Mall,C Mall Aqaba,01/02/2025 15:56,0.66,8.96,Sale,Completed
+JO-2504-6779-40620,C Mall,C Mall Irbid,01/02/2025 15:51,1.67,22.51,Sale,Completed
+JO-2504-5780-30295,Z Mall,Z Mall Al Jubeiha,01/02/2025 14:59,1.35,18.35,Sale,Completed
+JO-2504-2909-26640,C Mall,C Mall Amman,01/02/2025 14:56,1.34,18.27,Sale,Completed
+JO-2504-4698-30603,Y Mall,Y Mall Dabouq,01/02/2025 14:51,0.48,6.55,Sale,Completed
+JO-2504-7208-39070,Y Mall,Y Mall Tla'a Al-Ali,01/02/2025 14:48,0.66,8.9,Sale,Completed
+JO-2504-9567-61152,Y Mall,Y Mall Shmeisani,01/02/2025 14:38,0.24,3.27,Sale,Completed
+JO-2504-4555-48225,Y Mall,Y Mall Tla'a Al-Ali,01/02/2025 14:36,1.32,17.91,Sale,Completed
+JO-2504-3228-62476,Z Mall,Z Mall Al Jubeiha,01/02/2025 14:36,0.24,3.27,Sale,Completed
+JO-2504-2551-22529,C Mall,C Mall Amman,01/02/2025 14:29,0.66,8.96,Sale,Completed
+JO-2504-1004-65729,Z Mall,Z Mall Al Bayader,01/02/2025 14:24,0.42,5.67,Sale,Completed
+JO-2504-5648-73211,Z Mall,Z Mall Al Jubeiha,01/02/2025 14:24,0.24,3.27,Sale,Completed
+JO-2504-8084-98377,C Mall,C Mall Irbid,01/02/2025 14:22,0.48,6.55,Sale,Completed
+JO-2504-6286-69718,Y Mall,Y Mall Tla'a Al-Ali,01/02/2025 14:07,0.86,11.74,Sale,Completed
+JO-2504-1639-32209,Y Mall,Y Mall Shmeisani,01/02/2025 14:05,0.66,8.96,Sale,Completed
+JO-2504-6393-93885,C Mall,C Mall Aqaba,01/02/2025 14:04,0.24,3.27,Sale,Completed
+JO-2504-7930-81189,Z Mall,Z Mall Al Jubeiha,01/02/2025 13:57,0.5,6.8,Sale,Completed
+JO-2504-2274-65766,Z Mall,Z Mall Gardens,01/02/2025 13:33,0.36,4.88,Sale,Completed
+JO-2504-1483-75530,Y Mall,Y Mall Tla'a Al-Ali,01/02/2025 13:07,0.24,3.27,Sale,Completed
+JO-2504-4958-83409,Z Mall,Z Mall Al Bayader,01/02/2025 13:03,0.34,4.54,Sale,Completed
+JO-2504-8281-74204,C Mall,C Mall Amman,01/02/2025 13:00,0.57,7.61,Sale,Completed
+JO-2504-2997-90697,Z Mall,Z Mall Al Bayader,01/02/2025 12:49,0.24,3.27,Sale,Completed
+JO-2504-3241-62426,Y Mall,Y Mall Dabouq,01/02/2025 12:44,0.66,8.96,Sale,Completed
+JO-2504-4445-25736,Z Mall,Z Mall Gardens,01/02/2025 12:39,0.24,3.27,Sale,Completed
+JO-2504-3901-66477,Z Mall,Z Mall Al Bayader,01/02/2025 12:29,0.52,7.07,Sale,Completed
+JO-2504-8598-58998,Z Mall,Z Mall Al Bayader,01/02/2025 12:27,0.24,3.27,Sale,Completed
+JO-2504-9836-42025,Y Mall,Y Mall Shmeisani,01/02/2025 12:20,1.32,17.91,Sale,Completed
+JO-2504-2299-61775,Y Mall,Y Mall Shmeisani,01/02/2025 12:19,1.44,19.4,Sale,Completed
+JO-2504-8301-26935,Z Mall,Z Mall Al Bayader,01/02/2025 11:57,0.28,3.8,Sale,Completed
+JO-2504-9524-22911,Y Mall,Y Mall Shmeisani,01/02/2025 11:48,0.05,0.68,Sale,Completed
+JO-2504-3798-90553,Y Mall,Y Mall Dabouq,01/02/2025 11:27,0.06,0.8,Sale,Completed
+JO-2504-6811-84303,C Mall,C Mall Amman,01/02/2025 11:24,0.46,6.24,Sale,Completed
+JO-2504-5904-15848,Z Mall,Z Mall Gardens,01/02/2025 11:15,0.66,8.96,Sale,Completed
+JO-2504-4847-99178,Y Mall,Y Mall Dabouq,01/02/2025 11:00,0.39,5.31,Sale,Completed
+JO-2504-4460-27565,C Mall,C Mall Irbid,01/02/2025 10:18,0.24,3.27,Sale,Completed
+JO-2504-2653-85130,Z Mall,Z Mall Al Jubeiha,31/01/2025 19:47,1.5,20.23,Sale,Completed
+JO-2504-2069-38371,Z Mall,Z Mall Al Bayader,31/01/2025 19:45,1.1,14.91,Sale,Completed
+JO-2504-9121-94749,Y Mall,Y Mall Dabouq,31/01/2025 19:03,1.82,24.42,Sale,Completed
+JO-2504-8517-72156,C Mall,C Mall Irbid,31/01/2025 18:54,0.66,8.96,Sale,Completed
+JO-2504-7747-86803,C Mall,C Mall Irbid,31/01/2025 18:48,0.69,9.3,Sale,Completed
+JO-2504-2167-99826,Y Mall,Y Mall Tla'a Al-Ali,31/01/2025 18:38,0.66,8.96,Sale,Completed
+JO-2504-4278-10043,Z Mall,Z Mall Al Jubeiha,31/01/2025 18:31,1.32,17.91,Sale,Completed
+JO-2504-4221-27218,Z Mall,Z Mall Al Bayader,31/01/2025 18:27,0.36,4.77,Sale,Completed
+JO-2504-5724-55410,Y Mall,Y Mall Dabouq,31/01/2025 18:26,0.05,0.68,Sale,Completed
+JO-2504-4706-67656,Y Mall,Y Mall Tla'a Al-Ali,31/01/2025 18:25,0.41,5.45,Sale,Completed
+JO-2504-9689-98468,C Mall,C Mall Irbid,31/01/2025 18:06,0.06,0.8,Sale,Completed
+JO-2504-4294-71817,Z Mall,Z Mall Gardens,31/01/2025 18:02,1.74,23.63,Sale,Completed
+JO-2504-9556-16859,Z Mall,Z Mall Al Jubeiha,31/01/2025 17:36,0.06,0.8,Sale,Completed
+JO-2504-5570-40956,Y Mall,Y Mall Tla'a Al-Ali,31/01/2025 17:31,0.66,8.96,Sale,Completed
+JO-2504-4757-73574,Y Mall,Y Mall Dabouq,31/01/2025 17:15,0.27,3.68,Sale,Completed
+JO-2504-6955-30643,C Mall,C Mall Amman,31/01/2025 17:04,0.66,8.96,Sale,Completed
+JO-2504-4920-17182,Y Mall,Y Mall Tla'a Al-Ali,31/01/2025 17:03,1.41,18.97,Sale,Completed
+JO-2504-1302-80092,Z Mall,Z Mall Al Jubeiha,31/01/2025 16:37,1.07,14.41,Sale,Completed
+JO-2504-5827-64892,C Mall,C Mall Irbid,31/01/2025 16:34,0.2,2.77,Sale,Completed
+JO-2504-7599-47299,Z Mall,Z Mall Al Jubeiha,31/01/2025 16:30,3.76,50.76,Sale,Completed
+JO-2504-6735-34136,Z Mall,Z Mall Al Bayader,31/01/2025 16:15,0.66,8.96,Sale,Completed
+JO-2504-2903-98766,C Mall,C Mall Amman,31/01/2025 16:13,0.66,8.96,Sale,Completed
+JO-2504-8917-24908,Z Mall,Z Mall Gardens,31/01/2025 16:03,0.66,8.96,Sale,Completed
+JO-2504-4970-56408,Y Mall,Y Mall Dabouq,31/01/2025 15:46,0.24,3.27,Sale,Completed
+JO-2504-3470-63311,Y Mall,Y Mall Dabouq,31/01/2025 15:41,0.66,8.96,Sale,Completed
+JO-2504-4496-96122,C Mall,C Mall Irbid,31/01/2025 15:39,0.24,3.27,Sale,Completed
+JO-2504-5211-53607,C Mall,C Mall Aqaba,31/01/2025 15:38,0.09,1.13,Sale,Completed
+JO-2504-9147-69900,Z Mall,Z Mall Al Bayader,31/01/2025 15:35,0.48,6.57,Sale,Completed
+JO-2504-1132-13093,C Mall,C Mall Irbid,31/01/2025 15:33,1.08,14.52,Sale,Completed
+JO-2504-8044-23282,Y Mall,Y Mall Tla'a Al-Ali,31/01/2025 15:32,0.24,3.27,Sale,Completed
+JO-2504-1427-25029,Z Mall,Z Mall Gardens,31/01/2025 15:29,1.46,19.73,Sale,Completed
+JO-2504-5924-44958,Z Mall,Z Mall Al Bayader,31/01/2025 15:27,1.27,17.07,Sale,Completed
+JO-2504-4313-10356,Z Mall,Z Mall Al Jubeiha,31/01/2025 15:26,0.75,10.01,Sale,Completed
+JO-2504-7374-20125,C Mall,C Mall Aqaba,31/01/2025 15:19,0.66,8.96,Sale,Completed
+JO-2504-8131-36983,Z Mall,Z Mall Al Bayader,31/01/2025 15:14,0.11,1.48,Sale,Completed
+JO-2504-2857-82539,C Mall,C Mall Amman,31/01/2025 15:13,0.43,5.83,Sale,Completed
+JO-2504-7553-19085,C Mall,C Mall Irbid,31/01/2025 15:00,0.42,5.67,Sale,Completed
+JO-2504-1736-66548,Z Mall,Z Mall Al Bayader,31/01/2025 14:58,0.36,4.77,Sale,Completed
+JO-2504-7011-29244,Z Mall,Z Mall Al Jubeiha,31/01/2025 14:41,0.48,6.55,Sale,Completed
+JO-2504-8937-53072,Z Mall,Z Mall Gardens,31/01/2025 14:35,0.05,0.68,Sale,Completed
+JO-2504-1774-80225,C Mall,C Mall Amman,31/01/2025 14:33,0.24,3.27,Sale,Completed
+JO-2504-2011-76674,Y Mall,Y Mall Tla'a Al-Ali,31/01/2025 14:24,0.75,10.01,Sale,Completed
+JO-2504-4810-13160,C Mall,C Mall Amman,31/01/2025 14:23,0.75,10.01,Sale,Completed
+JO-2504-5612-86677,Z Mall,Z Mall Al Bayader,31/01/2025 14:14,0.82,11.11,Sale,Completed
+JO-2504-6295-37693,C Mall,C Mall Amman,31/01/2025 14:09,0.72,9.75,Sale,Completed
+JO-2504-5167-85666,Y Mall,Y Mall Shmeisani,31/01/2025 13:58,0.34,4.54,Sale,Completed
+JO-2504-2421-83957,C Mall,C Mall Irbid,31/01/2025 13:56,0.25,3.4,Sale,Completed
+JO-2504-4065-44057,C Mall,C Mall Irbid,31/01/2025 13:49,0.66,8.96,Sale,Completed
+JO-2504-3312-37454,Z Mall,Z Mall Gardens,31/01/2025 13:48,0.24,3.27,Sale,Completed
+JO-2504-7418-97021,C Mall,C Mall Irbid,31/01/2025 13:47,0.24,3.27,Sale,Completed
+JO-2504-8245-33254,Y Mall,Y Mall Shmeisani,31/01/2025 13:40,0.24,3.27,Sale,Completed
+JO-2504-5617-26618,Z Mall,Z Mall Al Bayader,31/01/2025 13:31,0.24,3.27,Sale,Completed
+JO-2504-3535-24024,Z Mall,Z Mall Gardens,31/01/2025 13:18,1.32,17.91,Sale,Completed
+JO-2504-5509-40819,Y Mall,Y Mall Shmeisani,31/01/2025 13:17,0.48,6.55,Sale,Completed
+JO-2504-3319-43846,Z Mall,Z Mall Al Jubeiha,31/01/2025 12:57,0.28,3.8,Sale,Completed
+JO-2504-1865-77864,Y Mall,Y Mall Tla'a Al-Ali,31/01/2025 12:55,0.24,3.27,Sale,Completed
+JO-2504-3218-40005,C Mall,C Mall Amman,31/01/2025 12:53,0.47,6.35,Sale,Completed
+JO-2504-1183-86562,C Mall,C Mall Amman,31/01/2025 12:42,0.37,4.99,Sale,Completed
+JO-2504-4914-97631,Y Mall,Y Mall Dabouq,31/01/2025 12:39,0.57,7.61,Sale,Completed
+JO-2504-8525-91646,Z Mall,Z Mall Al Bayader,31/01/2025 12:37,0.65,8.79,Sale,Completed
+JO-2504-7131-69419,Z Mall,Z Mall Gardens,31/01/2025 12:35,1.02,13.73,Sale,Completed
+JO-2504-4657-12446,Z Mall,Z Mall Al Jubeiha,31/01/2025 12:34,0.83,11.07,Sale,Completed
+JO-2504-7539-24647,Z Mall,Z Mall Gardens,31/01/2025 12:25,0.41,5.45,Sale,Completed
+JO-2504-7107-77319,Y Mall,Y Mall Dabouq,31/01/2025 12:19,0.43,5.81,Sale,Completed
+JO-2504-6730-23654,C Mall,C Mall Amman,31/01/2025 12:17,0.66,8.96,Sale,Completed
+JO-2504-4800-65829,Z Mall,Z Mall Gardens,31/01/2025 12:15,1.71,23.18,Sale,Completed
+JO-2504-8078-38155,Z Mall,Z Mall Al Bayader,31/01/2025 12:06,1,13.46,Sale,Completed
+JO-2504-6266-26938,Y Mall,Y Mall Shmeisani,31/01/2025 11:59,0.24,3.27,Refund,Completed
+JO-2504-6961-51314,Z Mall,Z Mall Gardens,31/01/2025 11:52,0.87,11.74,Sale,Completed
+JO-2504-6882-98517,C Mall,C Mall Amman,31/01/2025 11:31,0.55,7.38,Sale,Completed
+JO-2504-9951-61673,Y Mall,Y Mall Shmeisani,31/01/2025 11:11,0.76,10.11,Sale,Completed
+JO-2504-4400-83820,C Mall,C Mall Amman,31/01/2025 11:08,0.24,3.27,Sale,Completed
+JO-2504-1617-25467,Y Mall,Y Mall Tla'a Al-Ali,31/01/2025 10:43,0.88,11.96,Sale,Completed
+JO-2504-7987-38975,C Mall,C Mall Amman,31/01/2025 10:05,0.24,3.27,Sale,Completed
+JO-2504-3419-49937,Z Mall,Z Mall Al Bayader,31/01/2025 10:04,0.28,3.8,Sale,Completed
+JO-2504-8221-58087,C Mall,C Mall Irbid,31/01/2025 10:00,0.89,12.07,Sale,Completed
+JO-2504-2935-50310,Y Mall,Y Mall Dabouq,31/01/2025 9:54,2.13,28.85,Sale,Completed
+JO-2504-4929-46215,C Mall,C Mall Irbid,31/01/2025 9:15,0.66,8.96,Sale,Completed
+JO-2504-3287-32671,Z Mall,Z Mall Al Bayader,30/01/2025 19:23,0.66,8.96,Sale,Completed
+JO-2504-9222-66036,C Mall,C Mall Aqaba,30/01/2025 19:07,0.24,3.27,Sale,Completed
+JO-2504-7338-92403,Y Mall,Y Mall Shmeisani,30/01/2025 18:11,0.11,1.48,Sale,Completed
+JO-2504-5597-77226,Y Mall,Y Mall Dabouq,30/01/2025 17:57,0.53,7.25,Sale,Completed
+JO-2504-9427-90434,C Mall,C Mall Amman,30/01/2025 17:43,0.47,6.4,Sale,Completed
+JO-2504-7806-72898,C Mall,C Mall Aqaba,30/01/2025 17:34,1.2,16.18,Sale,Completed
+JO-2504-9869-95778,Z Mall,Z Mall Gardens,30/01/2025 17:27,0.44,5.97,Sale,Completed
+JO-2504-4516-96021,C Mall,C Mall Amman,30/01/2025 17:20,0.37,4.91,Sale,Completed
+JO-2504-7221-50168,Y Mall,Y Mall Tla'a Al-Ali,30/01/2025 17:18,0.47,6.4,Sale,Completed
+JO-2504-6354-17820,C Mall,C Mall Amman,30/01/2025 17:17,0.44,5.97,Sale,Completed
+JO-2504-6553-27132,Y Mall,Y Mall Tla'a Al-Ali,30/01/2025 17:13,0.57,7.61,Sale,Completed
+JO-2504-2601-85268,Z Mall,Z Mall Gardens,30/01/2025 17:12,0.06,0.8,Sale,Completed
+JO-2504-7367-38516,Z Mall,Z Mall Al Jubeiha,30/01/2025 17:01,1.35,18.38,Sale,Completed
+JO-2504-9309-21897,C Mall,C Mall Irbid,30/01/2025 16:39,1.21,16.33,Sale,Completed
+JO-2504-4494-28403,Z Mall,Z Mall Al Bayader,30/01/2025 16:36,1.32,17.91,Sale,Completed
+JO-2504-9572-17727,Y Mall,Y Mall Shmeisani,30/01/2025 16:16,0.24,3.27,Sale,Completed
+JO-2504-5657-30785,C Mall,C Mall Aqaba,30/01/2025 15:48,0.11,1.58,Sale,Completed
+JO-2504-3920-49450,C Mall,C Mall Aqaba,30/01/2025 15:17,0.39,5.31,Sale,Completed
+JO-2504-2489-78726,Y Mall,Y Mall Dabouq,30/01/2025 15:02,0.51,6.86,Sale,Completed
+JO-2504-2419-37220,Y Mall,Y Mall Shmeisani,30/01/2025 14:31,1.16,15.65,Sale,Completed
+JO-2504-6195-77689,Z Mall,Z Mall Al Jubeiha,30/01/2025 14:16,1,13.5,Sale,Completed
+JO-2504-9953-20565,Z Mall,Z Mall Gardens,30/01/2025 14:10,0.25,3.4,Sale,Completed
+JO-2504-2920-93810,C Mall,C Mall Amman,30/01/2025 14:09,0.96,12.93,Sale,Completed
+JO-2504-8776-77234,Z Mall,Z Mall Al Jubeiha,30/01/2025 14:07,0.24,3.27,Sale,Completed
+JO-2504-5413-10398,Y Mall,Y Mall Tla'a Al-Ali,30/01/2025 14:03,0.24,3.27,Sale,Completed
+JO-2504-7369-31847,Y Mall,Y Mall Dabouq,30/01/2025 14:02,0.44,5.97,Sale,Completed
+JO-2504-1428-36753,Y Mall,Y Mall Tla'a Al-Ali,30/01/2025 14:02,0.84,11.34,Sale,Completed
+JO-2504-9685-43664,C Mall,C Mall Aqaba,30/01/2025 14:02,0.24,3.27,Sale,Completed
+JO-2504-3911-56417,Y Mall,Y Mall Tla'a Al-Ali,30/01/2025 14:01,1.32,17.91,Sale,Completed
+JO-2504-1609-31165,Z Mall,Z Mall Al Bayader,30/01/2025 14:01,0.57,7.61,Sale,Completed
+JO-2504-3226-56312,Z Mall,Z Mall Al Bayader,30/01/2025 14:00,0.24,3.27,Sale,Completed
+JO-2504-2016-90391,C Mall,C Mall Amman,30/01/2025 14:00,0.25,3.4,Sale,Completed
+JO-2504-1589-43550,Z Mall,Z Mall Al Bayader,30/01/2025 14:00,0.24,3.27,Sale,Completed
+JO-2504-2728-78292,C Mall,C Mall Amman,30/01/2025 13:59,0.5,6.8,Sale,Completed
+JO-2504-4100-25408,C Mall,C Mall Irbid,30/01/2025 12:53,0.42,5.57,Sale,Completed
+JO-2504-9671-35006,Y Mall,Y Mall Tla'a Al-Ali,30/01/2025 12:51,0.78,10.48,Sale,Completed
+JO-2504-8583-82396,Z Mall,Z Mall Al Jubeiha,30/01/2025 12:50,0.42,5.57,Sale,Completed
+JO-2504-8501-13181,C Mall,C Mall Amman,30/01/2025 12:40,0.24,3.27,Sale,Completed
+JO-2504-4591-97299,C Mall,C Mall Amman,30/01/2025 12:39,0.66,8.96,Sale,Completed
+JO-2504-5070-79834,C Mall,C Mall Irbid,30/01/2025 12:36,0.66,8.96,Sale,Completed
+JO-2504-9160-39462,C Mall,C Mall Amman,30/01/2025 12:28,0.66,8.96,Sale,Completed
+JO-2504-5344-97719,Y Mall,Y Mall Shmeisani,30/01/2025 12:27,0.24,3.27,Sale,Completed
+JO-2504-6170-90873,C Mall,C Mall Aqaba,30/01/2025 12:18,0.75,10.01,Sale,Completed
+JO-2504-9414-54147,Z Mall,Z Mall Gardens,30/01/2025 12:05,0.24,3.27,Sale,Completed
+JO-2504-1869-21469,Z Mall,Z Mall Al Jubeiha,30/01/2025 12:03,0.28,3.8,Sale,Completed
+JO-2504-4408-45259,C Mall,C Mall Amman,30/01/2025 12:02,0.48,6.55,Sale,Completed
+JO-2504-9130-36909,C Mall,C Mall Irbid,30/01/2025 11:56,0.98,13.13,Sale,Completed
+JO-2504-9324-56051,Y Mall,Y Mall Tla'a Al-Ali,30/01/2025 11:53,0.32,4.21,Sale,Completed
+JO-2504-3874-91606,C Mall,C Mall Amman,30/01/2025 11:46,1.32,17.91,Sale,Completed
+JO-2504-6283-97306,Z Mall,Z Mall Gardens,30/01/2025 11:33,0.24,3.27,Sale,Completed
+JO-2504-6163-18611,C Mall,C Mall Amman,30/01/2025 11:29,0.36,4.88,Sale,Completed
+JO-2504-3394-72009,Z Mall,Z Mall Al Bayader,30/01/2025 11:23,0.97,13.11,Sale,Completed
+JO-2504-2579-42621,Y Mall,Y Mall Tla'a Al-Ali,30/01/2025 11:17,1.07,14.41,Sale,Completed
+JO-2504-9149-84268,Y Mall,Y Mall Tla'a Al-Ali,30/01/2025 11:14,0.28,3.8,Sale,Completed
+JO-2504-6535-27226,Y Mall,Y Mall Tla'a Al-Ali,30/01/2025 11:03,0.66,8.96,Sale,Completed
+JO-2504-6386-53990,Y Mall,Y Mall Shmeisani,30/01/2025 10:25,1.02,13.73,Sale,Completed
+JO-2504-6753-75681,Y Mall,Y Mall Shmeisani,30/01/2025 10:11,0.48,6.55,Sale,Completed
+JO-2504-6499-40548,Y Mall,Y Mall Tla'a Al-Ali,29/01/2025 20:02,1.54,20.88,Sale,Completed
+JO-2504-5699-20398,Z Mall,Z Mall Al Jubeiha,29/01/2025 19:42,0.06,0.8,Sale,Completed
+JO-2504-9363-73549,C Mall,C Mall Amman,29/01/2025 18:04,0.36,4.77,Sale,Completed
+JO-2504-4816-92630,Y Mall,Y Mall Tla'a Al-Ali,29/01/2025 17:57,0.66,8.96,Sale,Completed
+JO-2504-8990-74358,C Mall,C Mall Aqaba,29/01/2025 17:56,0.66,8.96,Sale,Completed
+JO-2504-2972-18466,Z Mall,Z Mall Gardens,29/01/2025 17:49,0.24,3.27,Sale,Completed
+JO-2504-8651-35685,Z Mall,Z Mall Gardens,29/01/2025 17:29,0.65,8.84,Sale,Completed
+JO-2504-7920-19503,Y Mall,Y Mall Tla'a Al-Ali,29/01/2025 17:20,1.32,17.91,Sale,Completed
+JO-2504-2423-97397,C Mall,C Mall Irbid,29/01/2025 16:28,0.66,8.96,Sale,Completed
+JO-2504-3025-64667,Z Mall,Z Mall Gardens,29/01/2025 16:02,0.66,8.96,Sale,Completed
+JO-2504-6584-27280,C Mall,C Mall Aqaba,29/01/2025 15:43,0.72,9.75,Sale,Completed
+JO-2504-2545-14532,C Mall,C Mall Irbid,29/01/2025 15:18,1.02,13.83,Sale,Completed
+JO-2504-1532-35314,Y Mall,Y Mall Shmeisani,29/01/2025 15:00,0.24,3.27,Sale,Completed
+JO-2504-1434-25501,Z Mall,Z Mall Gardens,29/01/2025 14:57,0.66,8.9,Sale,Completed
+JO-2504-7839-13909,Z Mall,Z Mall Al Bayader,29/01/2025 14:53,1.85,25.06,Sale,Completed
+JO-2504-7761-59392,Y Mall,Y Mall Shmeisani,29/01/2025 14:52,0.36,4.88,Sale,Completed
+JO-2504-4585-53723,Z Mall,Z Mall Gardens,29/01/2025 14:30,0.71,9.64,Sale,Completed
+JO-2504-9940-93584,Z Mall,Z Mall Gardens,29/01/2025 14:24,0.66,8.96,Sale,Completed
+JO-2504-8875-99032,C Mall,C Mall Irbid,29/01/2025 14:21,0.48,6.55,Sale,Completed
+JO-2504-4481-14975,C Mall,C Mall Aqaba,29/01/2025 14:20,0.24,3.27,Sale,Completed
+JO-2504-1545-71529,C Mall,C Mall Amman,29/01/2025 14:19,0.39,5.31,Sale,Completed
+JO-2504-4895-66344,C Mall,C Mall Aqaba,29/01/2025 14:12,1.32,17.91,Sale,Completed
+JO-2504-5857-91327,Y Mall,Y Mall Tla'a Al-Ali,29/01/2025 14:04,0.24,3.27,Sale,Completed
+JO-2504-6600-56644,C Mall,C Mall Aqaba,29/01/2025 14:01,0.24,3.27,Sale,Completed
+JO-2504-9434-33092,C Mall,C Mall Irbid,29/01/2025 13:32,0.66,8.96,Sale,Completed
+JO-2504-6851-53968,C Mall,C Mall Aqaba,29/01/2025 13:23,0.24,3.27,Sale,Completed
+JO-2504-4564-55948,C Mall,C Mall Amman,29/01/2025 13:07,0.24,3.27,Sale,Completed
+JO-2504-9789-90451,Z Mall,Z Mall Al Bayader,29/01/2025 12:48,0.24,3.27,Sale,Completed
+JO-2504-9158-88909,C Mall,C Mall Amman,29/01/2025 12:46,0.66,8.96,Sale,Completed
+JO-2504-7877-93600,Y Mall,Y Mall Shmeisani,29/01/2025 12:33,0.28,3.8,Sale,Completed
+JO-2504-9257-34257,C Mall,C Mall Aqaba,29/01/2025 11:44,0.76,10.21,Sale,Completed
+JO-2504-6307-65138,Y Mall,Y Mall Shmeisani,29/01/2025 11:43,0.75,10.01,Sale,Completed
+JO-2504-2201-54513,Y Mall,Y Mall Dabouq,29/01/2025 11:42,0.66,8.96,Sale,Completed
+JO-2504-8461-45947,Z Mall,Z Mall Al Bayader,29/01/2025 10:40,0.48,6.55,Sale,Completed
+JO-2504-2719-31682,C Mall,C Mall Aqaba,29/01/2025 10:23,1.32,17.91,Sale,Completed
+JO-2504-3202-80631,Z Mall,Z Mall Al Jubeiha,29/01/2025 10:05,0.66,8.96,Sale,Completed
+JO-2504-2880-41101,C Mall,C Mall Aqaba,28/01/2025 20:03,1.09,14.85,Sale,Completed
+JO-2504-8071-40788,C Mall,C Mall Aqaba,28/01/2025 19:19,0.41,5.45,Sale,Completed
+JO-2504-6004-52669,Z Mall,Z Mall Al Bayader,28/01/2025 17:53,0.66,8.96,Sale,Completed
+JO-2504-9321-33341,Y Mall,Y Mall Dabouq,28/01/2025 17:43,0.66,8.96,Sale,Completed
+JO-2504-5219-30172,C Mall,C Mall Aqaba,28/01/2025 17:33,0.66,8.96,Sale,Completed
+JO-2504-5433-87115,Y Mall,Y Mall Tla'a Al-Ali,28/01/2025 16:58,1.32,17.91,Sale,Completed
+JO-2504-8225-69362,Z Mall,Z Mall Al Bayader,28/01/2025 16:44,0.24,3.27,Sale,Completed
+JO-2504-4777-32272,Z Mall,Z Mall Gardens,28/01/2025 16:30,0.05,0.68,Sale,Completed
+JO-2504-2013-26102,C Mall,C Mall Amman,28/01/2025 16:23,0.66,8.96,Sale,Completed
+JO-2504-5082-11180,Y Mall,Y Mall Dabouq,28/01/2025 16:23,0.33,4.43,Sale,Completed
+JO-2504-5125-21082,C Mall,C Mall Amman,28/01/2025 15:50,1.35,18.2,Sale,Completed
+JO-2504-5538-47675,Z Mall,Z Mall Al Bayader,28/01/2025 15:27,1.32,17.91,Sale,Completed
+JO-2504-2142-65835,Y Mall,Y Mall Tla'a Al-Ali,28/01/2025 15:23,0.28,3.8,Sale,Completed
+JO-2504-1476-92302,Y Mall,Y Mall Tla'a Al-Ali,28/01/2025 15:23,0.48,6.55,Sale,Completed
+JO-2504-8604-64644,Y Mall,Y Mall Tla'a Al-Ali,28/01/2025 15:22,0.48,6.55,Sale,Completed
+JO-2504-5297-50679,C Mall,C Mall Aqaba,28/01/2025 15:22,1.07,14.46,Sale,Completed
+JO-2504-5772-11523,Y Mall,Y Mall Dabouq,28/01/2025 15:05,0.48,6.55,Sale,Completed
+JO-2504-1269-83413,Y Mall,Y Mall Tla'a Al-Ali,28/01/2025 15:00,1.32,17.91,Sale,Completed
+JO-2504-4818-63024,C Mall,C Mall Aqaba,28/01/2025 14:59,1.32,17.91,Sale,Completed
+JO-2504-5300-82163,C Mall,C Mall Irbid,28/01/2025 14:39,0.65,8.84,Sale,Completed
+JO-2504-3102-44005,Z Mall,Z Mall Al Bayader,28/01/2025 14:12,0.98,13.21,Sale,Completed
+JO-2504-3103-46441,Z Mall,Z Mall Al Jubeiha,28/01/2025 14:11,1.76,23.81,Sale,Completed
+JO-2504-5405-91348,Z Mall,Z Mall Al Bayader,28/01/2025 13:54,0.66,8.96,Sale,Completed
+JO-2504-1882-45781,Y Mall,Y Mall Tla'a Al-Ali,28/01/2025 13:43,0.48,6.55,Sale,Completed
+JO-2504-9945-61132,C Mall,C Mall Irbid,28/01/2025 13:43,0.66,8.96,Sale,Completed
+JO-2504-4569-30927,Y Mall,Y Mall Tla'a Al-Ali,28/01/2025 13:42,0.66,8.96,Sale,Completed
+JO-2504-1553-23809,Z Mall,Z Mall Al Jubeiha,28/01/2025 13:23,0.28,3.8,Sale,Completed
+JO-2504-2192-25137,C Mall,C Mall Amman,28/01/2025 13:21,0.98,13.23,Sale,Completed
+JO-2504-5664-81566,Z Mall,Z Mall Al Bayader,28/01/2025 13:14,0.66,8.96,Sale,Completed
+JO-2504-7133-97246,Y Mall,Y Mall Tla'a Al-Ali,28/01/2025 13:09,0.66,8.96,Sale,Completed
+JO-2504-3256-33425,C Mall,C Mall Aqaba,28/01/2025 13:07,0.24,3.27,Sale,Completed
+JO-2504-5522-29597,Y Mall,Y Mall Dabouq,28/01/2025 13:05,0.24,3.27,Sale,Completed
+JO-2504-5828-40092,Z Mall,Z Mall Al Bayader,28/01/2025 12:49,0.42,5.67,Sale,Completed
+JO-2504-8787-55156,C Mall,C Mall Irbid,28/01/2025 12:48,1.69,22.74,Sale,Completed
+JO-2504-4997-39899,C Mall,C Mall Aqaba,28/01/2025 12:41,0.24,3.27,Sale,Completed
+JO-2504-8582-49925,Y Mall,Y Mall Dabouq,28/01/2025 12:35,0.24,3.27,Sale,Completed
+JO-2504-4831-86985,Z Mall,Z Mall Gardens,28/01/2025 12:30,0.24,3.27,Sale,Completed
+JO-2504-8999-52991,Z Mall,Z Mall Al Jubeiha,28/01/2025 12:25,0.24,3.27,Sale,Completed
+JO-2504-8113-69699,C Mall,C Mall Amman,28/01/2025 12:23,0.24,3.27,Sale,Completed
+JO-2504-8066-67753,C Mall,C Mall Aqaba,28/01/2025 11:43,0.24,3.27,Sale,Completed
+JO-2504-8902-97348,Y Mall,Y Mall Dabouq,28/01/2025 11:42,0.72,9.75,Sale,Completed
+JO-2504-9772-96593,Y Mall,Y Mall Shmeisani,28/01/2025 10:00,1.07,14.41,Sale,Completed
+JO-2504-2728-56638,C Mall,C Mall Irbid,28/01/2025 9:42,0.36,4.88,Sale,Completed
+JO-2504-2171-71027,Y Mall,Y Mall Tla'a Al-Ali,27/01/2025 18:44,0.75,10.01,Sale,Completed
+JO-2504-3032-34096,Y Mall,Y Mall Shmeisani,27/01/2025 18:32,0.75,10.01,Sale,Completed
+JO-2504-6220-25384,Y Mall,Y Mall Dabouq,27/01/2025 17:58,0.78,10.51,Sale,Completed
+JO-2504-1186-51237,C Mall,C Mall Irbid,27/01/2025 17:57,0.5,6.8,Sale,Completed
+JO-2504-5464-96052,Y Mall,Y Mall Tla'a Al-Ali,27/01/2025 17:35,1.86,25.14,Sale,Completed
+JO-2504-3832-46364,C Mall,C Mall Amman,27/01/2025 17:28,0.05,0.68,Sale,Completed
+JO-2504-6359-49907,Y Mall,Y Mall Shmeisani,27/01/2025 17:28,0.42,5.67,Sale,Completed
+JO-2504-3984-73543,Y Mall,Y Mall Tla'a Al-Ali,27/01/2025 17:24,0.56,7.63,Sale,Completed
+JO-2504-4531-62802,Z Mall,Z Mall Gardens,27/01/2025 17:12,1.95,26.52,Sale,Completed
+JO-2504-3994-97230,C Mall,C Mall Aqaba,27/01/2025 17:04,0.43,5.85,Sale,Completed
+JO-2504-5098-99384,C Mall,C Mall Aqaba,27/01/2025 17:02,0.66,8.96,Sale,Completed
+JO-2504-4957-48240,Z Mall,Z Mall Al Bayader,27/01/2025 17:01,0.66,8.96,Sale,Completed
+JO-2504-3350-54651,Z Mall,Z Mall Al Bayader,27/01/2025 16:47,0.24,3.27,Sale,Completed
+JO-2504-5390-10348,Y Mall,Y Mall Tla'a Al-Ali,27/01/2025 16:43,0.71,9.6,Sale,Completed
+JO-2504-7636-54261,Y Mall,Y Mall Tla'a Al-Ali,27/01/2025 16:24,1.67,22.51,Sale,Completed
+JO-2504-9798-94132,Z Mall,Z Mall Al Jubeiha,27/01/2025 15:47,0.24,3.27,Sale,Completed
+JO-2504-4868-56652,C Mall,C Mall Aqaba,27/01/2025 15:39,0.5,6.8,Sale,Completed
+JO-2504-8942-49794,C Mall,C Mall Irbid,27/01/2025 15:21,0.91,12.36,Sale,Completed
+JO-2504-4149-78774,C Mall,C Mall Irbid,27/01/2025 15:17,1.31,17.74,Sale,Completed
+JO-2504-5410-70911,C Mall,C Mall Irbid,27/01/2025 15:15,0.06,0.8,Sale,Completed
+JO-2504-1341-84240,C Mall,C Mall Irbid,27/01/2025 15:15,0.37,4.91,Sale,Completed
+JO-2504-3090-10897,Z Mall,Z Mall Al Jubeiha,27/01/2025 15:00,0.24,3.27,Sale,Completed
+JO-2504-6955-63939,Y Mall,Y Mall Shmeisani,27/01/2025 14:59,0.48,6.55,Sale,Completed
+JO-2504-5731-56610,Y Mall,Y Mall Dabouq,27/01/2025 14:59,0.89,12.07,Sale,Completed
+JO-2504-4846-45140,Z Mall,Z Mall Al Jubeiha,27/01/2025 14:55,0.34,4.54,Sale,Completed
+JO-2504-7340-14570,C Mall,C Mall Irbid,27/01/2025 14:28,2.45,32.84,Sale,Completed
+JO-2504-7196-26869,Z Mall,Z Mall Al Bayader,27/01/2025 14:23,0.24,3.27,Sale,Completed
+JO-2504-9736-13122,C Mall,C Mall Aqaba,27/01/2025 14:08,0.5,6.8,Sale,Completed
+JO-2504-2420-22161,Z Mall,Z Mall Gardens,27/01/2025 14:07,0.95,12.82,Sale,Completed
+JO-2504-4155-20371,Z Mall,Z Mall Gardens,27/01/2025 13:54,0.06,0.8,Sale,Completed
+JO-2504-1636-99098,Z Mall,Z Mall Al Bayader,27/01/2025 13:40,0.77,10.43,Sale,Completed
+JO-2504-4528-59877,C Mall,C Mall Irbid,27/01/2025 13:38,0.05,0.68,Sale,Completed
+JO-2504-9233-48225,C Mall,C Mall Irbid,27/01/2025 13:29,1.47,19.96,Sale,Completed
+JO-2504-3347-67343,Y Mall,Y Mall Dabouq,27/01/2025 13:03,1.25,17,Sale,Completed
+JO-2504-4100-33125,Z Mall,Z Mall Al Bayader,27/01/2025 12:42,0.48,6.55,Sale,Completed
+JO-2504-1105-95654,C Mall,C Mall Aqaba,27/01/2025 12:35,0.66,8.96,Sale,Completed
+JO-2504-1699-14855,Y Mall,Y Mall Shmeisani,27/01/2025 12:34,0.47,6.35,Sale,Completed
+JO-2504-8061-24039,Y Mall,Y Mall Shmeisani,27/01/2025 12:33,0.24,3.27,Sale,Completed
+JO-2504-5683-22189,Z Mall,Z Mall Al Jubeiha,27/01/2025 12:26,0.68,9.19,Sale,Completed
+JO-2504-6313-84348,C Mall,C Mall Amman,27/01/2025 12:14,0.66,8.96,Sale,Completed
+JO-2504-1864-55309,Z Mall,Z Mall Al Bayader,27/01/2025 12:01,0.48,6.55,Sale,Completed
+JO-2504-7592-21900,Y Mall,Y Mall Dabouq,27/01/2025 11:55,0.66,8.96,Sale,Completed
+JO-2504-7111-22359,Z Mall,Z Mall Al Jubeiha,27/01/2025 11:55,0.77,10.33,Sale,Completed
+JO-2504-8928-96799,C Mall,C Mall Amman,27/01/2025 11:37,0.36,4.88,Sale,Completed
+JO-2504-6902-72072,Y Mall,Y Mall Dabouq,27/01/2025 11:30,0.54,7.26,Sale,Completed
+JO-2504-4228-72764,Y Mall,Y Mall Tla'a Al-Ali,27/01/2025 11:29,0.41,5.45,Sale,Completed
+JO-2504-4535-92679,C Mall,C Mall Amman,27/01/2025 11:15,1.43,19.39,Sale,Completed
+JO-2504-7558-14427,Z Mall,Z Mall Al Jubeiha,27/01/2025 11:10,0.44,5.97,Sale,Completed
+JO-2504-5388-75627,Z Mall,Z Mall Al Bayader,27/01/2025 11:05,0.37,4.91,Sale,Completed
+JO-2504-5700-23148,C Mall,C Mall Irbid,27/01/2025 9:09,0.94,12.75,Sale,Completed
+JO-2504-9207-60778,C Mall,C Mall Aqaba,26/01/2025 20:28,0.34,4.54,Sale,Completed
+JO-2504-6404-53719,Y Mall,Y Mall Dabouq,26/01/2025 19:00,0.41,5.56,Sale,Completed
+JO-2504-6042-76727,Y Mall,Y Mall Tla'a Al-Ali,26/01/2025 18:15,1.29,17.46,Sale,Completed
+JO-2504-5622-51097,C Mall,C Mall Amman,26/01/2025 17:52,0.34,4.54,Sale,Completed
+JO-2504-5016-81659,Z Mall,Z Mall Al Jubeiha,26/01/2025 17:25,0.5,6.8,Sale,Completed
+JO-2504-1096-36668,Y Mall,Y Mall Shmeisani,26/01/2025 16:35,1.54,20.81,Sale,Completed
+JO-2504-7407-66820,Y Mall,Y Mall Tla'a Al-Ali,26/01/2025 16:25,0.06,0.8,Sale,Completed
+JO-2504-4296-49604,Z Mall,Z Mall Al Jubeiha,26/01/2025 16:24,0.38,5.09,Sale,Completed
+JO-2504-8586-42081,C Mall,C Mall Amman,26/01/2025 16:15,1.4,18.83,Sale,Completed
+JO-2504-8710-37462,C Mall,C Mall Aqaba,26/01/2025 16:10,0.34,4.54,Sale,Completed
+JO-2504-2760-16504,Z Mall,Z Mall Gardens,26/01/2025 16:02,0.48,6.55,Sale,Completed
+JO-2504-7263-64116,Z Mall,Z Mall Gardens,26/01/2025 15:50,4.78,64.55,Sale,Completed
+JO-2504-1920-49837,Y Mall,Y Mall Dabouq,26/01/2025 15:40,0.66,8.96,Sale,Completed
+JO-2504-1283-42458,C Mall,C Mall Irbid,26/01/2025 15:39,1.09,14.83,Sale,Completed
+JO-2504-9626-40019,Z Mall,Z Mall Gardens,26/01/2025 15:25,0.77,10.43,Sale,Completed
+JO-2504-2784-95180,C Mall,C Mall Amman,26/01/2025 15:16,2.06,27.81,Sale,Completed
+JO-2504-8392-72838,C Mall,C Mall Amman,26/01/2025 15:10,0.66,8.96,Sale,Completed
+JO-2504-6361-96115,Z Mall,Z Mall Al Jubeiha,26/01/2025 14:12,0.99,13.38,Sale,Completed
+JO-2504-9042-30183,Z Mall,Z Mall Gardens,26/01/2025 14:07,0.24,3.27,Sale,Completed
+JO-2504-6925-15214,C Mall,C Mall Aqaba,26/01/2025 14:06,0.24,3.27,Sale,Completed
+JO-2504-8634-77758,C Mall,C Mall Irbid,26/01/2025 14:04,0.24,3.27,Sale,Completed
+JO-2504-2453-47344,C Mall,C Mall Amman,26/01/2025 13:53,0.24,3.27,Sale,Completed
+JO-2504-1411-61913,C Mall,C Mall Irbid,26/01/2025 13:47,0.66,8.96,Sale,Completed
+JO-2504-1886-39099,C Mall,C Mall Aqaba,26/01/2025 13:45,0.48,6.52,Sale,Completed
+JO-2504-9106-80132,C Mall,C Mall Amman,26/01/2025 13:40,0.24,3.27,Sale,Completed
+JO-2504-2050-56265,C Mall,C Mall Amman,26/01/2025 13:32,0.66,8.96,Sale,Completed
+JO-2504-6165-47781,Y Mall,Y Mall Shmeisani,26/01/2025 13:24,0.24,3.27,Sale,Completed
+JO-2504-1827-94567,Z Mall,Z Mall Al Jubeiha,26/01/2025 13:22,1.32,17.91,Sale,Completed
+JO-2504-8123-24637,Z Mall,Z Mall Al Bayader,26/01/2025 13:18,0.24,3.27,Sale,Completed
+JO-2504-9265-52206,Y Mall,Y Mall Dabouq,26/01/2025 13:14,0.24,3.27,Sale,Completed
+JO-2504-6696-60464,Y Mall,Y Mall Shmeisani,26/01/2025 13:04,0.39,5.25,Sale,Completed
+JO-2504-5696-23991,C Mall,C Mall Irbid,26/01/2025 13:03,0.24,3.27,Sale,Completed
+JO-2504-1712-49912,Y Mall,Y Mall Shmeisani,26/01/2025 12:58,0.24,3.27,Sale,Completed
+JO-2504-9232-41517,Y Mall,Y Mall Dabouq,26/01/2025 12:54,2.18,29.53,Sale,Completed
+JO-2504-2136-71612,Z Mall,Z Mall Gardens,26/01/2025 12:43,0.24,3.27,Sale,Completed
+JO-2504-1913-22336,C Mall,C Mall Amman,26/01/2025 12:38,0.36,4.88,Sale,Completed
+JO-2504-8155-87865,Y Mall,Y Mall Dabouq,26/01/2025 12:32,0.36,4.88,Sale,Completed
+JO-2504-1214-77477,C Mall,C Mall Aqaba,26/01/2025 12:25,0.44,5.97,Sale,Completed
+JO-2504-4725-39031,Y Mall,Y Mall Tla'a Al-Ali,26/01/2025 12:12,0.24,3.27,Sale,Completed
+JO-2504-3785-84686,C Mall,C Mall Aqaba,26/01/2025 11:32,0.39,5.31,Sale,Completed
+JO-2504-4550-63656,C Mall,C Mall Aqaba,26/01/2025 11:17,0.05,0.68,Sale,Completed
+JO-2504-1141-25967,Z Mall,Z Mall Al Bayader,26/01/2025 11:01,0.87,11.74,Sale,Completed
+JO-2504-9137-82960,C Mall,C Mall Irbid,26/01/2025 10:58,1.66,22.4,Sale,Completed
+JO-2504-4115-69949,C Mall,C Mall Irbid,26/01/2025 10:56,0.41,5.56,Sale,Completed
+JO-2504-2550-65174,C Mall,C Mall Amman,26/01/2025 8:56,0.83,11.16,Sale,Completed
+JO-2504-5998-14902,Y Mall,Y Mall Tla'a Al-Ali,25/01/2025 19:41,0.65,8.79,Sale,Completed
+JO-2504-7671-76478,Z Mall,Z Mall Gardens,25/01/2025 18:15,0.66,8.96,Sale,Completed
+JO-2504-7894-29234,C Mall,C Mall Aqaba,25/01/2025 18:14,1.07,14.51,Sale,Completed
+JO-2504-5655-67631,Z Mall,Z Mall Al Bayader,25/01/2025 17:33,0.48,6.55,Sale,Completed
+JO-2504-8533-96784,Y Mall,Y Mall Shmeisani,25/01/2025 17:27,0.7,9.36,Sale,Completed
+JO-2504-9261-26511,Z Mall,Z Mall Gardens,25/01/2025 17:11,0.36,4.77,Sale,Completed
+JO-2504-5076-26746,Z Mall,Z Mall Gardens,25/01/2025 17:09,0.51,6.86,Sale,Completed
+JO-2504-6800-92916,Y Mall,Y Mall Dabouq,25/01/2025 17:08,0.66,8.96,Sale,Completed
+JO-2504-4862-24997,Y Mall,Y Mall Shmeisani,25/01/2025 17:05,0.5,6.8,Sale,Completed
+JO-2504-9839-60294,C Mall,C Mall Irbid,25/01/2025 17:02,0.66,8.96,Sale,Completed
+JO-2504-3768-18806,Y Mall,Y Mall Tla'a Al-Ali,25/01/2025 16:27,1.32,17.81,Sale,Completed
+JO-2504-9119-43089,Y Mall,Y Mall Tla'a Al-Ali,25/01/2025 16:25,0.9,12.14,Sale,Completed
+JO-2504-5657-41226,C Mall,C Mall Irbid,25/01/2025 15:40,0.24,3.27,Sale,Completed
+JO-2504-4412-96440,Y Mall,Y Mall Shmeisani,25/01/2025 15:39,0.87,11.9,Sale,Completed
+JO-2504-5451-79506,Y Mall,Y Mall Shmeisani,25/01/2025 15:38,1.41,19.05,Sale,Completed
+JO-2504-6777-93295,C Mall,C Mall Aqaba,25/01/2025 15:01,1.32,17.91,Sale,Completed
+JO-2504-8213-79226,Y Mall,Y Mall Tla'a Al-Ali,25/01/2025 14:53,0.48,6.55,Sale,Completed
+JO-2504-3577-95944,C Mall,C Mall Aqaba,25/01/2025 14:50,0.48,6.55,Sale,Completed
+JO-2504-6365-58209,Y Mall,Y Mall Dabouq,25/01/2025 14:46,0.97,13.11,Sale,Completed
+JO-2504-8548-59306,C Mall,C Mall Irbid,25/01/2025 14:38,0.66,8.96,Sale,Completed
+JO-2504-2409-28191,C Mall,C Mall Irbid,25/01/2025 14:37,0.24,3.27,Sale,Completed
+JO-2504-3735-31381,Y Mall,Y Mall Dabouq,25/01/2025 14:30,0.24,3.27,Sale,Completed
+JO-2504-3817-41513,Z Mall,Z Mall Gardens,25/01/2025 14:25,0.36,4.77,Sale,Completed
+JO-2504-8867-76987,Y Mall,Y Mall Dabouq,25/01/2025 14:22,0.48,6.55,Sale,Completed
+JO-2504-9820-22262,C Mall,C Mall Aqaba,25/01/2025 14:20,0.34,4.51,Sale,Completed
+JO-2504-8030-63434,C Mall,C Mall Amman,25/01/2025 14:17,0.67,9.06,Sale,Completed
+JO-2504-5681-12110,C Mall,C Mall Amman,25/01/2025 14:10,0.66,8.96,Sale,Completed
+JO-2504-7305-87000,Y Mall,Y Mall Dabouq,25/01/2025 14:07,0.36,4.77,Sale,Completed
+JO-2504-1751-23667,Z Mall,Z Mall Al Jubeiha,25/01/2025 13:33,1.02,13.83,Sale,Completed
+JO-2504-2662-90221,C Mall,C Mall Aqaba,25/01/2025 13:20,0.41,5.56,Sale,Completed
+JO-2504-8038-41551,Z Mall,Z Mall Gardens,25/01/2025 13:16,0.71,9.64,Sale,Completed
+JO-2504-2257-22032,C Mall,C Mall Irbid,25/01/2025 13:04,0.41,5.56,Sale,Completed
+JO-2504-7342-73302,Z Mall,Z Mall Gardens,25/01/2025 13:00,0.66,8.96,Sale,Completed
+JO-2504-3882-31901,Y Mall,Y Mall Dabouq,25/01/2025 12:50,0.34,4.54,Sale,Completed
+JO-2504-5527-56386,Z Mall,Z Mall Gardens,25/01/2025 12:46,0.24,3.27,Sale,Completed
+JO-2504-6923-89510,C Mall,C Mall Aqaba,25/01/2025 12:45,0.36,4.88,Sale,Completed
+JO-2504-9198-71501,C Mall,C Mall Amman,25/01/2025 12:31,0.82,11.11,Sale,Completed
+JO-2504-6189-88132,Y Mall,Y Mall Shmeisani,25/01/2025 12:14,0.66,8.96,Sale,Completed
+JO-2504-8979-56085,Z Mall,Z Mall Al Jubeiha,25/01/2025 12:13,0.25,3.4,Sale,Completed
+JO-2504-4914-47856,C Mall,C Mall Irbid,25/01/2025 12:07,0.24,3.27,Sale,Completed
+JO-2504-1666-63409,C Mall,C Mall Irbid,25/01/2025 12:04,0.97,13.11,Sale,Completed
+JO-2504-7447-95290,Z Mall,Z Mall Gardens,25/01/2025 12:02,0.24,3.27,Sale,Completed
+JO-2504-2792-10644,Y Mall,Y Mall Shmeisani,25/01/2025 11:47,2.51,34.03,Sale,Completed
+JO-2504-8765-30840,Z Mall,Z Mall Al Bayader,25/01/2025 11:46,0.66,8.96,Sale,Completed
+JO-2504-1912-77391,Z Mall,Z Mall Gardens,25/01/2025 11:45,2.71,36.63,Sale,Completed
+JO-2504-6767-12580,Z Mall,Z Mall Gardens,25/01/2025 11:36,0.48,6.55,Sale,Completed
+JO-2504-2720-81538,Z Mall,Z Mall Al Bayader,25/01/2025 11:16,0.66,8.96,Sale,Completed
+JO-2504-8511-68891,Y Mall,Y Mall Tla'a Al-Ali,25/01/2025 11:12,0.84,11.45,Sale,Completed
+JO-2504-9016-13458,Z Mall,Z Mall Gardens,25/01/2025 10:46,0.11,1.48,Sale,Completed
+JO-2504-2577-89034,C Mall,C Mall Irbid,25/01/2025 10:39,0.24,3.27,Sale,Completed
+JO-2504-6573-86266,Z Mall,Z Mall Gardens,25/01/2025 10:32,0.42,5.67,Sale,Completed
+JO-2504-5657-74209,Y Mall,Y Mall Tla'a Al-Ali,25/01/2025 10:30,1.32,17.91,Sale,Completed
+JO-2504-5369-63969,Y Mall,Y Mall Shmeisani,25/01/2025 10:26,0.42,5.62,Sale,Completed
+JO-2504-4704-22115,C Mall,C Mall Irbid,25/01/2025 10:02,0.66,8.96,Sale,Completed
+JO-2504-9408-35994,C Mall,C Mall Aqaba,25/01/2025 9:03,0.42,5.72,Sale,Completed
+JO-2504-5368-59767,Y Mall,Y Mall Shmeisani,25/01/2025 9:00,0.44,5.97,Sale,Completed
+JO-2504-5710-12976,Z Mall,Z Mall Al Bayader,24/01/2025 19:07,0.34,4.54,Sale,Completed
+JO-2504-4122-49662,Y Mall,Y Mall Dabouq,24/01/2025 18:57,1.32,17.91,Sale,Completed
+JO-2504-6082-44875,C Mall,C Mall Amman,24/01/2025 18:33,1.32,17.91,Sale,Completed
+JO-2504-6424-24938,C Mall,C Mall Aqaba,24/01/2025 18:17,0.55,7.38,Sale,Completed
+JO-2504-3875-81160,Y Mall,Y Mall Dabouq,24/01/2025 18:15,0.34,4.49,Sale,Completed
+JO-2504-3635-75693,Y Mall,Y Mall Tla'a Al-Ali,24/01/2025 18:09,0.66,8.96,Sale,Completed
+JO-2504-5337-65574,C Mall,C Mall Irbid,24/01/2025 17:58,0.85,11.46,Sale,Completed
+JO-2504-7690-78373,Y Mall,Y Mall Tla'a Al-Ali,24/01/2025 17:56,0.75,10.01,Sale,Completed
+JO-2504-7975-35257,Z Mall,Z Mall Gardens,24/01/2025 17:49,0.05,0.68,Sale,Completed
+JO-2504-6251-58208,Z Mall,Z Mall Al Bayader,24/01/2025 17:42,0.66,8.96,Sale,Completed
+JO-2504-7684-79238,C Mall,C Mall Irbid,24/01/2025 17:01,0.76,10.23,Sale,Completed
+JO-2504-1434-61973,Z Mall,Z Mall Al Jubeiha,24/01/2025 16:55,0.28,3.8,Sale,Completed
+JO-2504-6972-51687,Z Mall,Z Mall Al Jubeiha,24/01/2025 16:53,0.56,7.63,Sale,Completed
+JO-2504-3230-35895,C Mall,C Mall Aqaba,24/01/2025 16:43,0.36,4.88,Sale,Completed
+JO-2504-7522-20031,Y Mall,Y Mall Dabouq,24/01/2025 16:31,0.16,2.16,Sale,Completed
+JO-2504-6697-95219,C Mall,C Mall Amman,24/01/2025 16:22,0.49,6.72,Sale,Completed
+JO-2504-3264-77402,C Mall,C Mall Irbid,24/01/2025 16:16,0.5,6.8,Sale,Completed
+JO-2504-2668-44606,Y Mall,Y Mall Shmeisani,24/01/2025 16:11,1.56,21.04,Sale,Completed
+JO-2504-1305-63203,Y Mall,Y Mall Dabouq,24/01/2025 16:07,0.24,3.27,Sale,Completed
+JO-2504-9280-70248,Z Mall,Z Mall Al Bayader,24/01/2025 15:56,0.24,3.27,Sale,Completed
+JO-2504-7188-71024,Y Mall,Y Mall Dabouq,24/01/2025 15:55,0.24,3.27,Sale,Completed
+JO-2504-6488-59652,Y Mall,Y Mall Shmeisani,24/01/2025 15:43,0.42,5.67,Sale,Completed
+JO-2504-5383-43440,Z Mall,Z Mall Al Jubeiha,24/01/2025 15:41,1.65,22.15,Sale,Completed
+JO-2504-7347-15015,C Mall,C Mall Irbid,24/01/2025 15:40,2.84,38.33,Sale,Completed
+JO-2504-9217-94352,C Mall,C Mall Amman,24/01/2025 15:28,0.24,3.27,Sale,Completed
+JO-2504-5147-34236,Z Mall,Z Mall Al Bayader,24/01/2025 15:24,1.32,17.91,Sale,Completed
+JO-2504-9046-73541,Y Mall,Y Mall Shmeisani,24/01/2025 15:22,0.24,3.27,Sale,Completed
+JO-2504-7313-69184,C Mall,C Mall Amman,24/01/2025 15:09,0.36,4.77,Sale,Completed
+JO-2504-3988-57802,C Mall,C Mall Aqaba,24/01/2025 15:07,0.24,3.27,Sale,Completed
+JO-2504-5325-40484,C Mall,C Mall Irbid,24/01/2025 15:02,0.72,9.82,Sale,Completed
+JO-2504-7143-99536,Z Mall,Z Mall Al Jubeiha,24/01/2025 14:50,1.81,24.39,Sale,Completed
+JO-2504-1703-93444,Y Mall,Y Mall Tla'a Al-Ali,24/01/2025 14:30,0.24,3.27,Sale,Completed
+JO-2504-5383-14912,Y Mall,Y Mall Dabouq,24/01/2025 14:22,0.24,3.27,Sale,Completed
+JO-2504-9053-88400,Y Mall,Y Mall Dabouq,24/01/2025 14:15,0.75,10.01,Sale,Completed
+JO-2504-2414-84888,Z Mall,Z Mall Al Bayader,24/01/2025 14:12,0.24,3.27,Sale,Completed
+JO-2504-5085-38434,Y Mall,Y Mall Dabouq,24/01/2025 13:53,1.32,17.91,Sale,Completed
+JO-2504-5969-58918,Z Mall,Z Mall Al Bayader,24/01/2025 13:36,0.24,3.27,Sale,Completed
+JO-2504-6365-53407,C Mall,C Mall Aqaba,24/01/2025 13:28,0.24,3.27,Sale,Completed
+JO-2504-7416-55522,Y Mall,Y Mall Tla'a Al-Ali,24/01/2025 13:28,0.12,1.61,Sale,Completed
+JO-2504-4711-56976,Z Mall,Z Mall Al Jubeiha,24/01/2025 13:26,0.44,5.97,Sale,Completed
+JO-2504-6145-78878,Z Mall,Z Mall Al Jubeiha,24/01/2025 13:20,2.99,40.53,Sale,Completed
+JO-2504-2773-90600,Z Mall,Z Mall Gardens,24/01/2025 13:17,0.48,6.55,Sale,Completed
+JO-2504-6875-44038,Z Mall,Z Mall Al Jubeiha,24/01/2025 13:06,1.34,18.14,Sale,Completed
+JO-2504-9446-81581,Y Mall,Y Mall Tla'a Al-Ali,24/01/2025 13:03,0.24,3.27,Sale,Completed
+JO-2504-4406-15443,Y Mall,Y Mall Shmeisani,24/01/2025 12:55,0.24,3.27,Sale,Completed
+JO-2504-6444-29953,C Mall,C Mall Irbid,24/01/2025 12:52,0.84,11.39,Sale,Completed
+JO-2504-9676-70522,Y Mall,Y Mall Dabouq,24/01/2025 12:35,0.24,3.27,Sale,Completed
+JO-2504-1034-31819,C Mall,C Mall Aqaba,24/01/2025 12:34,0.82,11.06,Sale,Completed
+JO-2504-3390-76234,Y Mall,Y Mall Dabouq,24/01/2025 12:24,0.13,1.65,Sale,Completed
+JO-2504-7892-39705,C Mall,C Mall Irbid,24/01/2025 12:18,0.66,8.96,Sale,Completed
+JO-2504-8375-63616,Y Mall,Y Mall Shmeisani,24/01/2025 11:49,0.7,9.47,Sale,Completed
+JO-2504-7605-60524,Z Mall,Z Mall Gardens,24/01/2025 11:24,0.47,6.4,Sale,Completed
+JO-2504-9118-95505,Y Mall,Y Mall Shmeisani,24/01/2025 11:02,0.06,0.8,Sale,Completed
+JO-2504-8762-43191,C Mall,C Mall Irbid,24/01/2025 10:55,1.21,16.38,Sale,Completed
+JO-2504-4404-11628,Z Mall,Z Mall Gardens,24/01/2025 10:46,1.41,19.05,Sale,Completed
+JO-2504-2329-84766,C Mall,C Mall Amman,23/01/2025 20:31,3.41,46.06,Sale,Completed
+JO-2504-9116-86484,Z Mall,Z Mall Gardens,23/01/2025 19:21,0.24,3.27,Sale,Completed
+JO-2504-2795-52067,Y Mall,Y Mall Dabouq,23/01/2025 18:42,0.24,3.27,Sale,Completed
+JO-2504-7778-31563,Z Mall,Z Mall Al Jubeiha,23/01/2025 18:40,0.48,6.55,Sale,Completed
+JO-2504-8748-39633,Y Mall,Y Mall Tla'a Al-Ali,23/01/2025 18:37,1.59,21.44,Sale,Completed
+JO-2504-6435-34553,C Mall,C Mall Amman,23/01/2025 18:34,0.66,8.96,Sale,Completed
+JO-2504-2097-25120,Y Mall,Y Mall Shmeisani,23/01/2025 17:54,0.24,3.27,Sale,Completed
+JO-2504-9488-34723,Y Mall,Y Mall Tla'a Al-Ali,23/01/2025 17:51,1.35,18.38,Sale,Completed
+JO-2504-6284-93862,C Mall,C Mall Aqaba,23/01/2025 17:51,0.11,1.48,Sale,Completed
+JO-2504-2214-15849,Z Mall,Z Mall Al Jubeiha,23/01/2025 17:51,0.45,6.09,Sale,Completed
+JO-2504-2873-53877,Y Mall,Y Mall Tla'a Al-Ali,23/01/2025 17:48,0.65,8.79,Sale,Completed
+JO-2504-9791-77722,Y Mall,Y Mall Dabouq,23/01/2025 17:44,0.41,5.45,Sale,Completed
+JO-2504-5424-12163,C Mall,C Mall Aqaba,23/01/2025 17:43,2.23,30.01,Sale,Completed
+JO-2504-5103-31084,Y Mall,Y Mall Tla'a Al-Ali,23/01/2025 17:35,0.9,12.19,Sale,Completed
+JO-2504-9682-24518,C Mall,C Mall Irbid,23/01/2025 16:54,0.46,6.13,Sale,Completed
+JO-2504-1974-88855,Z Mall,Z Mall Gardens,23/01/2025 16:21,0.42,5.67,Sale,Completed
+JO-2504-2593-42493,Z Mall,Z Mall Gardens,23/01/2025 16:20,0.75,10.01,Sale,Completed
+JO-2504-1736-56926,Y Mall,Y Mall Shmeisani,23/01/2025 16:03,0.25,3.4,Sale,Completed
+JO-2504-6998-78743,C Mall,C Mall Irbid,23/01/2025 15:52,1,13.51,Sale,Completed
+JO-2504-2617-39146,Y Mall,Y Mall Tla'a Al-Ali,23/01/2025 15:45,0.34,4.54,Sale,Completed
+JO-2504-4973-37997,C Mall,C Mall Amman,23/01/2025 15:36,0.66,8.96,Sale,Completed
+JO-2504-4317-28488,Z Mall,Z Mall Gardens,23/01/2025 15:25,1.32,17.91,Sale,Completed
+JO-2504-8791-72391,Y Mall,Y Mall Shmeisani,23/01/2025 15:18,1.03,13.86,Sale,Completed
+JO-2504-7435-55709,Z Mall,Z Mall Al Bayader,23/01/2025 15:11,1.23,16.56,Sale,Completed
+JO-2504-9943-41884,C Mall,C Mall Aqaba,23/01/2025 14:52,0.64,8.57,Sale,Completed
+JO-2504-5963-44775,Z Mall,Z Mall Gardens,23/01/2025 14:50,0.36,4.88,Sale,Completed
+JO-2504-1545-32856,Y Mall,Y Mall Tla'a Al-Ali,23/01/2025 14:29,0.25,3.4,Sale,Completed
+JO-2504-4698-14363,C Mall,C Mall Aqaba,23/01/2025 14:24,0.24,3.27,Sale,Completed
+JO-2504-1967-97447,Z Mall,Z Mall Gardens,23/01/2025 14:23,1.45,19.62,Sale,Completed
+JO-2504-4906-69166,Y Mall,Y Mall Shmeisani,23/01/2025 14:19,0.24,3.27,Sale,Completed
+JO-2504-4990-99132,Z Mall,Z Mall Al Jubeiha,23/01/2025 14:18,0.35,4.75,Sale,Completed
+JO-2504-8665-13975,C Mall,C Mall Amman,23/01/2025 14:13,0.24,3.27,Sale,Completed
+JO-2504-1863-79431,Z Mall,Z Mall Gardens,23/01/2025 14:09,0.66,8.96,Sale,Completed
+JO-2504-9609-65398,C Mall,C Mall Amman,23/01/2025 14:08,1.41,18.97,Sale,Completed
+JO-2504-9491-44306,Z Mall,Z Mall Al Bayader,23/01/2025 14:07,0.24,3.27,Sale,Completed
+JO-2504-7226-12617,Z Mall,Z Mall Gardens,23/01/2025 14:06,0.5,6.75,Sale,Completed
+JO-2504-6277-57085,Z Mall,Z Mall Al Bayader,23/01/2025 13:47,0.36,4.77,Sale,Completed
+JO-2504-5685-97418,Y Mall,Y Mall Tla'a Al-Ali,23/01/2025 13:42,0.42,5.6,Sale,Completed
+JO-2504-8398-49979,Y Mall,Y Mall Shmeisani,23/01/2025 13:42,1.31,17.8,Sale,Completed
+JO-2504-4986-92769,Y Mall,Y Mall Shmeisani,23/01/2025 13:22,0.39,5.22,Sale,Completed
+JO-2504-4819-65592,C Mall,C Mall Irbid,23/01/2025 13:17,0.24,3.27,Sale,Completed
+JO-2504-3954-66535,Y Mall,Y Mall Shmeisani,23/01/2025 12:53,0.93,12.59,Sale,Completed
+JO-2504-8613-32109,C Mall,C Mall Irbid,23/01/2025 12:52,0.27,3.68,Sale,Completed
+JO-2504-5044-89500,C Mall,C Mall Aqaba,23/01/2025 12:40,0.42,5.72,Sale,Completed
+JO-2504-3181-36909,Z Mall,Z Mall Al Jubeiha,23/01/2025 12:25,0.52,7.07,Sale,Completed
+JO-2504-5000-64496,Z Mall,Z Mall Gardens,23/01/2025 12:11,0.24,3.27,Sale,Completed
+JO-2504-7901-40168,Z Mall,Z Mall Al Jubeiha,23/01/2025 12:08,0.24,3.27,Sale,Completed
+JO-2504-7077-84569,Y Mall,Y Mall Shmeisani,23/01/2025 12:00,1.08,14.68,Sale,Completed
+JO-2504-5995-16985,C Mall,C Mall Amman,23/01/2025 11:53,0.76,10.26,Sale,Completed
+JO-2504-8269-45206,Y Mall,Y Mall Shmeisani,23/01/2025 11:08,0.75,10.01,Sale,Completed
+JO-2504-4960-50309,Z Mall,Z Mall Gardens,23/01/2025 11:00,0.65,8.79,Sale,Completed
+JO-2504-5682-83924,C Mall,C Mall Irbid,23/01/2025 10:48,0.36,4.77,Sale,Completed
+JO-2504-5520-17836,C Mall,C Mall Amman,23/01/2025 10:36,1.3,17.52,Sale,Completed
+JO-2504-9158-81489,Z Mall,Z Mall Gardens,23/01/2025 10:29,1.08,14.52,Sale,Completed
+JO-2504-7727-59191,Y Mall,Y Mall Shmeisani,23/01/2025 10:07,0.48,6.55,Sale,Completed
+JO-2504-1548-96196,Z Mall,Z Mall Al Bayader,23/01/2025 10:02,0.69,9.3,Sale,Completed
+JO-2504-3425-60311,Z Mall,Z Mall Gardens,23/01/2025 10:02,0.24,3.27,Sale,Completed
+JO-2504-3844-83754,Y Mall,Y Mall Dabouq,23/01/2025 9:45,0.21,2.94,Sale,Completed
+JO-2504-7113-60073,Z Mall,Z Mall Gardens,23/01/2025 9:39,0.15,2.04,Sale,Completed
+JO-2504-6903-34264,C Mall,C Mall Irbid,23/01/2025 9:37,0.66,8.96,Sale,Completed
+JO-2504-6349-95011,Y Mall,Y Mall Dabouq,22/01/2025 19:26,0.48,6.55,Sale,Completed
+JO-2504-2236-12515,C Mall,C Mall Irbid,22/01/2025 19:06,0.75,10.01,Sale,Completed
+JO-2504-1723-49927,C Mall,C Mall Amman,22/01/2025 18:50,0.91,12.25,Sale,Completed
+JO-2504-9373-47593,C Mall,C Mall Aqaba,22/01/2025 18:17,1.04,14.01,Sale,Completed
+JO-2504-3953-64836,C Mall,C Mall Irbid,22/01/2025 18:01,0.65,8.79,Sale,Completed
+JO-2504-5751-62445,Y Mall,Y Mall Shmeisani,22/01/2025 17:46,0.66,8.96,Sale,Completed
+JO-2504-8440-12209,C Mall,C Mall Amman,22/01/2025 17:41,2.03,27.51,Sale,Completed
+JO-2504-4241-47576,C Mall,C Mall Amman,22/01/2025 17:38,3.23,43.66,Sale,Completed
+JO-2504-3038-97880,Y Mall,Y Mall Dabouq,22/01/2025 16:40,0.66,8.96,Sale,Completed
+JO-2504-5606-86220,Y Mall,Y Mall Tla'a Al-Ali,22/01/2025 16:35,0.66,8.96,Sale,Completed
+JO-2504-5291-56403,C Mall,C Mall Aqaba,22/01/2025 16:32,0.39,5.22,Sale,Completed
+JO-2504-1099-12789,C Mall,C Mall Irbid,22/01/2025 16:14,0.1,1.36,Sale,Completed
+JO-2504-7128-83167,C Mall,C Mall Amman,22/01/2025 16:01,0.24,3.27,Sale,Completed
+JO-2504-2062-86948,Z Mall,Z Mall Al Jubeiha,22/01/2025 15:36,1.81,24.49,Sale,Completed
+JO-2504-6933-99668,Z Mall,Z Mall Gardens,22/01/2025 15:34,0.61,8.14,Sale,Completed
+JO-2504-5817-97573,C Mall,C Mall Aqaba,22/01/2025 15:33,2.41,32.6,Sale,Completed
+JO-2504-9842-60242,Z Mall,Z Mall Gardens,22/01/2025 15:31,0.36,4.88,Sale,Completed
+JO-2504-6930-96091,C Mall,C Mall Irbid,22/01/2025 15:27,0.42,5.72,Sale,Completed
+JO-2504-6856-76375,Y Mall,Y Mall Tla'a Al-Ali,22/01/2025 15:09,0.66,8.96,Sale,Completed
+JO-2504-4886-42629,Z Mall,Z Mall Al Jubeiha,22/01/2025 14:55,0.97,12.99,Sale,Completed
+JO-2504-1837-33211,C Mall,C Mall Aqaba,22/01/2025 14:37,0.24,3.27,Sale,Completed
+JO-2504-5470-22275,Z Mall,Z Mall Al Bayader,22/01/2025 14:31,0.48,6.55,Sale,Completed
+JO-2504-3565-62759,Y Mall,Y Mall Shmeisani,22/01/2025 14:26,1.08,14.52,Sale,Completed
+JO-2504-6300-49031,Y Mall,Y Mall Dabouq,22/01/2025 14:18,0.98,13.27,Sale,Completed
+JO-2504-3444-69453,Y Mall,Y Mall Tla'a Al-Ali,22/01/2025 14:15,0.24,3.27,Sale,Completed
+JO-2504-3129-72617,C Mall,C Mall Aqaba,22/01/2025 14:12,0.66,8.96,Sale,Completed
+JO-2504-1655-90736,Z Mall,Z Mall Al Jubeiha,22/01/2025 14:05,0.66,8.96,Sale,Completed
+JO-2504-3806-58101,C Mall,C Mall Irbid,22/01/2025 13:57,0.65,8.79,Sale,Completed
+JO-2504-4300-85355,Y Mall,Y Mall Shmeisani,22/01/2025 13:39,0.72,9.82,Sale,Completed
+JO-2504-7332-65985,Z Mall,Z Mall Al Jubeiha,22/01/2025 13:30,0.48,6.55,Sale,Completed
+JO-2504-6834-30326,C Mall,C Mall Amman,22/01/2025 13:14,0.82,11.22,Sale,Completed
+JO-2504-1146-82488,C Mall,C Mall Irbid,22/01/2025 13:11,0.24,3.27,Sale,Completed
+JO-2504-2683-40705,C Mall,C Mall Irbid,22/01/2025 13:10,0.24,3.27,Sale,Completed
+JO-2504-2341-36709,Z Mall,Z Mall Gardens,22/01/2025 13:10,0.66,8.96,Sale,Completed
+JO-2504-1637-77443,Y Mall,Y Mall Shmeisani,22/01/2025 12:38,0.96,13,Sale,Completed
+JO-2504-5539-48653,C Mall,C Mall Amman,22/01/2025 12:31,0.66,8.96,Sale,Completed
+JO-2504-6961-94293,C Mall,C Mall Amman,22/01/2025 12:25,0.24,3.27,Sale,Completed
+JO-2504-9563-51939,C Mall,C Mall Irbid,22/01/2025 12:19,0.24,3.27,Sale,Completed
+JO-2504-3907-78411,C Mall,C Mall Amman,22/01/2025 12:05,0.24,3.27,Sale,Completed
+JO-2504-7177-16640,Y Mall,Y Mall Tla'a Al-Ali,22/01/2025 11:59,0.25,3.35,Sale,Completed
+JO-2504-2298-17123,Y Mall,Y Mall Dabouq,22/01/2025 11:52,0.66,8.96,Sale,Completed
+JO-2504-6618-21482,Y Mall,Y Mall Shmeisani,22/01/2025 11:29,0.25,3.4,Sale,Completed
+JO-2504-2399-41772,Z Mall,Z Mall Al Jubeiha,22/01/2025 10:55,0.54,7.21,Sale,Completed
+JO-2504-5913-67031,Z Mall,Z Mall Gardens,22/01/2025 10:47,0.24,3.27,Sale,Completed
+JO-2504-9496-57328,Y Mall,Y Mall Dabouq,21/01/2025 19:04,1.7,22.85,Sale,Completed
+JO-2504-4739-79551,Z Mall,Z Mall Al Bayader,21/01/2025 19:04,1.58,21.27,Sale,Completed
+JO-2504-4945-28562,C Mall,C Mall Amman,21/01/2025 18:59,0.66,8.96,Sale,Completed
+JO-2504-4664-77013,Y Mall,Y Mall Tla'a Al-Ali,21/01/2025 18:43,0.36,4.77,Sale,Completed
+JO-2504-8106-24212,C Mall,C Mall Aqaba,21/01/2025 17:50,0.34,4.54,Sale,Completed
+JO-2504-5924-72598,C Mall,C Mall Irbid,21/01/2025 17:20,0.66,8.96,Sale,Completed
+JO-2504-2846-39437,Z Mall,Z Mall Al Bayader,21/01/2025 17:15,0.27,3.68,Sale,Completed
+JO-2504-6795-25096,Y Mall,Y Mall Shmeisani,21/01/2025 16:58,0.36,4.77,Sale,Completed
+JO-2504-2870-55613,Y Mall,Y Mall Tla'a Al-Ali,21/01/2025 16:36,0.42,5.72,Sale,Completed
+JO-2504-1484-67210,C Mall,C Mall Aqaba,21/01/2025 16:35,0.75,10.1,Sale,Completed
+JO-2504-1855-13634,C Mall,C Mall Amman,21/01/2025 15:38,0.24,3.27,Sale,Completed
+JO-2504-9366-53359,Z Mall,Z Mall Al Jubeiha,21/01/2025 15:27,0.48,6.55,Sale,Completed
+JO-2504-5524-22409,Y Mall,Y Mall Tla'a Al-Ali,21/01/2025 14:59,0.55,7.31,Sale,Completed
+JO-2504-2010-57273,Y Mall,Y Mall Shmeisani,21/01/2025 14:56,0.66,8.96,Sale,Completed
+JO-2504-8717-74157,Y Mall,Y Mall Tla'a Al-Ali,21/01/2025 14:55,0.29,3.9,Sale,Completed
+JO-2504-7680-77889,Z Mall,Z Mall Gardens,21/01/2025 14:37,0.24,3.27,Sale,Completed
+JO-2504-6398-20546,Y Mall,Y Mall Dabouq,21/01/2025 14:31,0.66,8.96,Sale,Completed
+JO-2504-8431-37174,Y Mall,Y Mall Tla'a Al-Ali,21/01/2025 14:12,0.24,3.27,Sale,Completed
+JO-2504-7940-46553,Y Mall,Y Mall Shmeisani,21/01/2025 14:00,0.24,3.27,Sale,Completed
+JO-2504-4807-70253,C Mall,C Mall Amman,21/01/2025 13:52,0.24,3.27,Sale,Completed
+JO-2504-7192-85792,C Mall,C Mall Aqaba,21/01/2025 13:45,0.18,2.44,Sale,Completed
+JO-2504-1855-30756,Y Mall,Y Mall Dabouq,21/01/2025 13:27,0.49,6.72,Sale,Completed
+JO-2504-9577-80222,Z Mall,Z Mall Al Jubeiha,21/01/2025 13:24,0.25,3.4,Sale,Completed
+JO-2504-8287-33497,Y Mall,Y Mall Shmeisani,21/01/2025 13:05,0.57,7.61,Sale,Completed
+JO-2504-1743-66108,Y Mall,Y Mall Dabouq,21/01/2025 12:54,0.24,3.27,Sale,Completed
+JO-2504-3585-36033,Y Mall,Y Mall Shmeisani,21/01/2025 12:52,0.24,3.27,Sale,Completed
+JO-2504-4064-32395,C Mall,C Mall Aqaba,21/01/2025 12:42,0.66,8.96,Sale,Completed
+JO-2504-5934-61285,C Mall,C Mall Aqaba,21/01/2025 12:28,2.49,33.62,Sale,Completed
+JO-2504-3101-62818,C Mall,C Mall Amman,21/01/2025 12:00,0.66,8.96,Sale,Completed
+JO-2504-7070-86299,Z Mall,Z Mall Gardens,21/01/2025 11:47,0.71,9.64,Sale,Completed
+JO-2504-3632-51505,Y Mall,Y Mall Tla'a Al-Ali,21/01/2025 11:29,0.24,3.27,Sale,Completed
+JO-2504-6302-28580,Z Mall,Z Mall Al Bayader,20/01/2025 20:22,0.78,10.51,Sale,Completed
+JO-2504-6824-78159,C Mall,C Mall Irbid,20/01/2025 19:57,0.66,8.96,Sale,Completed
+JO-2504-3508-79301,C Mall,C Mall Amman,20/01/2025 19:37,1.08,14.52,Sale,Completed
+JO-2504-2494-36601,C Mall,C Mall Irbid,20/01/2025 19:14,0.82,11.01,Sale,Completed
+JO-2504-5391-84520,Y Mall,Y Mall Dabouq,20/01/2025 19:14,0.24,3.27,Sale,Completed
+JO-2504-3481-36730,Z Mall,Z Mall Al Bayader,20/01/2025 19:00,0.24,3.27,Sale,Completed
+JO-2504-9261-72062,C Mall,C Mall Aqaba,20/01/2025 18:35,0.24,3.27,Sale,Completed
+JO-2504-2307-37034,C Mall,C Mall Amman,20/01/2025 18:03,0.66,8.96,Sale,Completed
+JO-2504-5414-33057,C Mall,C Mall Irbid,20/01/2025 17:34,0.34,4.54,Sale,Completed
+JO-2504-2604-35968,Z Mall,Z Mall Al Bayader,20/01/2025 17:32,1.19,15.9,Sale,Completed
+JO-2504-4459-45583,Y Mall,Y Mall Tla'a Al-Ali,20/01/2025 17:28,0.24,3.27,Sale,Completed
+JO-2504-6329-41270,Y Mall,Y Mall Shmeisani,20/01/2025 16:22,0.8,10.78,Sale,Completed
+JO-2504-8647-29950,C Mall,C Mall Amman,20/01/2025 16:15,0.87,11.71,Sale,Completed
+JO-2504-3743-58289,Z Mall,Z Mall Al Bayader,20/01/2025 16:06,0.24,3.27,Sale,Completed
+JO-2504-5113-31539,Y Mall,Y Mall Dabouq,20/01/2025 15:59,0.72,9.82,Sale,Completed
+JO-2504-7768-44828,Z Mall,Z Mall Al Bayader,20/01/2025 15:44,0.47,6.4,Sale,Completed
+JO-2504-8971-20771,Y Mall,Y Mall Tla'a Al-Ali,20/01/2025 15:40,0.48,6.55,Sale,Completed
+JO-2504-9945-80994,Y Mall,Y Mall Shmeisani,20/01/2025 15:35,0.24,3.27,Sale,Completed
+JO-2504-1884-61200,Y Mall,Y Mall Tla'a Al-Ali,20/01/2025 15:12,0.58,7.8,Sale,Completed
+JO-2504-4667-45102,C Mall,C Mall Irbid,20/01/2025 15:07,0.28,3.8,Sale,Completed
+JO-2504-4560-49528,C Mall,C Mall Amman,20/01/2025 15:06,0.45,6.09,Sale,Completed
+JO-2504-8031-88648,C Mall,C Mall Irbid,20/01/2025 14:41,0.42,5.72,Sale,Completed
+JO-2504-3483-36777,Z Mall,Z Mall Al Bayader,20/01/2025 14:38,0.49,6.74,Sale,Completed
+JO-2504-1676-74458,Y Mall,Y Mall Shmeisani,20/01/2025 14:26,0.24,3.27,Sale,Completed
+JO-2504-2320-52892,Z Mall,Z Mall Al Bayader,20/01/2025 14:19,0.14,1.82,Sale,Completed
+JO-2504-6995-31475,Z Mall,Z Mall Gardens,20/01/2025 14:16,0.41,5.56,Sale,Completed
+JO-2504-3326-95485,Y Mall,Y Mall Dabouq,20/01/2025 14:07,0.24,3.27,Sale,Completed
+JO-2504-4415-85551,C Mall,C Mall Aqaba,20/01/2025 14:07,0.66,8.96,Sale,Completed
+JO-2504-2179-79756,Z Mall,Z Mall Al Bayader,20/01/2025 14:02,0.48,6.55,Sale,Completed
+JO-2504-4079-85858,Z Mall,Z Mall Al Jubeiha,20/01/2025 13:56,3.03,41.11,Sale,Completed
+JO-2504-8906-23797,Y Mall,Y Mall Tla'a Al-Ali,20/01/2025 13:48,0.24,3.27,Sale,Completed
+JO-2504-6767-41274,Y Mall,Y Mall Tla'a Al-Ali,20/01/2025 13:37,1.32,17.91,Sale,Completed
+JO-2504-4361-55096,Z Mall,Z Mall Al Jubeiha,20/01/2025 13:36,2.24,30.43,Sale,Completed
+JO-2504-3481-13576,Z Mall,Z Mall Al Jubeiha,20/01/2025 13:25,0.34,4.54,Sale,Completed
+JO-2504-9344-99862,Z Mall,Z Mall Gardens,20/01/2025 12:59,0.24,3.27,Sale,Completed
+JO-2504-6912-84587,Y Mall,Y Mall Dabouq,20/01/2025 11:56,0.42,5.72,Sale,Completed
+JO-2504-6117-48914,C Mall,C Mall Irbid,20/01/2025 11:49,0.49,6.63,Sale,Completed
+JO-2504-2697-47214,Y Mall,Y Mall Tla'a Al-Ali,20/01/2025 11:37,1.3,17.58,Sale,Completed
+JO-2504-2892-21588,Y Mall,Y Mall Shmeisani,20/01/2025 11:29,0.75,10.01,Sale,Completed
+JO-2504-7315-99278,C Mall,C Mall Aqaba,20/01/2025 11:09,0.24,3.27,Sale,Completed
+JO-2504-3448-33797,Z Mall,Z Mall Al Jubeiha,20/01/2025 11:08,0.24,3.27,Sale,Completed
+JO-2504-4196-65298,C Mall,C Mall Amman,20/01/2025 10:38,0.59,7.89,Sale,Completed
+JO-2504-2739-51876,Y Mall,Y Mall Shmeisani,20/01/2025 10:37,0.42,5.67,Sale,Completed
+JO-2504-5593-82592,Z Mall,Z Mall Al Jubeiha,19/01/2025 20:14,1.49,20.17,Sale,Completed
+JO-2504-1725-24687,Y Mall,Y Mall Tla'a Al-Ali,19/01/2025 18:01,0.33,4.45,Sale,Completed
+JO-2504-6199-60876,Y Mall,Y Mall Tla'a Al-Ali,19/01/2025 17:50,0.66,8.96,Sale,Completed
+JO-2504-9968-71754,C Mall,C Mall Aqaba,19/01/2025 17:42,0.09,1.13,Sale,Completed
+JO-2504-2683-64453,C Mall,C Mall Irbid,19/01/2025 17:38,0.06,0.8,Sale,Completed
+JO-2504-8458-29732,Z Mall,Z Mall Al Jubeiha,19/01/2025 17:36,0.11,1.48,Sale,Completed
+JO-2504-1053-53781,C Mall,C Mall Aqaba,19/01/2025 17:27,0.25,3.4,Sale,Completed
+JO-2504-4724-38970,Y Mall,Y Mall Tla'a Al-Ali,19/01/2025 17:27,0.21,2.87,Sale,Completed
+JO-2504-6310-79101,Z Mall,Z Mall Gardens,19/01/2025 17:24,0.66,8.96,Sale,Completed
+JO-2504-4388-73975,C Mall,C Mall Amman,19/01/2025 16:53,1.74,23.63,Sale,Completed
+JO-2504-9985-62713,Y Mall,Y Mall Shmeisani,19/01/2025 16:30,0.24,3.27,Sale,Completed
+JO-2504-9806-37218,Z Mall,Z Mall Al Jubeiha,19/01/2025 16:23,1.43,19.39,Sale,Completed
+JO-2504-1025-39295,Z Mall,Z Mall Al Jubeiha,19/01/2025 16:08,2.47,33.45,Sale,Completed
+JO-2504-6868-33274,Z Mall,Z Mall Gardens,19/01/2025 15:50,0.75,10.01,Sale,Completed
+JO-2504-8214-23471,Z Mall,Z Mall Al Jubeiha,19/01/2025 15:40,0.48,6.55,Sale,Completed
+JO-2504-6348-77026,Z Mall,Z Mall Al Jubeiha,19/01/2025 15:39,1.15,15.54,Sale,Completed
+JO-2504-1223-18566,C Mall,C Mall Amman,19/01/2025 15:32,0.66,8.96,Sale,Completed
+JO-2504-9431-29828,Y Mall,Y Mall Tla'a Al-Ali,19/01/2025 15:06,0.71,9.62,Sale,Completed
+JO-2504-8731-84367,Y Mall,Y Mall Tla'a Al-Ali,19/01/2025 15:04,0.39,5.31,Sale,Completed
+JO-2504-8698-91387,C Mall,C Mall Irbid,19/01/2025 15:01,0.66,8.96,Sale,Completed
+JO-2504-3017-32982,C Mall,C Mall Irbid,19/01/2025 14:59,0.24,3.27,Sale,Completed
+JO-2504-6076-83894,C Mall,C Mall Irbid,19/01/2025 14:42,0.36,4.88,Sale,Completed
+JO-2504-8729-88413,Y Mall,Y Mall Dabouq,19/01/2025 14:28,0.24,3.27,Sale,Completed
+JO-2504-6245-80073,C Mall,C Mall Aqaba,19/01/2025 13:49,0.66,8.96,Sale,Completed
+JO-2504-9308-98478,Z Mall,Z Mall Gardens,19/01/2025 13:41,0.44,5.97,Sale,Completed
+JO-2504-6285-69737,C Mall,C Mall Irbid,19/01/2025 13:27,0.24,3.27,Sale,Completed
+JO-2504-4289-10397,Z Mall,Z Mall Al Bayader,19/01/2025 13:17,0.24,3.27,Sale,Completed
+JO-2504-7214-95685,Z Mall,Z Mall Al Jubeiha,19/01/2025 13:16,0.54,7.26,Sale,Completed
+JO-2504-7071-43266,Z Mall,Z Mall Gardens,19/01/2025 13:11,0.75,10.01,Sale,Completed
+JO-2504-5944-96182,Y Mall,Y Mall Tla'a Al-Ali,19/01/2025 13:10,1.32,17.78,Sale,Completed
+JO-2504-1917-70855,Y Mall,Y Mall Tla'a Al-Ali,19/01/2025 12:57,0.24,3.27,Sale,Completed
+JO-2504-7977-21303,C Mall,C Mall Amman,19/01/2025 12:52,2.12,28.58,Sale,Completed
+JO-2504-7020-86094,Z Mall,Z Mall Gardens,19/01/2025 12:51,0.83,11.17,Sale,Completed
+JO-2504-5741-82694,Y Mall,Y Mall Tla'a Al-Ali,19/01/2025 12:49,0.66,8.96,Sale,Completed
+JO-2504-5699-84586,Y Mall,Y Mall Shmeisani,19/01/2025 12:21,1.32,17.91,Sale,Completed
+JO-2504-7227-98164,Z Mall,Z Mall Al Jubeiha,19/01/2025 12:05,0.24,3.27,Sale,Completed
+JO-2504-7757-21777,C Mall,C Mall Amman,19/01/2025 12:00,0.66,8.96,Sale,Completed
+JO-2504-5496-65453,Z Mall,Z Mall Al Jubeiha,19/01/2025 11:36,0.48,6.55,Sale,Completed
+JO-2504-9893-37702,C Mall,C Mall Irbid,19/01/2025 11:24,0.47,6.35,Sale,Completed
+JO-2504-3588-78549,Y Mall,Y Mall Tla'a Al-Ali,19/01/2025 11:23,0.47,6.4,Sale,Completed
+JO-2504-6171-19432,Y Mall,Y Mall Shmeisani,19/01/2025 10:56,2.01,27.04,Sale,Completed
+JO-2504-4933-49855,Y Mall,Y Mall Dabouq,19/01/2025 10:54,0.81,11,Sale,Completed
+JO-2504-1763-54903,Y Mall,Y Mall Tla'a Al-Ali,19/01/2025 9:50,1.58,21.27,Sale,Completed
+JO-2504-1925-36245,Z Mall,Z Mall Al Bayader,19/01/2025 9:07,1.64,22.12,Sale,Completed
+JO-2504-5517-66814,Y Mall,Y Mall Dabouq,18/01/2025 20:39,0.6,8.11,Sale,Completed
+JO-2504-6386-77792,Y Mall,Y Mall Shmeisani,18/01/2025 18:07,0.75,10.01,Sale,Completed
+JO-2504-1097-35161,C Mall,C Mall Aqaba,18/01/2025 18:03,0.8,10.74,Sale,Completed
+JO-2504-8613-60309,Z Mall,Z Mall Gardens,18/01/2025 17:49,0.77,10.33,Sale,Completed
+JO-2504-8374-90996,Y Mall,Y Mall Tla'a Al-Ali,18/01/2025 17:22,0.66,8.96,Sale,Completed
+JO-2504-2679-53934,Z Mall,Z Mall Al Bayader,18/01/2025 17:02,0.56,7.49,Sale,Completed
+JO-2504-2274-11354,Y Mall,Y Mall Dabouq,18/01/2025 16:48,0.39,5.22,Sale,Completed
+JO-2504-1991-54989,Y Mall,Y Mall Dabouq,18/01/2025 16:31,0.74,9.93,Sale,Completed
+JO-2504-7022-55469,Z Mall,Z Mall Gardens,18/01/2025 16:15,1.13,15.31,Sale,Completed
+JO-2504-9094-29685,Y Mall,Y Mall Shmeisani,18/01/2025 16:14,0.52,6.98,Sale,Completed
+JO-2504-5754-67056,Y Mall,Y Mall Tla'a Al-Ali,18/01/2025 16:01,0.78,10.51,Sale,Completed
+JO-2504-2094-82489,Y Mall,Y Mall Tla'a Al-Ali,18/01/2025 16:01,0.24,3.27,Sale,Completed
+JO-2504-3821-93551,Y Mall,Y Mall Shmeisani,18/01/2025 15:57,0.24,3.27,Sale,Completed
+JO-2504-8954-32325,Y Mall,Y Mall Dabouq,18/01/2025 15:31,1.22,16.45,Sale,Completed
+JO-2504-3642-92603,C Mall,C Mall Aqaba,18/01/2025 15:30,0.66,8.96,Sale,Completed
+JO-2504-2992-61126,Z Mall,Z Mall Gardens,18/01/2025 15:29,0.76,10.18,Sale,Completed
+JO-2504-4042-77611,Z Mall,Z Mall Gardens,18/01/2025 15:25,1.32,17.91,Sale,Completed
+JO-2504-4467-49133,Z Mall,Z Mall Al Jubeiha,18/01/2025 14:52,0.75,10.01,Sale,Completed
+JO-2504-2702-46690,C Mall,C Mall Irbid,18/01/2025 14:51,0.84,11.39,Sale,Completed
+JO-2504-2966-26823,C Mall,C Mall Amman,18/01/2025 14:35,0.24,3.27,Sale,Completed
+JO-2504-3276-76131,C Mall,C Mall Irbid,18/01/2025 14:33,1.41,18.95,Sale,Completed
+JO-2504-3542-53996,C Mall,C Mall Aqaba,18/01/2025 14:29,0.44,5.97,Sale,Completed
+JO-2504-7308-86029,C Mall,C Mall Amman,18/01/2025 14:28,0.48,6.55,Sale,Completed
+JO-2504-5903-90240,Z Mall,Z Mall Gardens,18/01/2025 14:05,0.24,3.27,Sale,Completed
+JO-2504-8299-98103,Y Mall,Y Mall Shmeisani,18/01/2025 14:03,0.99,13.38,Sale,Completed
+JO-2504-9208-19063,C Mall,C Mall Irbid,18/01/2025 13:51,0.75,10.01,Sale,Completed
+JO-2504-5562-92600,Z Mall,Z Mall Gardens,18/01/2025 13:38,0.24,3.27,Sale,Completed
+JO-2504-1861-13773,Z Mall,Z Mall Al Jubeiha,18/01/2025 13:36,0.66,8.96,Sale,Completed
+JO-2504-6682-92675,Z Mall,Z Mall Al Jubeiha,18/01/2025 13:25,0.24,3.27,Sale,Completed
+JO-2504-9001-37894,C Mall,C Mall Irbid,18/01/2025 13:15,0.48,6.55,Sale,Completed
+JO-2504-9878-73256,C Mall,C Mall Irbid,18/01/2025 13:09,0.66,8.96,Sale,Completed
+JO-2504-4795-64304,Y Mall,Y Mall Shmeisani,18/01/2025 13:08,0.42,5.67,Sale,Completed
+JO-2504-9716-55781,C Mall,C Mall Aqaba,18/01/2025 12:45,0.66,8.96,Sale,Completed
+JO-2504-3187-69165,C Mall,C Mall Irbid,18/01/2025 12:44,1.05,14.07,Sale,Completed
+JO-2504-6261-92649,Y Mall,Y Mall Tla'a Al-Ali,18/01/2025 12:42,0.66,8.96,Sale,Completed
+JO-2504-8625-60934,Z Mall,Z Mall Al Bayader,18/01/2025 12:41,0.68,9.19,Sale,Completed
+JO-2504-6147-81870,Y Mall,Y Mall Dabouq,18/01/2025 12:39,0.48,6.55,Sale,Completed
+JO-2504-7734-88662,C Mall,C Mall Aqaba,18/01/2025 12:36,0.24,3.27,Sale,Completed
+JO-2504-1312-39499,Z Mall,Z Mall Al Bayader,18/01/2025 12:35,0.24,3.27,Sale,Completed
+JO-2504-6651-70359,C Mall,C Mall Amman,18/01/2025 12:27,0.28,3.8,Sale,Completed
+JO-2504-9343-70600,C Mall,C Mall Amman,18/01/2025 11:58,0.66,8.96,Sale,Completed
+JO-2504-8829-96407,Z Mall,Z Mall Al Bayader,18/01/2025 11:48,0.39,5.31,Sale,Completed
+JO-2504-8593-60878,Y Mall,Y Mall Shmeisani,18/01/2025 11:46,0.24,3.27,Sale,Completed
+JO-2504-3357-74664,Y Mall,Y Mall Shmeisani,18/01/2025 11:34,0.66,8.96,Sale,Completed
+JO-2504-2596-39143,Z Mall,Z Mall Al Jubeiha,18/01/2025 11:31,1.32,17.91,Sale,Completed
+JO-2504-8937-84342,Y Mall,Y Mall Dabouq,18/01/2025 11:27,0.66,8.96,Sale,Completed
+JO-2504-5151-43094,Z Mall,Z Mall Al Bayader,18/01/2025 11:24,0.25,3.4,Sale,Completed
+JO-2504-3161-45892,C Mall,C Mall Amman,18/01/2025 11:10,0.42,5.57,Sale,Completed
+JO-2504-1360-54682,Z Mall,Z Mall Gardens,18/01/2025 11:08,0.24,3.27,Sale,Completed
+JO-2504-4393-84879,Y Mall,Y Mall Shmeisani,18/01/2025 10:44,0.66,8.96,Sale,Completed
+JO-2504-3080-62145,C Mall,C Mall Aqaba,18/01/2025 10:43,0.24,3.27,Sale,Completed
+JO-2504-4536-15154,C Mall,C Mall Aqaba,18/01/2025 10:18,0.28,3.8,Sale,Completed
+JO-2504-9102-54734,C Mall,C Mall Irbid,18/01/2025 9:53,0.55,7.52,Sale,Completed
+JO-2504-5474-97617,Z Mall,Z Mall Al Bayader,17/01/2025 19:36,1.51,20.36,Sale,Completed
+JO-2504-4385-86617,Z Mall,Z Mall Al Bayader,17/01/2025 19:31,0.41,5.5,Sale,Completed
+JO-2504-1034-83616,Z Mall,Z Mall Al Jubeiha,17/01/2025 17:55,0.06,0.8,Sale,Completed
+JO-2504-9462-20462,C Mall,C Mall Irbid,17/01/2025 17:44,1.41,18.97,Sale,Completed
+JO-2504-6795-34852,C Mall,C Mall Irbid,17/01/2025 17:08,0.34,4.54,Sale,Completed
+JO-2504-7068-44961,C Mall,C Mall Irbid,17/01/2025 16:55,0.27,3.65,Sale,Completed
+JO-2504-1759-99188,Y Mall,Y Mall Shmeisani,17/01/2025 16:52,0.66,8.96,Sale,Completed
+JO-2504-5142-66432,C Mall,C Mall Irbid,17/01/2025 16:42,0.5,6.77,Sale,Completed
+JO-2504-5658-15210,Y Mall,Y Mall Shmeisani,17/01/2025 16:40,0.66,8.96,Sale,Completed
+JO-2504-3915-26976,Y Mall,Y Mall Dabouq,17/01/2025 16:25,0.57,7.66,Sale,Completed
+JO-2504-6303-16477,C Mall,C Mall Aqaba,17/01/2025 16:20,0.24,3.27,Sale,Completed
+JO-2504-8455-43200,C Mall,C Mall Amman,17/01/2025 16:12,0.11,1.48,Sale,Completed
+JO-2504-4879-73517,Y Mall,Y Mall Tla'a Al-Ali,17/01/2025 16:06,0.5,6.8,Sale,Completed
+JO-2504-3971-60370,Y Mall,Y Mall Tla'a Al-Ali,17/01/2025 16:00,0.92,12.47,Sale,Completed
+JO-2504-5147-39300,Z Mall,Z Mall Al Bayader,17/01/2025 15:40,0.42,5.72,Sale,Completed
+JO-2504-4555-54733,Y Mall,Y Mall Shmeisani,17/01/2025 15:38,0.66,8.96,Sale,Completed
+JO-2504-8578-48077,Z Mall,Z Mall Gardens,17/01/2025 15:37,0.44,5.97,Sale,Completed
+JO-2504-2994-42665,C Mall,C Mall Aqaba,17/01/2025 15:36,0.66,8.96,Sale,Completed
+JO-2504-7341-46642,C Mall,C Mall Amman,17/01/2025 15:35,0.47,6.35,Sale,Completed
+JO-2504-2848-71616,Y Mall,Y Mall Tla'a Al-Ali,17/01/2025 15:30,0.25,3.35,Sale,Completed
+JO-2504-3086-94525,C Mall,C Mall Irbid,17/01/2025 15:18,0.28,3.8,Sale,Completed
+JO-2504-3699-83832,Y Mall,Y Mall Dabouq,17/01/2025 15:09,0.66,8.96,Sale,Completed
+JO-2504-2465-27148,C Mall,C Mall Amman,17/01/2025 15:06,1.32,17.91,Sale,Completed
+JO-2504-6179-70002,Z Mall,Z Mall Al Bayader,17/01/2025 14:48,0.24,3.27,Sale,Completed
+JO-2504-6608-46341,Z Mall,Z Mall Al Jubeiha,17/01/2025 14:34,0.5,6.75,Sale,Completed
+JO-2504-1703-59014,Y Mall,Y Mall Dabouq,17/01/2025 14:30,0.55,7.45,Sale,Completed
+JO-2504-3894-44714,Y Mall,Y Mall Shmeisani,17/01/2025 14:24,0.34,4.54,Sale,Completed
+JO-2504-2841-94122,Z Mall,Z Mall Al Bayader,17/01/2025 14:22,1,13.5,Sale,Completed
+JO-2504-6487-54400,Y Mall,Y Mall Shmeisani,17/01/2025 14:18,0.66,8.96,Sale,Completed
+JO-2504-6318-23526,Y Mall,Y Mall Tla'a Al-Ali,17/01/2025 14:12,0.24,3.27,Sale,Completed
+JO-2504-7776-91787,Z Mall,Z Mall Gardens,17/01/2025 14:03,0.25,3.4,Sale,Completed
+JO-2504-2213-38894,Z Mall,Z Mall Al Jubeiha,17/01/2025 13:52,2.42,32.66,Sale,Completed
+JO-2504-7800-60860,C Mall,C Mall Irbid,17/01/2025 13:50,0.24,3.27,Sale,Completed
+JO-2504-5343-17734,Y Mall,Y Mall Dabouq,17/01/2025 13:45,0.83,11.28,Sale,Completed
+JO-2504-9795-11258,Y Mall,Y Mall Shmeisani,17/01/2025 13:33,0.66,8.96,Sale,Completed
+JO-2504-7506-84407,Z Mall,Z Mall Gardens,17/01/2025 13:19,0.66,8.96,Sale,Completed
+JO-2504-5127-33180,C Mall,C Mall Aqaba,17/01/2025 13:17,1.97,26.58,Sale,Completed
+JO-2504-9436-43313,Y Mall,Y Mall Tla'a Al-Ali,17/01/2025 13:12,0.05,0.68,Sale,Completed
+JO-2504-3241-51216,C Mall,C Mall Aqaba,17/01/2025 13:07,0.24,3.27,Sale,Completed
+JO-2504-4601-62680,Z Mall,Z Mall Gardens,17/01/2025 13:00,0.75,10.01,Sale,Completed
+JO-2504-3229-36770,Z Mall,Z Mall Al Jubeiha,17/01/2025 12:48,0.9,12.24,Sale,Completed
+JO-2504-4016-23779,Z Mall,Z Mall Al Jubeiha,17/01/2025 12:38,0.57,7.61,Sale,Completed
+JO-2504-3202-71271,C Mall,C Mall Amman,17/01/2025 12:37,0.66,8.96,Sale,Completed
+JO-2504-5986-75606,Z Mall,Z Mall Al Jubeiha,17/01/2025 12:31,0.82,11.01,Sale,Completed
+JO-2504-7339-78837,C Mall,C Mall Amman,17/01/2025 12:27,0.57,7.61,Sale,Completed
+JO-2504-6646-74494,C Mall,C Mall Amman,17/01/2025 12:13,0.48,6.55,Sale,Completed
+JO-2504-2148-71435,C Mall,C Mall Amman,17/01/2025 12:00,0.82,10.97,Sale,Completed
+JO-2504-3412-90950,Z Mall,Z Mall Al Bayader,17/01/2025 11:58,0.66,8.96,Sale,Completed
+JO-2504-6584-50944,C Mall,C Mall Aqaba,17/01/2025 11:44,0.66,8.96,Sale,Completed
+JO-2504-2720-64285,Y Mall,Y Mall Shmeisani,17/01/2025 11:20,0.66,8.96,Sale,Completed
+JO-2504-5935-14705,Z Mall,Z Mall Al Bayader,17/01/2025 11:17,0.24,3.27,Sale,Completed
+JO-2504-7122-52596,Y Mall,Y Mall Dabouq,17/01/2025 10:42,0.66,8.96,Sale,Completed
+JO-2504-6368-93216,Y Mall,Y Mall Shmeisani,16/01/2025 19:21,1.08,14.52,Sale,Completed
+JO-2504-7179-55001,C Mall,C Mall Amman,16/01/2025 19:05,0.33,4.45,Sale,Completed
+JO-2504-3362-51584,C Mall,C Mall Irbid,16/01/2025 18:00,0.54,7.26,Sale,Completed
+JO-2504-1854-50624,C Mall,C Mall Amman,16/01/2025 17:56,1.94,26.2,Sale,Completed
+JO-2504-2431-92940,Z Mall,Z Mall Al Bayader,16/01/2025 17:50,1.69,22.74,Sale,Completed
+JO-2504-7190-65478,Y Mall,Y Mall Dabouq,16/01/2025 17:39,0.37,4.91,Sale,Completed
+JO-2504-8043-50588,Z Mall,Z Mall Al Jubeiha,16/01/2025 17:34,0.47,6.4,Sale,Completed
+JO-2504-8209-95484,Z Mall,Z Mall Gardens,16/01/2025 16:55,0.66,8.96,Sale,Completed
+JO-2504-7499-11640,C Mall,C Mall Aqaba,16/01/2025 16:35,0.06,0.8,Sale,Completed
+JO-2504-3350-40908,Z Mall,Z Mall Al Jubeiha,16/01/2025 16:18,0.66,8.96,Sale,Completed
+JO-2504-5010-82893,Y Mall,Y Mall Dabouq,16/01/2025 16:10,0.48,6.52,Sale,Completed
+JO-2504-6761-85031,C Mall,C Mall Aqaba,16/01/2025 16:01,0.66,8.96,Sale,Completed
+JO-2504-5294-39707,Y Mall,Y Mall Tla'a Al-Ali,16/01/2025 15:58,0.1,1.36,Sale,Completed
+JO-2504-4479-91125,Z Mall,Z Mall Al Bayader,16/01/2025 15:57,1.03,13.86,Sale,Completed
+JO-2504-7070-96744,Z Mall,Z Mall Al Jubeiha,16/01/2025 15:44,0.05,0.68,Sale,Completed
+JO-2504-7566-79410,Z Mall,Z Mall Al Bayader,16/01/2025 15:41,0.47,6.4,Sale,Completed
+JO-2504-7769-31989,Z Mall,Z Mall Gardens,16/01/2025 15:35,0.34,4.51,Sale,Completed
+JO-2504-7354-10908,C Mall,C Mall Aqaba,16/01/2025 15:33,0.05,0.68,Sale,Completed
+JO-2504-9161-91965,C Mall,C Mall Irbid,16/01/2025 15:14,0.99,13.32,Sale,Completed
+JO-2504-2724-86640,Z Mall,Z Mall Al Jubeiha,16/01/2025 15:12,0.24,3.27,Sale,Completed
+JO-2504-4690-59828,C Mall,C Mall Irbid,16/01/2025 15:10,1.14,15.34,Sale,Completed
+JO-2504-6190-58846,C Mall,C Mall Irbid,16/01/2025 15:08,0.41,5.56,Sale,Completed
+JO-2504-9896-97007,Z Mall,Z Mall Gardens,16/01/2025 15:05,0.41,5.45,Sale,Completed
+JO-2504-1920-34278,Z Mall,Z Mall Al Bayader,16/01/2025 15:00,0.36,4.88,Sale,Completed
+JO-2504-9716-36143,Z Mall,Z Mall Al Bayader,16/01/2025 14:48,1.32,17.91,Sale,Completed
+JO-2504-6454-38056,Z Mall,Z Mall Gardens,16/01/2025 14:42,0.75,10.01,Sale,Completed
+JO-2504-1224-77130,Z Mall,Z Mall Al Jubeiha,16/01/2025 14:34,0.66,8.96,Sale,Completed
+JO-2504-2480-13118,Z Mall,Z Mall Gardens,16/01/2025 14:19,0.44,5.97,Sale,Completed
+JO-2504-9599-60616,Z Mall,Z Mall Gardens,16/01/2025 14:17,0.24,3.27,Sale,Completed
+JO-2504-3764-39525,Z Mall,Z Mall Al Bayader,16/01/2025 14:17,1.43,19.39,Sale,Completed
+JO-2504-7525-68122,Z Mall,Z Mall Al Jubeiha,16/01/2025 14:05,0.66,8.96,Sale,Completed
+JO-2504-9309-49707,Z Mall,Z Mall Al Bayader,16/01/2025 13:52,0.72,9.82,Sale,Completed
+JO-2504-6350-10697,Z Mall,Z Mall Al Bayader,16/01/2025 13:49,0.48,6.55,Sale,Completed
+JO-2504-9321-99507,C Mall,C Mall Aqaba,16/01/2025 13:42,0.28,3.8,Sale,Completed
+JO-2504-5346-96277,C Mall,C Mall Aqaba,16/01/2025 13:41,0.06,0.8,Sale,Completed
+JO-2504-9012-32972,Y Mall,Y Mall Shmeisani,16/01/2025 13:33,0.75,10.01,Sale,Completed
+JO-2504-5585-97829,C Mall,C Mall Irbid,16/01/2025 13:24,0.75,10.01,Sale,Completed
+JO-2504-7664-89931,Y Mall,Y Mall Shmeisani,16/01/2025 13:23,0.75,10.01,Sale,Completed
+JO-2504-2341-30622,C Mall,C Mall Irbid,16/01/2025 12:57,0.42,5.72,Sale,Completed
+JO-2504-2261-49155,C Mall,C Mall Aqaba,16/01/2025 12:55,0.24,3.27,Sale,Completed
+JO-2504-3690-88516,C Mall,C Mall Aqaba,16/01/2025 12:54,1.08,14.68,Sale,Completed
+JO-2504-3553-84469,Y Mall,Y Mall Dabouq,16/01/2025 12:20,0.48,6.55,Sale,Completed
+JO-2504-1890-16455,Z Mall,Z Mall Al Jubeiha,16/01/2025 12:17,0.24,3.27,Sale,Completed
+JO-2504-2106-24264,C Mall,C Mall Aqaba,16/01/2025 12:11,1.08,14.67,Sale,Completed
+JO-2504-2550-18177,Z Mall,Z Mall Al Jubeiha,16/01/2025 12:10,0.24,3.27,Sale,Completed
+JO-2504-7692-10459,Z Mall,Z Mall Al Jubeiha,16/01/2025 12:05,0.34,4.54,Sale,Completed
+JO-2504-2190-86062,Y Mall,Y Mall Tla'a Al-Ali,16/01/2025 12:04,0.24,3.27,Sale,Completed
+JO-2504-7186-91031,Y Mall,Y Mall Dabouq,16/01/2025 12:03,0.42,5.67,Sale,Completed
+JO-2504-6698-59880,C Mall,C Mall Aqaba,16/01/2025 12:02,0.66,8.96,Sale,Completed
+JO-2504-8407-99958,C Mall,C Mall Amman,16/01/2025 12:01,0.89,12.07,Sale,Completed
+JO-2504-1919-36705,C Mall,C Mall Amman,16/01/2025 11:48,0.81,11,Sale,Completed
+JO-2504-4288-15546,Z Mall,Z Mall Al Bayader,16/01/2025 11:16,0.66,8.96,Sale,Completed
+JO-2504-2954-39432,Y Mall,Y Mall Shmeisani,16/01/2025 11:14,0.66,8.96,Sale,Completed
+JO-2504-4784-50650,C Mall,C Mall Irbid,16/01/2025 11:06,0.65,8.79,Sale,Completed
+JO-2504-1251-45899,C Mall,C Mall Aqaba,16/01/2025 10:13,0.72,9.82,Sale,Completed
+JO-2504-4874-67805,C Mall,C Mall Aqaba,16/01/2025 9:21,0.42,5.72,Sale,Completed
+JO-2504-2413-56067,Y Mall,Y Mall Dabouq,15/01/2025 18:40,0.66,8.96,Sale,Completed
+JO-2504-2581-54784,Z Mall,Z Mall Al Bayader,15/01/2025 18:35,0.66,8.96,Sale,Completed
+JO-2504-3323-67928,Z Mall,Z Mall Al Bayader,15/01/2025 18:00,0.25,3.35,Sale,Completed
+JO-2504-9486-97316,Y Mall,Y Mall Shmeisani,15/01/2025 17:54,1.46,19.65,Sale,Completed
+JO-2504-5301-30642,Z Mall,Z Mall Al Jubeiha,15/01/2025 17:46,0.04,0.57,Sale,Completed
+JO-2504-8001-73811,C Mall,C Mall Amman,15/01/2025 17:44,0.93,12.59,Sale,Completed
+JO-2504-1095-56612,C Mall,C Mall Amman,15/01/2025 17:37,0.75,10.01,Sale,Completed
+JO-2504-9770-72179,Z Mall,Z Mall Al Jubeiha,15/01/2025 17:35,0.71,9.64,Sale,Completed
+JO-2504-1511-31075,C Mall,C Mall Irbid,15/01/2025 16:57,1.94,26.3,Sale,Completed
+JO-2504-7910-43754,Z Mall,Z Mall Gardens,15/01/2025 16:56,1.81,24.44,Sale,Completed
+JO-2504-9170-72834,Y Mall,Y Mall Shmeisani,15/01/2025 16:52,0.36,4.77,Sale,Completed
+JO-2504-5417-30046,Y Mall,Y Mall Dabouq,15/01/2025 16:48,0.75,10.01,Sale,Completed
+JO-2504-4295-80915,Y Mall,Y Mall Dabouq,15/01/2025 16:47,0.66,8.96,Sale,Completed
+JO-2504-3320-72955,Z Mall,Z Mall Gardens,15/01/2025 16:43,0.31,4.21,Sale,Completed
+JO-2504-8524-78882,Z Mall,Z Mall Gardens,15/01/2025 16:30,1.08,14.68,Sale,Completed
+JO-2504-3478-10861,C Mall,C Mall Aqaba,15/01/2025 16:12,1.32,17.91,Sale,Completed
+JO-2504-6501-92357,C Mall,C Mall Irbid,15/01/2025 15:36,0.24,3.27,Sale,Completed
+JO-2504-1259-64336,C Mall,C Mall Amman,15/01/2025 15:31,0.66,8.96,Sale,Completed
+JO-2504-7360-49820,Z Mall,Z Mall Al Bayader,15/01/2025 15:04,0.66,8.96,Sale,Completed
+JO-2504-1452-25813,Y Mall,Y Mall Tla'a Al-Ali,15/01/2025 15:00,0.24,3.27,Sale,Completed
+JO-2504-6276-90904,C Mall,C Mall Aqaba,15/01/2025 14:52,0.52,7.07,Sale,Completed
+JO-2504-1911-78848,C Mall,C Mall Irbid,15/01/2025 14:33,0.66,8.96,Sale,Completed
+JO-2504-6020-13577,Z Mall,Z Mall Al Jubeiha,15/01/2025 14:01,0.24,3.27,Sale,Completed
+JO-2504-3843-41904,C Mall,C Mall Irbid,15/01/2025 13:35,1.41,18.97,Sale,Completed
+JO-2504-1549-70147,Z Mall,Z Mall Al Jubeiha,15/01/2025 13:33,0.24,3.27,Sale,Completed
+JO-2504-9232-18233,Y Mall,Y Mall Dabouq,15/01/2025 13:12,0.48,6.55,Sale,Completed
+JO-2504-9809-20285,Z Mall,Z Mall Gardens,15/01/2025 13:05,1.32,17.91,Sale,Completed
+JO-2504-2371-24631,C Mall,C Mall Amman,15/01/2025 12:59,0.24,3.27,Sale,Completed
+JO-2504-2202-83886,Z Mall,Z Mall Al Jubeiha,15/01/2025 12:56,0.24,3.27,Sale,Completed
+JO-2504-7687-96729,Z Mall,Z Mall Gardens,15/01/2025 12:55,1.48,19.96,Sale,Completed
+JO-2504-6088-16898,Z Mall,Z Mall Al Bayader,15/01/2025 12:49,0.24,3.27,Sale,Completed
+JO-2504-2824-13361,Z Mall,Z Mall Al Bayader,15/01/2025 12:48,0.66,8.96,Sale,Completed
+JO-2504-9915-57024,C Mall,C Mall Aqaba,15/01/2025 11:52,0.46,6.24,Sale,Completed
+JO-2504-9679-31089,C Mall,C Mall Irbid,15/01/2025 11:52,0.66,8.96,Sale,Completed
+JO-2504-2243-67689,Z Mall,Z Mall Al Jubeiha,15/01/2025 10:51,0.34,4.54,Sale,Completed
+JO-2504-6978-73024,Y Mall,Y Mall Dabouq,15/01/2025 10:50,1.26,17.06,Sale,Completed
+JO-2504-1813-96119,Y Mall,Y Mall Dabouq,15/01/2025 10:42,0.24,3.27,Sale,Completed
+JO-2504-7357-76338,Z Mall,Z Mall Al Jubeiha,15/01/2025 10:22,0.48,6.55,Sale,Completed
+JO-2504-3032-91963,Z Mall,Z Mall Al Jubeiha,15/01/2025 9:58,1.3,17.58,Sale,Completed
+JO-2504-6922-34103,Z Mall,Z Mall Al Jubeiha,15/01/2025 9:23,0.24,3.27,Sale,Completed
+JO-2504-9995-40631,Z Mall,Z Mall Al Bayader,14/01/2025 17:53,0.05,0.68,Sale,Completed
+JO-2504-2419-70462,Z Mall,Z Mall Gardens,14/01/2025 17:50,0.75,10.01,Sale,Completed
+JO-2504-5329-70302,C Mall,C Mall Amman,14/01/2025 16:58,0.77,10.43,Sale,Completed
+JO-2504-8691-31415,C Mall,C Mall Irbid,14/01/2025 16:42,0.66,8.96,Sale,Completed
+JO-2504-9174-48821,Y Mall,Y Mall Dabouq,14/01/2025 16:41,0.12,1.56,Sale,Completed
+JO-2504-5467-98399,C Mall,C Mall Amman,14/01/2025 16:13,0.44,6.02,Sale,Completed
+JO-2504-5914-88277,Z Mall,Z Mall Al Bayader,14/01/2025 16:12,0.87,11.79,Sale,Completed
+JO-2504-4687-84200,Y Mall,Y Mall Tla'a Al-Ali,14/01/2025 15:57,0.24,3.27,Sale,Completed
+JO-2504-5243-20793,Y Mall,Y Mall Shmeisani,14/01/2025 15:56,0.12,1.61,Sale,Completed
+JO-2504-9160-75320,Y Mall,Y Mall Shmeisani,14/01/2025 15:44,0.06,0.8,Sale,Completed
+JO-2504-4117-93104,C Mall,C Mall Amman,14/01/2025 15:43,0.47,6.4,Sale,Completed
+JO-2504-7360-72091,Z Mall,Z Mall Al Bayader,14/01/2025 15:37,0.24,3.27,Sale,Completed
+JO-2504-1850-14818,Y Mall,Y Mall Tla'a Al-Ali,14/01/2025 15:36,0.48,6.55,Sale,Completed
+JO-2504-9377-91688,Z Mall,Z Mall Gardens,14/01/2025 15:35,0.24,3.27,Sale,Completed
+JO-2504-8226-29222,Z Mall,Z Mall Al Bayader,14/01/2025 15:31,1.32,17.91,Sale,Completed
+JO-2504-4611-70667,Y Mall,Y Mall Dabouq,14/01/2025 15:25,0.57,7.61,Sale,Completed
+JO-2504-9515-24854,Z Mall,Z Mall Gardens,14/01/2025 14:38,0.48,6.55,Sale,Completed
+JO-2504-2865-24804,Y Mall,Y Mall Tla'a Al-Ali,14/01/2025 14:36,0.9,12.19,Sale,Completed
+JO-2504-8322-17172,C Mall,C Mall Aqaba,14/01/2025 14:21,0.48,6.55,Sale,Completed
+JO-2504-7903-80240,C Mall,C Mall Irbid,14/01/2025 14:08,0.29,3.9,Sale,Completed
+JO-2504-3976-80192,C Mall,C Mall Aqaba,14/01/2025 13:48,0.62,8.42,Sale,Completed
+JO-2504-9189-11917,Z Mall,Z Mall Al Jubeiha,14/01/2025 13:48,0.82,11.01,Sale,Completed
+JO-2504-8388-87082,Y Mall,Y Mall Dabouq,14/01/2025 13:48,0.5,6.8,Sale,Completed
+JO-2504-1882-32359,C Mall,C Mall Irbid,14/01/2025 13:47,0.66,8.96,Sale,Completed
+JO-2504-2510-17843,Z Mall,Z Mall Al Jubeiha,14/01/2025 13:19,0.24,3.27,Sale,Completed
+JO-2504-1372-45557,Z Mall,Z Mall Gardens,14/01/2025 13:13,0.24,3.27,Sale,Completed
+JO-2504-4499-45254,Y Mall,Y Mall Dabouq,14/01/2025 13:08,1,13.56,Sale,Completed
+JO-2504-2168-48663,Z Mall,Z Mall Gardens,14/01/2025 13:07,0.66,8.96,Sale,Completed
+JO-2504-7218-97640,Y Mall,Y Mall Dabouq,14/01/2025 13:04,0.24,3.27,Sale,Completed
+JO-2504-7479-61091,Y Mall,Y Mall Tla'a Al-Ali,14/01/2025 13:04,0.75,9.99,Sale,Completed
+JO-2504-6616-95768,Y Mall,Y Mall Tla'a Al-Ali,14/01/2025 12:49,0.48,6.55,Sale,Completed
+JO-2504-5957-96860,Z Mall,Z Mall Gardens,14/01/2025 12:47,0.96,12.93,Sale,Completed
+JO-2504-1280-36648,Y Mall,Y Mall Dabouq,14/01/2025 12:43,0.66,8.96,Sale,Completed
+JO-2504-7389-44494,Y Mall,Y Mall Dabouq,14/01/2025 12:42,1.02,13.78,Sale,Completed
+JO-2504-6638-60559,Z Mall,Z Mall Al Jubeiha,14/01/2025 12:11,0.66,8.96,Sale,Completed
+JO-2504-1894-19134,Y Mall,Y Mall Dabouq,14/01/2025 12:08,0.28,3.8,Sale,Completed
+JO-2504-3980-24306,Y Mall,Y Mall Tla'a Al-Ali,14/01/2025 11:37,2.11,28.57,Sale,Completed
+JO-2504-6098-75924,C Mall,C Mall Aqaba,14/01/2025 11:34,0.51,6.92,Sale,Completed
+JO-2504-3701-96061,C Mall,C Mall Amman,14/01/2025 11:25,0.47,6.4,Sale,Completed
+JO-2504-5341-50460,C Mall,C Mall Aqaba,14/01/2025 10:38,3.18,43.08,Sale,Completed
+JO-2504-1844-73482,C Mall,C Mall Aqaba,14/01/2025 10:26,0.41,5.45,Sale,Completed
+JO-2504-5767-40114,C Mall,C Mall Amman,14/01/2025 10:25,0.24,3.27,Sale,Completed
+JO-2504-4040-42929,Y Mall,Y Mall Dabouq,14/01/2025 10:19,1.32,17.91,Sale,Completed
+JO-2504-3463-11894,C Mall,C Mall Irbid,14/01/2025 9:55,0.66,8.96,Sale,Completed
+JO-2504-7426-78207,Y Mall,Y Mall Dabouq,13/01/2025 20:02,0.78,10.51,Sale,Completed
+JO-2504-8842-85803,Y Mall,Y Mall Dabouq,13/01/2025 18:59,0.24,3.27,Sale,Completed
+JO-2504-4961-80640,Y Mall,Y Mall Shmeisani,13/01/2025 18:53,0.11,1.58,Sale,Completed
+JO-2504-2903-43165,Z Mall,Z Mall Al Jubeiha,13/01/2025 18:51,0.66,8.96,Sale,Completed
+JO-2504-8759-17781,Y Mall,Y Mall Tla'a Al-Ali,13/01/2025 18:42,0.64,8.6,Sale,Completed
+JO-2504-9771-71842,C Mall,C Mall Amman,13/01/2025 18:04,0.66,8.96,Sale,Completed
+JO-2504-6555-89756,Y Mall,Y Mall Shmeisani,13/01/2025 18:01,0.66,8.96,Sale,Completed
+JO-2504-1026-12223,Y Mall,Y Mall Dabouq,13/01/2025 17:39,0.66,8.96,Sale,Completed
+JO-2504-8728-41956,C Mall,C Mall Amman,13/01/2025 16:36,0.75,10.01,Sale,Completed
+JO-2504-4788-41785,Y Mall,Y Mall Dabouq,13/01/2025 16:03,2.65,35.73,Sale,Completed
+JO-2504-4725-28325,Z Mall,Z Mall Al Jubeiha,13/01/2025 15:50,0.81,10.88,Sale,Completed
+JO-2504-5304-33761,C Mall,C Mall Amman,13/01/2025 15:18,0.49,6.69,Sale,Completed
+JO-2504-2135-94376,Z Mall,Z Mall Gardens,13/01/2025 15:04,0.24,3.27,Sale,Completed
+JO-2504-5494-83170,Z Mall,Z Mall Al Jubeiha,13/01/2025 14:45,0.24,3.27,Sale,Completed
+JO-2504-5311-94934,C Mall,C Mall Aqaba,13/01/2025 14:44,0.24,3.27,Sale,Completed
+JO-2504-3830-81787,Z Mall,Z Mall Al Jubeiha,13/01/2025 14:44,0.25,3.4,Sale,Completed
+JO-2504-3345-60192,C Mall,C Mall Irbid,13/01/2025 14:42,0.24,3.27,Sale,Completed
+JO-2504-2436-16917,Z Mall,Z Mall Gardens,13/01/2025 14:34,0.66,8.96,Sale,Completed
+JO-2504-8765-29156,Z Mall,Z Mall Al Bayader,13/01/2025 14:15,0.24,3.27,Sale,Completed
+JO-2504-3885-82277,Y Mall,Y Mall Tla'a Al-Ali,13/01/2025 14:11,0.24,3.27,Sale,Completed
+JO-2504-4990-86421,C Mall,C Mall Aqaba,13/01/2025 14:06,0.05,0.68,Sale,Completed
+JO-2504-8424-43416,C Mall,C Mall Aqaba,13/01/2025 14:05,0.84,11.39,Sale,Completed
+JO-2504-4479-30048,Z Mall,Z Mall Gardens,13/01/2025 14:03,0.24,3.27,Sale,Completed
+JO-2504-9268-76957,Y Mall,Y Mall Tla'a Al-Ali,13/01/2025 13:56,0.16,2.16,Sale,Completed
+JO-2504-9925-23337,C Mall,C Mall Amman,13/01/2025 13:53,0.66,8.96,Sale,Completed
+JO-2504-8643-89255,Y Mall,Y Mall Dabouq,13/01/2025 13:50,0.75,10.01,Sale,Completed
+JO-2504-1308-51509,Y Mall,Y Mall Dabouq,13/01/2025 13:46,0.34,4.54,Sale,Completed
+JO-2504-8412-32446,Y Mall,Y Mall Tla'a Al-Ali,13/01/2025 13:43,0.24,3.27,Sale,Completed
+JO-2504-9525-23124,Z Mall,Z Mall Gardens,13/01/2025 13:27,0.24,3.27,Sale,Completed
+JO-2504-9410-78972,C Mall,C Mall Irbid,13/01/2025 13:26,0.24,3.27,Sale,Completed
+JO-2504-1788-74478,C Mall,C Mall Amman,13/01/2025 13:25,0.24,3.27,Sale,Completed
+JO-2504-7230-13536,Z Mall,Z Mall Gardens,13/01/2025 13:17,0.24,3.27,Sale,Completed
+JO-2504-4407-42767,Y Mall,Y Mall Dabouq,13/01/2025 13:12,0.66,8.96,Sale,Completed
+JO-2504-6895-57457,Y Mall,Y Mall Shmeisani,13/01/2025 12:51,0.76,10.26,Sale,Completed
+JO-2504-6256-43067,Y Mall,Y Mall Tla'a Al-Ali,13/01/2025 12:48,0.66,8.96,Sale,Completed
+JO-2504-1845-49431,Y Mall,Y Mall Dabouq,13/01/2025 12:32,0.75,10.01,Sale,Completed
+JO-2504-9531-90889,Z Mall,Z Mall Gardens,13/01/2025 12:23,0.24,3.27,Sale,Completed
+JO-2504-8107-43935,C Mall,C Mall Amman,13/01/2025 12:09,0.39,5.31,Sale,Completed
+JO-2504-7554-70230,Y Mall,Y Mall Shmeisani,13/01/2025 12:08,0.24,3.27,Sale,Completed
+JO-2504-1768-13014,Y Mall,Y Mall Dabouq,13/01/2025 12:04,0.41,5.56,Sale,Completed
+JO-2504-4779-19774,Y Mall,Y Mall Shmeisani,13/01/2025 11:52,0.24,3.27,Sale,Completed
+JO-2504-9875-47643,Z Mall,Z Mall Gardens,13/01/2025 11:51,0.66,8.96,Sale,Completed
+JO-2504-7762-99646,Z Mall,Z Mall Gardens,13/01/2025 11:50,1.15,15.54,Sale,Completed
+JO-2504-8785-97332,C Mall,C Mall Amman,13/01/2025 11:44,0.28,3.8,Sale,Completed
+JO-2504-3342-66637,C Mall,C Mall Amman,13/01/2025 11:43,0.81,11,Sale,Completed
+JO-2504-2281-64261,Y Mall,Y Mall Tla'a Al-Ali,13/01/2025 11:34,0.24,3.27,Sale,Completed
+JO-2504-5317-40192,C Mall,C Mall Aqaba,13/01/2025 11:06,0.24,3.27,Sale,Completed
+JO-2504-1491-51609,Z Mall,Z Mall Al Bayader,13/01/2025 11:00,0.25,3.4,Sale,Completed
+JO-2504-9749-70537,Y Mall,Y Mall Dabouq,13/01/2025 10:36,0.41,5.56,Sale,Completed
+JO-2504-5854-37907,C Mall,C Mall Amman,13/01/2025 9:08,0.11,1.48,Sale,Completed
+JO-2504-1270-87266,C Mall,C Mall Aqaba,12/01/2025 20:14,0.7,9.54,Sale,Completed
+JO-2504-3686-96583,Z Mall,Z Mall Gardens,12/01/2025 19:20,0.24,3.27,Sale,Completed
+JO-2504-6965-29284,C Mall,C Mall Irbid,12/01/2025 17:27,0.66,8.96,Sale,Completed
+JO-2504-4604-22313,Z Mall,Z Mall Al Jubeiha,12/01/2025 16:46,0.68,9.19,Sale,Completed
+JO-2504-2973-45539,C Mall,C Mall Aqaba,12/01/2025 16:19,0.24,3.23,Sale,Completed
+JO-2504-8799-47508,Z Mall,Z Mall Al Bayader,12/01/2025 16:14,0.22,2.95,Sale,Completed
+JO-2504-6347-91839,Z Mall,Z Mall Gardens,12/01/2025 16:08,0.75,10.01,Sale,Completed
+JO-2504-6621-29091,C Mall,C Mall Irbid,12/01/2025 15:33,0.36,4.88,Sale,Completed
+JO-2504-3792-41010,Z Mall,Z Mall Gardens,12/01/2025 15:26,0.24,3.27,Sale,Completed
+JO-2504-5972-99752,Y Mall,Y Mall Shmeisani,12/01/2025 14:59,0.44,5.97,Sale,Completed
+JO-2504-6707-55612,C Mall,C Mall Amman,12/01/2025 14:58,0.24,3.27,Sale,Completed
+JO-2504-1782-61910,C Mall,C Mall Irbid,12/01/2025 14:47,0.24,3.27,Sale,Completed
+JO-2504-2026-21510,Z Mall,Z Mall Al Bayader,12/01/2025 14:42,0.24,3.27,Sale,Completed
+JO-2504-4558-54697,Y Mall,Y Mall Shmeisani,12/01/2025 14:39,0.76,10.21,Sale,Completed
+JO-2504-8356-46589,C Mall,C Mall Aqaba,12/01/2025 14:36,0.41,5.45,Sale,Completed
+JO-2504-8536-57158,Y Mall,Y Mall Tla'a Al-Ali,12/01/2025 14:10,0.37,4.95,Sale,Completed
+JO-2504-7095-86974,Y Mall,Y Mall Dabouq,12/01/2025 13:54,0.98,13.16,Sale,Completed
+JO-2504-9835-44527,Y Mall,Y Mall Shmeisani,12/01/2025 13:50,0.24,3.27,Sale,Completed
+JO-2504-4229-72297,C Mall,C Mall Irbid,12/01/2025 13:43,0.48,6.55,Sale,Completed
+JO-2504-7491-24857,C Mall,C Mall Aqaba,12/01/2025 13:25,0.24,3.27,Sale,Completed
+JO-2504-2685-94471,Z Mall,Z Mall Al Jubeiha,12/01/2025 13:23,0.76,10.11,Sale,Completed
+JO-2504-4930-55647,Z Mall,Z Mall Al Jubeiha,12/01/2025 13:19,0.24,3.27,Sale,Completed
+JO-2504-8024-53851,Y Mall,Y Mall Tla'a Al-Ali,12/01/2025 13:11,0.24,3.27,Sale,Completed
+JO-2504-5675-10152,C Mall,C Mall Irbid,12/01/2025 13:03,0.77,10.36,Sale,Completed
+JO-2504-7445-81559,C Mall,C Mall Irbid,12/01/2025 12:48,0.28,3.8,Sale,Completed
+JO-2504-7239-74395,C Mall,C Mall Irbid,12/01/2025 12:28,0.49,6.63,Sale,Completed
+JO-2504-7857-15241,C Mall,C Mall Amman,12/01/2025 12:27,0.24,3.27,Sale,Completed
+JO-2504-8405-53394,Z Mall,Z Mall Al Jubeiha,12/01/2025 11:43,0.24,3.27,Sale,Completed
+JO-2504-3718-38724,Y Mall,Y Mall Dabouq,12/01/2025 11:31,0.66,8.96,Sale,Completed
+JO-2504-8127-75979,Z Mall,Z Mall Al Jubeiha,12/01/2025 11:26,0.75,10.01,Sale,Completed
+JO-2504-7513-77889,Y Mall,Y Mall Tla'a Al-Ali,12/01/2025 11:16,1.46,19.75,Sale,Completed
+JO-2504-2202-41210,C Mall,C Mall Aqaba,12/01/2025 11:13,0.66,8.96,Sale,Completed
+JO-2504-6215-32650,Z Mall,Z Mall Al Jubeiha,12/01/2025 10:22,0.66,8.96,Sale,Completed
+JO-2504-1926-65230,Z Mall,Z Mall Al Jubeiha,12/01/2025 10:04,0.82,11.06,Sale,Completed
+JO-2504-7298-91626,Y Mall,Y Mall Dabouq,12/01/2025 10:04,0.66,8.96,Sale,Completed
+JO-2504-5209-98804,Z Mall,Z Mall Al Bayader,12/01/2025 9:52,0.44,5.97,Sale,Completed
+JO-2504-8770-42515,Y Mall,Y Mall Dabouq,12/01/2025 9:42,0.66,8.96,Sale,Completed
